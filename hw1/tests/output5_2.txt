@@ -1,0 +1,9 @@
+Sorted container:
+Container contains 7 numbers.
+0: It is a fraction: Numerator = 5, Imaginary = 1. Converted to real = 5
+1: It is Complex number: Real = 3, Imaginary = 4. Converted to real = 5
+2: It is a polar number: Angle = 0, Radius = 5. Converted to real = 5
+3: It is a polar number: Angle = 1, Radius = 5. Converted to real = 5
+4: It is a polar number: Angle = 4, Radius = 5. Converted to real = 5
+5: It is a fraction: Numerator = 20, Imaginary = 4. Converted to real = 5
+6: It is a fraction: Numerator = 100, Imaginary = 20. Converted to real = 5

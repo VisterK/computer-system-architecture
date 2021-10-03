@@ -1,0 +1,16 @@
+Sorted container:
+Container contains 14 numbers.
+0: It is a fraction: Numerator = 1, Imaginary = 2. Converted to real = 0.5
+1: It is a fraction: Numerator = 1, Imaginary = 2. Converted to real = 0.5
+2: It is a fraction: Numerator = 1, Imaginary = 2. Converted to real = 0.5
+3: It is a fraction: Numerator = 1, Imaginary = 2. Converted to real = 0.5
+4: It is a fraction: Numerator = 1, Imaginary = 2. Converted to real = 0.5
+5: It is a fraction: Numerator = 1, Imaginary = 2. Converted to real = 0.5
+6: It is a fraction: Numerator = 1, Imaginary = 2. Converted to real = 0.5
+7: It is Complex number: Real = 1, Imaginary = 1. Converted to real = 1.41421
+8: It is Complex number: Real = 1, Imaginary = 1. Converted to real = 1.41421
+9: It is Complex number: Real = 1, Imaginary = 1. Converted to real = 1.41421
+10: It is Complex number: Real = 1, Imaginary = 1. Converted to real = 1.41421
+11: It is Complex number: Real = 1, Imaginary = 1. Converted to real = 1.41421
+12: It is Complex number: Real = 1, Imaginary = 1. Converted to real = 1.41421
+13: It is Complex number: Real = 1, Imaginary = 1. Converted to real = 1.41421

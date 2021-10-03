@@ -1,0 +1,13 @@
+Filled container:
+Container contains 11 numbers.
+0: It is Complex number: Real = 1, Imaginary = 1. Converted to real = 1.41421
+1: It is Complex number: Real = 2, Imaginary = 0. Converted to real = 2
+2: It is Complex number: Real = 0, Imaginary = 3. Converted to real = 3
+3: It is Complex number: Real = 0, Imaginary = 0. Converted to real = 0
+4: It is a fraction: Numerator = 0, Imaginary = 1. Converted to real = 0
+5: It is a fraction: Numerator = 0, Imaginary = 5. Converted to real = 0
+6: It is a fraction: Numerator = 10, Imaginary = 1. Converted to real = 10
+7: It is a polar number: Angle = 0, Radius = 0. Converted to real = 0
+8: It is a polar number: Angle = 0, Radius = 5. Converted to real = 5
+9: It is a polar number: Angle = 5, Radius = 0. Converted to real = 0
+10: It is Complex number: Real = 0, Imaginary = 0. Converted to real = 0

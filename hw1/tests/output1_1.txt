@@ -1,0 +1,6 @@
+Filled container:
+Container contains 4 numbers.
+0: It is Complex number: Real = 2, Imaginary = 5. Converted to real = 5.38516
+1: It is a polar number: Angle = 5, Radius = 6. Converted to real = 6
+2: It is Complex number: Real = 4, Imaginary = 7. Converted to real = 8.06226
+3: It is a fraction: Numerator = 10, Imaginary = 30. Converted to real = 0.333333

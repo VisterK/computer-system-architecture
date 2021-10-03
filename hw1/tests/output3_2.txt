@@ -1,0 +1,8 @@
+Sorted container:
+Container contains 6 numbers.
+0: It is a fraction: Numerator = 1000, Imaginary = 2000. Converted to real = 0.5
+1: It is a fraction: Numerator = 2000, Imaginary = 1000. Converted to real = 2
+2: It is a polar number: Angle = 2000, Radius = 1000. Converted to real = 1000
+3: It is Complex number: Real = 1000, Imaginary = 2000. Converted to real = 2236.07
+4: It is Complex number: Real = 2000, Imaginary = 1000. Converted to real = 2236.07
+5: It is a polar number: Angle = 2000, Radius = 3000. Converted to real = 3000
