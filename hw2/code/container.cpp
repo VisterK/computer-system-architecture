@@ -19,37 +19,33 @@ Container::~Container(){
 }
 
 
-void Container::In(FILE* input) {
+void Container::In(FILE* input = nullptr) {
     for (int i = 0; i < size; ++i) {
         int type;
-        fscanf(input, "%d", &type);
+        if(input == nullptr) {
+            type = Random() % 3 + 1;
+        }
+        else{
+            fscanf(input, "%d", &type);
+        }
         if (type == 1) {
-            cont[i] = CreateNumber(0, input);
+            Number* new_complex = new Complex();
+            new_complex->CreateNumber(input);
+            cont[i] = new_complex;
         }
         else if (type == 2) {
-            cont[i] = CreateNumber(1, input);
+            Number* new_fraction = new Fraction();
+            new_fraction->CreateNumber(input);
+            cont[i] = new_fraction;
         }
         else if(type == 3) {
-            cont[i] = CreateNumber(2, input);
+            Number* new_polar = new Polar();
+            new_polar->CreateNumber(input);
+            cont[i] = new_polar;
         }
     }
 }
 
-
-void Container::InRnd() {
-    for (int i = 0; i < size; ++i) {
-        int k = Random() % 3;
-        if (k == 0) {
-            cont[i] = CreateNumber(0, nullptr);
-        }
-        else if (k == 1) {
-            cont[i] = CreateNumber(1, nullptr);
-        }
-        else if(k == 2) {
-            cont[i] = CreateNumber(2, nullptr);
-        }
-    }
-}
 
 void Container::Out(FILE* out) {
     for(int i = 0; i < size; ++i) {

@@ -50,7 +50,7 @@ int main(int argc, char* argv[]) {
         }
         srand(static_cast<unsigned int>(time(0)));
         cont = new Container(size);
-        cont->InRnd();
+        cont->In(nullptr);
     }
     else {
         errMessage2();

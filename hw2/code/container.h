@@ -15,7 +15,7 @@ public:
     Container(int size);
 
     void In(FILE* in);
-    void InRnd();
+    //void InRnd();
     void Out(FILE* out);
     void Clear();
 
