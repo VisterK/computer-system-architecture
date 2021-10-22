@@ -1,0 +1,21 @@
+Filled container:
+This is a polar number:
+Real: 2.000000
+Imaginary: 5.000000
+Converted to real: 5.385165
+
+This is a polar number:
+angle: 5.000000
+radius: 6.000000
+Converted to real: 6.000000
+
+This is a polar number:
+Real: 4.000000
+Imaginary: 7.000000
+Converted to real: 8.062258
+
+This is a polar number:
+Numerator: 10
+Denominator: 30
+Converted to real: 0.333333
+

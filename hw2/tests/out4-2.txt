@@ -1,0 +1,101 @@
+Sorted container complete:
+This is a polar number:
+Numerator: 1
+Denominator: 2
+Converted to real: 0.500000
+
+This is a polar number:
+Numerator: 1
+Denominator: 2
+Converted to real: 0.500000
+
+This is a polar number:
+Numerator: 1
+Denominator: 2
+Converted to real: 0.500000
+
+This is a polar number:
+Numerator: 1
+Denominator: 2
+Converted to real: 0.500000
+
+This is a polar number:
+Numerator: 1
+Denominator: 2
+Converted to real: 0.500000
+
+This is a polar number:
+Numerator: 1
+Denominator: 2
+Converted to real: 0.500000
+
+This is a polar number:
+Numerator: 1
+Denominator: 2
+Converted to real: 0.500000
+
+This is a polar number:
+Numerator: 1
+Denominator: 2
+Converted to real: 0.500000
+
+This is a polar number:
+Numerator: 1
+Denominator: 2
+Converted to real: 0.500000
+
+This is a polar number:
+Numerator: 1
+Denominator: 2
+Converted to real: 0.500000
+
+This is a polar number:
+Real: 1.000000
+Imaginary: 1.000000
+Converted to real: 1.414214
+
+This is a polar number:
+Real: 1.000000
+Imaginary: 1.000000
+Converted to real: 1.414214
+
+This is a polar number:
+Real: 1.000000
+Imaginary: 1.000000
+Converted to real: 1.414214
+
+This is a polar number:
+Real: 1.000000
+Imaginary: 1.000000
+Converted to real: 1.414214
+
+This is a polar number:
+Real: 1.000000
+Imaginary: 1.000000
+Converted to real: 1.414214
+
+This is a polar number:
+Real: 1.000000
+Imaginary: 1.000000
+Converted to real: 1.414214
+
+This is a polar number:
+Real: 1.000000
+Imaginary: 1.000000
+Converted to real: 1.414214
+
+This is a polar number:
+Real: 1.000000
+Imaginary: 1.000000
+Converted to real: 1.414214
+
+This is a polar number:
+Real: 1.000000
+Imaginary: 1.000000
+Converted to real: 1.414214
+
+This is a polar number:
+Real: 1.000000
+Imaginary: 1.000000
+Converted to real: 1.414214
+

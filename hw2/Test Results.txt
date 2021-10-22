@@ -1,0 +1,34 @@
+Test #1
+real	0m0.006s
+user	0m0.002s
+sys	0m0.002s
+
+Test #2
+real	0m0.006s
+user	0m0.002s
+sys	0m0.002s
+
+Test #3
+real	0m0.007s
+user	0m0.002s
+sys	0m0.003s
+
+Test #4
+real	0m0.012s
+user	0m0.003s
+sys	0m0.005s
+
+Test #5
+real	0m0.006s
+user	0m0.002s
+sys	0m0.003s
+
+Random Test #1
+real	0m0.008s
+user	0m0.002s
+sys	0m0.003s
+
+Random Test #2
+real	0m1.421s
+user	0m1.295s
+sys	0m0.023s

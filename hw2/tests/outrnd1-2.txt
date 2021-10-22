@@ -1,0 +1,501 @@
+Sorted container complete:
+This is a polar number:
+Numerator: 1
+Denominator: 20
+Converted to real: 0.050000
+
+This is a polar number:
+Numerator: 7
+Denominator: 86
+Converted to real: 0.081395
+
+This is a polar number:
+Numerator: 8
+Denominator: 87
+Converted to real: 0.091954
+
+This is a polar number:
+Numerator: 6
+Denominator: 37
+Converted to real: 0.162162
+
+This is a polar number:
+Numerator: 7
+Denominator: 43
+Converted to real: 0.162791
+
+This is a polar number:
+Numerator: 18
+Denominator: 96
+Converted to real: 0.187500
+
+This is a polar number:
+Numerator: 19
+Denominator: 91
+Converted to real: 0.208791
+
+This is a polar number:
+Numerator: 15
+Denominator: 71
+Converted to real: 0.211268
+
+This is a polar number:
+Numerator: 20
+Denominator: 66
+Converted to real: 0.303030
+
+This is a polar number:
+Numerator: 25
+Denominator: 72
+Converted to real: 0.347222
+
+This is a polar number:
+Numerator: 34
+Denominator: 75
+Converted to real: 0.453333
+
+This is a polar number:
+Numerator: 32
+Denominator: 65
+Converted to real: 0.492308
+
+This is a polar number:
+Numerator: 37
+Denominator: 75
+Converted to real: 0.493333
+
+This is a polar number:
+Numerator: 30
+Denominator: 55
+Converted to real: 0.545455
+
+This is a polar number:
+Numerator: 51
+Denominator: 89
+Converted to real: 0.573034
+
+This is a polar number:
+Numerator: 56
+Denominator: 89
+Converted to real: 0.629213
+
+This is a polar number:
+Numerator: 45
+Denominator: 71
+Converted to real: 0.633803
+
+This is a polar number:
+Numerator: 50
+Denominator: 73
+Converted to real: 0.684932
+
+This is a polar number:
+Numerator: 68
+Denominator: 88
+Converted to real: 0.772727
+
+This is a polar number:
+Numerator: 22
+Denominator: 28
+Converted to real: 0.785714
+
+This is a polar number:
+Numerator: 63
+Denominator: 73
+Converted to real: 0.863014
+
+This is a polar number:
+Numerator: 70
+Denominator: 76
+Converted to real: 0.921053
+
+This is a polar number:
+Numerator: 26
+Denominator: 27
+Converted to real: 0.962963
+
+This is a polar number:
+angle: 69.000000
+radius: 1.000000
+Converted to real: 1.000000
+
+This is a polar number:
+Numerator: 82
+Denominator: 77
+Converted to real: 1.064935
+
+This is a polar number:
+Numerator: 88
+Denominator: 75
+Converted to real: 1.173333
+
+This is a polar number:
+Numerator: 76
+Denominator: 62
+Converted to real: 1.225806
+
+This is a polar number:
+Numerator: 12
+Denominator: 9
+Converted to real: 1.333333
+
+This is a polar number:
+Numerator: 52
+Denominator: 35
+Converted to real: 1.485714
+
+This is a polar number:
+Numerator: 27
+Denominator: 17
+Converted to real: 1.588235
+
+This is a polar number:
+Numerator: 32
+Denominator: 20
+Converted to real: 1.600000
+
+This is a polar number:
+Numerator: 77
+Denominator: 34
+Converted to real: 2.264706
+
+This is a polar number:
+Numerator: 71
+Denominator: 28
+Converted to real: 2.535714
+
+This is a polar number:
+Numerator: 98
+Denominator: 30
+Converted to real: 3.266667
+
+This is a polar number:
+Numerator: 61
+Denominator: 18
+Converted to real: 3.388889
+
+This is a polar number:
+Numerator: 83
+Denominator: 18
+Converted to real: 4.611111
+
+This is a polar number:
+angle: 77.000000
+radius: 5.000000
+Converted to real: 5.000000
+
+This is a polar number:
+angle: 88.000000
+radius: 5.000000
+Converted to real: 5.000000
+
+This is a polar number:
+angle: 23.000000
+radius: 5.000000
+Converted to real: 5.000000
+
+This is a polar number:
+angle: 71.000000
+radius: 9.000000
+Converted to real: 9.000000
+
+This is a polar number:
+Numerator: 77
+Denominator: 7
+Converted to real: 11.000000
+
+This is a polar number:
+Numerator: 28
+Denominator: 2
+Converted to real: 14.000000
+
+This is a polar number:
+angle: 56.000000
+radius: 16.000000
+Converted to real: 16.000000
+
+This is a polar number:
+Real: 17.000000
+Imaginary: 4.000000
+Converted to real: 17.464249
+
+This is a polar number:
+angle: 0.000000
+radius: 22.000000
+Converted to real: 22.000000
+
+This is a polar number:
+angle: 34.000000
+radius: 22.000000
+Converted to real: 22.000000
+
+This is a polar number:
+angle: 1.000000
+radius: 23.000000
+Converted to real: 23.000000
+
+This is a polar number:
+Real: 2.000000
+Imaginary: 23.000000
+Converted to real: 23.086793
+
+This is a polar number:
+angle: 2.000000
+radius: 29.000000
+Converted to real: 29.000000
+
+This is a polar number:
+angle: 6.000000
+radius: 32.000000
+Converted to real: 32.000000
+
+This is a polar number:
+angle: 83.000000
+radius: 34.000000
+Converted to real: 34.000000
+
+This is a polar number:
+angle: 93.000000
+radius: 35.000000
+Converted to real: 35.000000
+
+This is a polar number:
+angle: 8.000000
+radius: 40.000000
+Converted to real: 40.000000
+
+This is a polar number:
+Real: 36.000000
+Imaginary: 18.000000
+Converted to real: 40.249224
+
+This is a polar number:
+angle: 39.000000
+radius: 43.000000
+Converted to real: 43.000000
+
+This is a polar number:
+angle: 78.000000
+radius: 44.000000
+Converted to real: 44.000000
+
+This is a polar number:
+angle: 14.000000
+radius: 50.000000
+Converted to real: 50.000000
+
+This is a polar number:
+angle: 25.000000
+radius: 54.000000
+Converted to real: 54.000000
+
+This is a polar number:
+angle: 54.000000
+radius: 55.000000
+Converted to real: 55.000000
+
+This is a polar number:
+angle: 96.000000
+radius: 58.000000
+Converted to real: 58.000000
+
+This is a polar number:
+angle: 58.000000
+radius: 60.000000
+Converted to real: 60.000000
+
+This is a polar number:
+angle: 19.000000
+radius: 65.000000
+Converted to real: 65.000000
+
+This is a polar number:
+angle: 39.000000
+radius: 67.000000
+Converted to real: 67.000000
+
+This is a polar number:
+angle: 90.000000
+radius: 67.000000
+Converted to real: 67.000000
+
+This is a polar number:
+Real: 41.000000
+Imaginary: 56.000000
+Converted to real: 69.404611
+
+This is a polar number:
+angle: 24.000000
+radius: 71.000000
+Converted to real: 71.000000
+
+This is a polar number:
+angle: 35.000000
+radius: 72.000000
+Converted to real: 72.000000
+
+This is a polar number:
+Real: 56.000000
+Imaginary: 46.000000
+Converted to real: 72.470684
+
+This is a polar number:
+angle: 45.000000
+radius: 73.000000
+Converted to real: 73.000000
+
+This is a polar number:
+Real: 69.000000
+Imaginary: 30.000000
+Converted to real: 75.239617
+
+This is a polar number:
+Real: 75.000000
+Imaginary: 10.000000
+Converted to real: 75.663730
+
+This is a polar number:
+Real: 31.000000
+Imaginary: 70.000000
+Converted to real: 76.557168
+
+This is a polar number:
+angle: 12.000000
+radius: 79.000000
+Converted to real: 79.000000
+
+This is a polar number:
+Real: 52.000000
+Imaginary: 64.000000
+Converted to real: 82.462113
+
+This is a polar number:
+Real: 53.000000
+Imaginary: 64.000000
+Converted to real: 83.096330
+
+This is a polar number:
+angle: 83.000000
+radius: 84.000000
+Converted to real: 84.000000
+
+This is a polar number:
+Real: 84.000000
+Imaginary: 10.000000
+Converted to real: 84.593144
+
+This is a polar number:
+Real: 74.000000
+Imaginary: 41.000000
+Converted to real: 84.599054
+
+This is a polar number:
+angle: 33.000000
+radius: 85.000000
+Converted to real: 85.000000
+
+This is a polar number:
+angle: 30.000000
+radius: 86.000000
+Converted to real: 86.000000
+
+This is a polar number:
+angle: 1.000000
+radius: 86.000000
+Converted to real: 86.000000
+
+This is a polar number:
+Real: 50.000000
+Imaginary: 72.000000
+Converted to real: 87.658428
+
+This is a polar number:
+Real: 67.000000
+Imaginary: 59.000000
+Converted to real: 89.274856
+
+This is a polar number:
+Real: 88.000000
+Imaginary: 16.000000
+Converted to real: 89.442719
+
+This is a polar number:
+Real: 83.000000
+Imaginary: 36.000000
+Converted to real: 90.470990
+
+This is a polar number:
+angle: 10.000000
+radius: 91.000000
+Converted to real: 91.000000
+
+This is a polar number:
+angle: 3.000000
+radius: 91.000000
+Converted to real: 91.000000
+
+This is a polar number:
+Real: 61.000000
+Imaginary: 68.000000
+Converted to real: 91.350972
+
+This is a polar number:
+Real: 25.000000
+Imaginary: 88.000000
+Converted to real: 91.482239
+
+This is a polar number:
+Real: 76.000000
+Imaginary: 51.000000
+Converted to real: 91.525953
+
+This is a polar number:
+angle: 12.000000
+radius: 95.000000
+Converted to real: 95.000000
+
+This is a polar number:
+angle: 13.000000
+radius: 97.000000
+Converted to real: 97.000000
+
+This is a polar number:
+Real: 24.000000
+Imaginary: 94.000000
+Converted to real: 97.015463
+
+This is a polar number:
+Real: 69.000000
+Imaginary: 85.000000
+Converted to real: 109.480592
+
+This is a polar number:
+Real: 91.000000
+Imaginary: 68.000000
+Converted to real: 113.600176
+
+This is a polar number:
+Real: 86.000000
+Imaginary: 76.000000
+Converted to real: 114.769334
+
+This is a polar number:
+Real: 83.000000
+Imaginary: 86.000000
+Converted to real: 119.519873
+
+This is a polar number:
+Real: 94.000000
+Imaginary: 81.000000
+Converted to real: 124.084649
+
+This is a polar number:
+Real: 93.000000
+Imaginary: 99.000000
+Converted to real: 135.830777
+
+This is a polar number:
+Real: 96.000000
+Imaginary: 98.000000
+Converted to real: 137.186005
+
