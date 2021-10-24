@@ -17,7 +17,9 @@ public:
 
     // Приведение дроби к действильному числу
     double ConvertToReal();
+    // Вывод числа
     void Print(FILE* out) override;
+    // Создание числа
     void CreateNumber(FILE* input) override;
 };
 

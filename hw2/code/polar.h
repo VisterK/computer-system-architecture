@@ -14,7 +14,9 @@ public:
 
     // Приведение полярного числа к действильному числу
     double ConvertToReal() override;
+    // Вывод числа
     void Print(FILE* out) override;
+    // Создание числа
     void CreateNumber(FILE* input) override;
 
 };

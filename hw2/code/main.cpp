@@ -1,5 +1,4 @@
 #include <iostream>
-#include <fstream>
 #include <cstdlib>
 #include <ctime>
 #include <cstring>
@@ -69,7 +68,6 @@ int main(int argc, char* argv[]) {
 
     delete cont;
     printf("Stop\n");
-
     fclose(out1);
     fclose(out2);
     return 0;

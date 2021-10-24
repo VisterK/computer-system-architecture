@@ -14,9 +14,11 @@ public:
     ~Container();
     Container(int size);
 
+    // Вывод контейнера
     void In(FILE* in);
-    //void InRnd();
+    // Вывод контейнера
     void Out(FILE* out);
+    // Очистка контейнера
     void Clear();
 
     enum{

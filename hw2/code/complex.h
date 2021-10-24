@@ -3,7 +3,6 @@
 
 
 #include "number.h"
-#include <fstream>
 #include "rnd.h"
 #include <cmath>
 
@@ -15,7 +14,9 @@ public:
 
     // Приведение комплексного числа к действильному
     double ConvertToReal() override;
+    // Вывод числа
     void Print(FILE* out) override;
+    // Создание числа
     void CreateNumber(FILE* input) override;
 };
 
