@@ -1,0 +1,4000 @@
+This is a complex number:
+              Real: 992
+              Imaginary: 926
+              Converted to real: 1357.033529431016
+This is a complex number:
+              Real: 958
+              Imaginary: 944
+              Converted to real: 1344.953530795767
+This is a complex number:
+              Real: 989
+              Imaginary: 904
+              Converted to real: 1339.9018620779657
+This is a complex number:
+              Real: 985
+              Imaginary: 850
+              Converted to real: 1301.0476547767187
+This is a complex number:
+              Real: 982
+              Imaginary: 843
+              Converted to real: 1294.2074795024173
+This is a complex number:
+              Real: 879
+              Imaginary: 932
+              Converted to real: 1281.1186518039615
+This is a complex number:
+              Real: 1000
+              Imaginary: 784
+              Converted to real: 1270.6911505161277
+This is a complex number:
+              Real: 960
+              Imaginary: 832
+              Converted to real: 1270.3637274418693
+This is a complex number:
+              Real: 872
+              Imaginary: 917
+              Converted to real: 1265.4141614507087
+This is a complex number:
+              Real: 852
+              Imaginary: 928
+              Converted to real: 1259.796809013263
+This is a complex number:
+              Real: 915
+              Imaginary: 846
+              Converted to real: 1246.1705340762958
+This is a complex number:
+              Real: 972
+              Imaginary: 778
+              Converted to real: 1245.0172689565395
+This is a complex number:
+              Real: 745
+              Imaginary: 995
+              Converted to real: 1243.0004022525495
+This is a complex number:
+              Real: 888
+              Imaginary: 859
+              Converted to real: 1235.4857344380791
+This is a complex number:
+              Real: 859
+              Imaginary: 883
+              Converted to real: 1231.8969112713937
+This is a complex number:
+              Real: 773
+              Imaginary: 948
+              Converted to real: 1223.2060333402546
+This is a complex number:
+              Real: 921
+              Imaginary: 780
+              Converted to real: 1206.9138328812046
+This is a complex number:
+              Real: 826
+              Imaginary: 879
+              Converted to real: 1206.199403083918
+This is a complex number:
+              Real: 919
+              Imaginary: 766
+              Converted to real: 1196.3766129442686
+This is a complex number:
+              Real: 774
+              Imaginary: 899
+              Converted to real: 1186.2870647528785
+This is a complex number:
+              Real: 928
+              Imaginary: 725
+              Converted to real: 1177.6285492463232
+This is a complex number:
+              Real: 800
+              Imaginary: 861
+              Converted to real: 1175.2961328958756
+This is a complex number:
+              Real: 636
+              Imaginary: 983
+              Converted to real: 1170.8052784301922
+This is a complex number:
+              Real: 818
+              Imaginary: 835
+              Converted to real: 1168.9093206917294
+This is a complex number:
+              Real: 579
+              Imaginary: 992
+              Converted to real: 1148.6100295574647
+This is a complex number:
+              Real: 748
+              Imaginary: 866
+              Converted to real: 1144.3163898153343
+This is a complex number:
+              Real: 809
+              Imaginary: 807
+              Converted to real: 1142.6854335292805
+This is a complex number:
+              Real: 1000
+              Imaginary: 552
+              Converted to real: 1142.236402851879
+This is a complex number:
+              Real: 988
+              Imaginary: 566
+              Converted to real: 1138.6395390991831
+This is a complex number:
+              Real: 694
+              Imaginary: 901
+              Converted to real: 1137.2937175593647
+This is a complex number:
+              Real: 710
+              Imaginary: 886
+              Converted to real: 1135.383635605164
+This is a complex number:
+              Real: 991
+              Imaginary: 542
+              Converted to real: 1129.5330893780845
+This is a complex number:
+              Real: 972
+              Imaginary: 564
+              Converted to real: 1123.779337770543
+This is a complex number:
+              Real: 972
+              Imaginary: 558
+              Converted to real: 1120.7800854761829
+This is a complex number:
+              Real: 578
+              Imaginary: 960
+              Converted to real: 1120.5730676756425
+This is a complex number:
+              Real: 805
+              Imaginary: 751
+              Converted to real: 1100.9205239253195
+This is a complex number:
+              Real: 644
+              Imaginary: 892
+              Converted to real: 1100.1818031580053
+This is a complex number:
+              Real: 845
+              Imaginary: 704
+              Converted to real: 1099.8368060762468
+This is a complex number:
+              Real: 588
+              Imaginary: 928
+              Converted to real: 1098.602748949774
+This is a complex number:
+              Real: 443
+              Imaginary: 995
+              Converted to real: 1089.162063239443
+This is a complex number:
+              Real: 584
+              Imaginary: 914
+              Converted to real: 1084.6437203063501
+This is a complex number:
+              Real: 856
+              Imaginary: 664
+              Converted to real: 1083.342974316075
+This is a complex number:
+              Real: 634
+              Imaginary: 865
+              Converted to real: 1072.4649178411385
+This is a complex number:
+              Real: 719
+              Imaginary: 795
+              Converted to real: 1071.9076452754687
+This is a complex number:
+              Real: 449
+              Imaginary: 973
+              Converted to real: 1071.601605075319
+This is a complex number:
+              Real: 412
+              Imaginary: 987
+              Converted to real: 1069.5386856023488
+This is a complex number:
+              Real: 562
+              Imaginary: 906
+              Converted to real: 1066.1519591502893
+This is a complex number:
+              Real: 579
+              Imaginary: 895
+              Converted to real: 1065.9577852804491
+This is a complex number:
+              Real: 897
+              Imaginary: 571
+              Converted to real: 1063.3202716021171
+This is a complex number:
+              Real: 957
+              Imaginary: 460
+              Converted to real: 1061.814013846116
+This is a complex number:
+              Real: 626
+              Imaginary: 853
+              Converted to real: 1058.057181819584
+This is a complex number:
+              Real: 326
+              Imaginary: 996
+              Converted to real: 1047.994274793522
+This is a complex number:
+              Real: 933
+              Imaginary: 475
+              Converted to real: 1046.9546312997522
+This is a complex number:
+              Real: 938
+              Imaginary: 459
+              Converted to real: 1044.2820500228854
+This is a complex number:
+              Real: 371
+              Imaginary: 967
+              Converted to real: 1035.726797953978
+This is a complex number:
+              Real: 308
+              Imaginary: 985
+              Converted to real: 1032.0314917675719
+This is a complex number:
+              Real: 967
+              Imaginary: 354
+              Converted to real: 1029.75968070225
+This is a complex number:
+              Real: 755
+              Imaginary: 698
+              Converted to real: 1028.216416908425
+This is a complex number:
+              Real: 961
+              Imaginary: 365
+              Converted to real: 1027.9815173435757
+This is a complex number:
+              Real: 900
+              Imaginary: 490
+              Converted to real: 1024.7438704378767
+This is a complex number:
+              Real: 292
+              Imaginary: 982
+              Converted to real: 1024.4940214564456
+This is a complex number:
+              Real: 700
+              Imaginary: 748
+              Converted to real: 1024.4530247893263
+This is a complex number:
+              Real: 308
+              Imaginary: 971
+              Converted to real: 1018.678064944956
+This is a complex number:
+              Real: 551
+              Imaginary: 855
+              Converted to real: 1017.1656698886371
+This is a complex number:
+              Real: 961
+              Imaginary: 331
+              Converted to real: 1016.4064147770812
+This is a complex number:
+              Real: 964
+              Imaginary: 322
+              Converted to real: 1016.3562367595331
+This is a complex number:
+              Real: 892
+              Imaginary: 473
+              Converted to real: 1009.6499393354114
+This is a complex number:
+              Real: 293
+              Imaginary: 961
+              Converted to real: 1004.6740765044154
+This is a complex number:
+              Real: 643
+              Imaginary: 770
+              Converted to real: 1003.1694772071168
+This is a complex number:
+              Real: 113
+              Imaginary: 995
+              Converted to real: 1001.396025556323
+This is a complex number:
+              Real: 574
+              Imaginary: 820
+              Converted to real: 1000.9375604901636
+This is a complex number:
+              Real: 887
+              Imaginary: 462
+              Converted to real: 1000.1064943294789
+This is a complex number:
+              Real: 753
+              Imaginary: 658
+              Converted to real: 999.9864999088737
+This is a polar number:
+              Angle: 19
+              Radius: 999
+              Converted to real: 999
+This is a complex number:
+              Real: 995
+              Imaginary: 28
+              Converted to real: 995.393891884012
+This is a complex number:
+              Real: 221
+              Imaginary: 969
+              Converted to real: 993.8822867925558
+This is a complex number:
+              Real: 494
+              Imaginary: 859
+              Converted to real: 990.9172518429579
+This is a complex number:
+              Real: 916
+              Imaginary: 372
+              Converted to real: 988.6556528943736
+This is a polar number:
+              Angle: 424
+              Radius: 988
+              Converted to real: 988
+This is a complex number:
+              Real: 974
+              Imaginary: 153
+              Converted to real: 985.9437103607893
+This is a complex number:
+              Real: 74
+              Imaginary: 983
+              Converted to real: 985.7814159335729
+This is a complex number:
+              Real: 805
+              Imaginary: 566
+              Converted to real: 984.063514210338
+This is a polar number:
+              Angle: 873
+              Radius: 983
+              Converted to real: 983
+This is a complex number:
+              Real: 689
+              Imaginary: 701
+              Converted to real: 982.9150522807147
+This is a complex number:
+              Real: 946
+              Imaginary: 266
+              Converted to real: 982.6861146876962
+This is a complex number:
+              Real: 717
+              Imaginary: 671
+              Converted to real: 982.0030549850648
+This is a complex number:
+              Real: 608
+              Imaginary: 771
+              Converted to real: 981.8884865400959
+This is a complex number:
+              Real: 628
+              Imaginary: 754
+              Converted to real: 981.2746812182611
+This is a polar number:
+              Angle: 440
+              Radius: 981
+              Converted to real: 981
+This is a polar number:
+              Angle: 202
+              Radius: 979
+              Converted to real: 979
+This is a complex number:
+              Real: 474
+              Imaginary: 855
+              Converted to real: 977.5996112928851
+This is a polar number:
+              Angle: 48
+              Radius: 976
+              Converted to real: 976
+This is a polar number:
+              Angle: 469
+              Radius: 975
+              Converted to real: 975
+This is a complex number:
+              Real: 628
+              Imaginary: 745
+              Converted to real: 974.3762107112427
+This is a complex number:
+              Real: 868
+              Imaginary: 442
+              Converted to real: 974.0574931696793
+This is a complex number:
+              Real: 974
+              Imaginary: 6
+              Converted to real: 974.0184803174938
+This is a complex number:
+              Real: 178
+              Imaginary: 956
+              Converted to real: 972.4299460629542
+This is a complex number:
+              Real: 549
+              Imaginary: 802
+              Converted to real: 971.9079174489732
+This is a polar number:
+              Angle: 104
+              Radius: 970
+              Converted to real: 970
+This is a polar number:
+              Angle: 682
+              Radius: 969
+              Converted to real: 969
+This is a complex number:
+              Real: 789
+              Imaginary: 561
+              Converted to real: 968.112596757216
+This is a polar number:
+              Angle: 691
+              Radius: 968
+              Converted to real: 968
+This is a complex number:
+              Real: 918
+              Imaginary: 300
+              Converted to real: 965.7763716306172
+This is a polar number:
+              Angle: 1000
+              Radius: 965
+              Converted to real: 965
+This is a complex number:
+              Real: 13
+              Imaginary: 963
+              Converted to real: 963.087742627846
+This is a polar number:
+              Angle: 286
+              Radius: 963
+              Converted to real: 963
+This is a complex number:
+              Real: 218
+              Imaginary: 935
+              Converted to real: 960.0776010302501
+This is a complex number:
+              Real: 10
+              Imaginary: 960
+              Converted to real: 960.0520819205591
+This is a polar number:
+              Angle: 424
+              Radius: 959
+              Converted to real: 959
+This is a polar number:
+              Angle: 0
+              Radius: 958
+              Converted to real: 958
+This is a complex number:
+              Real: 925
+              Imaginary: 240
+              Converted to real: 955.6280657243173
+This is a complex number:
+              Real: 904
+              Imaginary: 306
+              Converted to real: 954.385666279623
+This is a polar number:
+              Angle: 660
+              Radius: 952
+              Converted to real: 952
+This is a polar number:
+              Angle: 733
+              Radius: 952
+              Converted to real: 952
+This is a complex number:
+              Real: 825
+              Imaginary: 473
+              Converted to real: 950.9752888482434
+This is a polar number:
+              Angle: 364
+              Radius: 949
+              Converted to real: 949
+This is a polar number:
+              Angle: 364
+              Radius: 949
+              Converted to real: 949
+This is a polar number:
+              Angle: 622
+              Radius: 949
+              Converted to real: 949
+This is a complex number:
+              Real: 290
+              Imaginary: 902
+              Converted to real: 947.4724270394363
+This is a complex number:
+              Real: 938
+              Imaginary: 130
+              Converted to real: 946.9656804763307
+This is a complex number:
+              Real: 830
+              Imaginary: 455
+              Converted to real: 946.5331478611829
+This is a complex number:
+              Real: 181
+              Imaginary: 929
+              Converted to real: 946.4681716782662
+This is a complex number:
+              Real: 363
+              Imaginary: 873
+              Converted to real: 945.4617919302715
+This is a complex number:
+              Real: 658
+              Imaginary: 678
+              Converted to real: 944.8005080438938
+This is a polar number:
+              Angle: 649
+              Radius: 944
+              Converted to real: 944
+This is a polar number:
+              Angle: 843
+              Radius: 944
+              Converted to real: 944
+This is a complex number:
+              Real: 886
+              Imaginary: 322
+              Converted to real: 942.6982550105839
+This is a polar number:
+              Angle: 442
+              Radius: 941
+              Converted to real: 941
+This is a complex number:
+              Real: 152
+              Imaginary: 925
+              Converted to real: 937.4054619000254
+This is a complex number:
+              Real: 848
+              Imaginary: 397
+              Converted to real: 936.3295360074892
+This is a polar number:
+              Angle: 34
+              Radius: 936
+              Converted to real: 936
+This is a polar number:
+              Angle: 200
+              Radius: 933
+              Converted to real: 933
+This is a complex number:
+              Real: 930
+              Imaginary: 71
+              Converted to real: 932.7062774528753
+This is a complex number:
+              Real: 22
+              Imaginary: 931
+              Converted to real: 931.2598992762439
+This is a complex number:
+              Real: 416
+              Imaginary: 832
+              Converted to real: 930.2042786399126
+This is a polar number:
+              Angle: 203
+              Radius: 928
+              Converted to real: 928
+This is a complex number:
+              Real: 774
+              Imaginary: 510
+              Converted to real: 926.9174720545514
+This is a polar number:
+              Angle: 183
+              Radius: 923
+              Converted to real: 923
+This is a complex number:
+              Real: 542
+              Imaginary: 747
+              Converted to real: 922.9154890887897
+This is a complex number:
+              Real: 869
+              Imaginary: 310
+              Converted to real: 922.6380655489995
+This is a complex number:
+              Real: 302
+              Imaginary: 871
+              Converted to real: 921.8703813443623
+This is a complex number:
+              Real: 832
+              Imaginary: 391
+              Converted to real: 919.2959262392062
+This is a complex number:
+              Real: 916
+              Imaginary: 21
+              Converted to real: 916.240688902212
+This is a complex number:
+              Real: 17
+              Imaginary: 916
+              Converted to real: 916.1577375103045
+This is a polar number:
+              Angle: 534
+              Radius: 916
+              Converted to real: 916
+This is a polar number:
+              Angle: 269
+              Radius: 916
+              Converted to real: 916
+This is a complex number:
+              Real: 480
+              Imaginary: 780
+              Converted to real: 915.8602513484249
+This is a complex number:
+              Real: 849
+              Imaginary: 339
+              Converted to real: 914.1783195854078
+This is a complex number:
+              Real: 470
+              Imaginary: 781
+              Converted to real: 911.5157705711953
+This is a complex number:
+              Real: 293
+              Imaginary: 861
+              Converted to real: 909.4888674414877
+This is a complex number:
+              Real: 444
+              Imaginary: 793
+              Converted to real: 908.8371691342735
+This is a complex number:
+              Real: 461
+              Imaginary: 782
+              Converted to real: 907.7692438059355
+This is a polar number:
+              Angle: 938
+              Radius: 906
+              Converted to real: 906
+This is a complex number:
+              Real: 84
+              Imaginary: 900
+              Converted to real: 903.9115000927911
+This is a polar number:
+              Angle: 623
+              Radius: 903
+              Converted to real: 903
+This is a polar number:
+              Angle: 844
+              Radius: 903
+              Converted to real: 903
+This is a complex number:
+              Real: 800
+              Imaginary: 417
+              Converted to real: 902.157968429033
+This is a complex number:
+              Real: 122
+              Imaginary: 892
+              Converted to real: 900.3043929694
+This is a complex number:
+              Real: 676
+              Imaginary: 590
+              Converted to real: 897.2602743908815
+This is a complex number:
+              Real: 887
+              Imaginary: 128
+              Converted to real: 896.1880383044621
+This is a polar number:
+              Angle: 535
+              Radius: 896
+              Converted to real: 896
+This is a complex number:
+              Real: 754
+              Imaginary: 484
+              Converted to real: 895.9754460921348
+This is a complex number:
+              Real: 91
+              Imaginary: 889
+              Converted to real: 893.6453435228094
+This is a complex number:
+              Real: 673
+              Imaginary: 587
+              Converted to real: 893.0274351888636
+This is a complex number:
+              Real: 733
+              Imaginary: 509
+              Converted to real: 892.3956521633215
+This is a complex number:
+              Real: 892
+              Imaginary: 3
+              Converted to real: 892.0050448287834
+This is a polar number:
+              Angle: 798
+              Radius: 892
+              Converted to real: 892
+This is a polar number:
+              Angle: 460
+              Radius: 891
+              Converted to real: 891
+This is a complex number:
+              Real: 620
+              Imaginary: 638
+              Converted to real: 889.6313843384798
+This is a complex number:
+              Real: 698
+              Imaginary: 551
+              Converted to real: 889.2721743088558
+This is a polar number:
+              Angle: 228
+              Radius: 889
+              Converted to real: 889
+This is a polar number:
+              Angle: 659
+              Radius: 886
+              Converted to real: 886
+This is a polar number:
+              Angle: 569
+              Radius: 886
+              Converted to real: 886
+This is a complex number:
+              Real: 60
+              Imaginary: 883
+              Converted to real: 885.0361574534681
+This is a complex number:
+              Real: 649
+              Imaginary: 601
+              Converted to real: 884.5349060381959
+This is a polar number:
+              Angle: 517
+              Radius: 884
+              Converted to real: 884
+This is a complex number:
+              Real: 510
+              Imaginary: 718
+              Converted to real: 880.695179957288
+This is a complex number:
+              Real: 858
+              Imaginary: 198
+              Converted to real: 880.549828232338
+This is a complex number:
+              Real: 584
+              Imaginary: 655
+              Converted to real: 877.542591558951
+This is a polar number:
+              Angle: 313
+              Radius: 877
+              Converted to real: 877
+This is a complex number:
+              Real: 353
+              Imaginary: 801
+              Converted to real: 875.3342218832759
+This is a complex number:
+              Real: 493
+              Imaginary: 722
+              Converted to real: 874.2614025564665
+This is a polar number:
+              Angle: 924
+              Radius: 873
+              Converted to real: 873
+This is a polar number:
+              Angle: 933
+              Radius: 873
+              Converted to real: 873
+This is a complex number:
+              Real: 109
+              Imaginary: 863
+              Converted to real: 869.8563099730898
+This is a complex number:
+              Real: 18
+              Imaginary: 869
+              Converted to real: 869.186401182163
+This is a polar number:
+              Angle: 930
+              Radius: 868
+              Converted to real: 868
+This is a polar number:
+              Angle: 563
+              Radius: 868
+              Converted to real: 868
+This is a polar number:
+              Angle: 651
+              Radius: 866
+              Converted to real: 866
+This is a polar number:
+              Angle: 684
+              Radius: 864
+              Converted to real: 864
+This is a complex number:
+              Real: 770
+              Imaginary: 391
+              Converted to real: 863.5861277255442
+This is a polar number:
+              Angle: 37
+              Radius: 863
+              Converted to real: 863
+This is a polar number:
+              Angle: 942
+              Radius: 861
+              Converted to real: 861
+This is a complex number:
+              Real: 809
+              Imaginary: 294
+              Converted to real: 860.76535710959
+This is a complex number:
+              Real: 384
+              Imaginary: 770
+              Converted to real: 860.4394226207909
+This is a polar number:
+              Angle: 565
+              Radius: 860
+              Converted to real: 860
+This is a complex number:
+              Real: 856
+              Imaginary: 20
+              Converted to real: 856.2336129818777
+This is a polar number:
+              Angle: 951
+              Radius: 854
+              Converted to real: 854
+This is a polar number:
+              Angle: 856
+              Radius: 851
+              Converted to real: 851
+This is a complex number:
+              Real: 690
+              Imaginary: 495
+              Converted to real: 849.1907912830897
+This is a complex number:
+              Real: 701
+              Imaginary: 479
+              Converted to real: 849.0241457108273
+This is a polar number:
+              Angle: 486
+              Radius: 849
+              Converted to real: 849
+This is a complex number:
+              Real: 819
+              Imaginary: 197
+              Converted to real: 842.359780616335
+This is a complex number:
+              Real: 648
+              Imaginary: 537
+              Converted to real: 841.5895674258326
+This is a complex number:
+              Real: 214
+              Imaginary: 813
+              Converted to real: 840.6931663811714
+This is a complex number:
+              Real: 810
+              Imaginary: 221
+              Converted to real: 839.6076464635133
+This is a complex number:
+              Real: 44
+              Imaginary: 838
+              Converted to real: 839.1543362218895
+This is a complex number:
+              Real: 6
+              Imaginary: 839
+              Converted to real: 839.021453837743
+This is a polar number:
+              Angle: 168
+              Radius: 838
+              Converted to real: 838
+This is a complex number:
+              Real: 223
+              Imaginary: 807
+              Converted to real: 837.244289320626
+This is a complex number:
+              Real: 220
+              Imaginary: 807
+              Converted to real: 836.4502376112998
+This is a polar number:
+              Angle: 812
+              Radius: 836
+              Converted to real: 836
+This is a complex number:
+              Real: 194
+              Imaginary: 812
+              Converted to real: 834.8532805229911
+This is a complex number:
+              Real: 826
+              Imaginary: 114
+              Converted to real: 833.8297188275313
+This is a complex number:
+              Real: 712
+              Imaginary: 424
+              Converted to real: 828.6857064050279
+This is a complex number:
+              Real: 228
+              Imaginary: 796
+              Converted to real: 828.009661779378
+This is a polar number:
+              Angle: 6
+              Radius: 827
+              Converted to real: 827
+This is a complex number:
+              Real: 86
+              Imaginary: 821
+              Converted to real: 825.4919745218605
+This is a polar number:
+              Angle: 136
+              Radius: 824
+              Converted to real: 824
+This is a complex number:
+              Real: 799
+              Imaginary: 200
+              Converted to real: 823.6510183324003
+This is a polar number:
+              Angle: 148
+              Radius: 823
+              Converted to real: 823
+This is a polar number:
+              Angle: 659
+              Radius: 823
+              Converted to real: 823
+This is a polar number:
+              Angle: 443
+              Radius: 820
+              Converted to real: 820
+This is a polar number:
+              Angle: 577
+              Radius: 818
+              Converted to real: 818
+This is a complex number:
+              Real: 266
+              Imaginary: 771
+              Converted to real: 815.5961010205971
+This is a complex number:
+              Real: 341
+              Imaginary: 740
+              Converted to real: 814.7889297235205
+This is a complex number:
+              Real: 228
+              Imaginary: 782
+              Converted to real: 814.5600039285013
+This is a polar number:
+              Angle: 439
+              Radius: 811
+              Converted to real: 811
+This is a complex number:
+              Real: 635
+              Imaginary: 504
+              Converted to real: 810.704015038781
+This is a complex number:
+              Real: 797
+              Imaginary: 142
+              Converted to real: 809.5511101839093
+This is a complex number:
+              Real: 390
+              Imaginary: 709
+              Converted to real: 809.1853928488823
+This is a complex number:
+              Real: 111
+              Imaginary: 801
+              Converted to real: 808.6544379399645
+This is a complex number:
+              Real: 681
+              Imaginary: 436
+              Converted to real: 808.6142467208947
+This is a complex number:
+              Real: 696
+              Imaginary: 411
+              Converted to real: 808.2926450240656
+This is a polar number:
+              Angle: 547
+              Radius: 808
+              Converted to real: 808
+This is a polar number:
+              Angle: 814
+              Radius: 808
+              Converted to real: 808
+This is a complex number:
+              Real: 631
+              Imaginary: 502
+              Converted to real: 806.3280969927812
+This is a polar number:
+              Angle: 611
+              Radius: 805
+              Converted to real: 805
+This is a polar number:
+              Angle: 414
+              Radius: 804
+              Converted to real: 804
+This is a polar number:
+              Angle: 854
+              Radius: 804
+              Converted to real: 804
+This is a complex number:
+              Real: 172
+              Imaginary: 785
+              Converted to real: 803.6224237787295
+This is a complex number:
+              Real: 797
+              Imaginary: 61
+              Converted to real: 799.3309702494956
+This is a complex number:
+              Real: 646
+              Imaginary: 470
+              Converted to real: 798.884221899519
+This is a complex number:
+              Real: 323
+              Imaginary: 730
+              Converted to real: 798.2662463113419
+This is a complex number:
+              Real: 328
+              Imaginary: 727
+              Converted to real: 797.5669250915562
+This is a complex number:
+              Real: 794
+              Imaginary: 74
+              Converted to real: 797.440906901571
+This is a polar number:
+              Angle: 481
+              Radius: 797
+              Converted to real: 797
+This is a polar number:
+              Angle: 520
+              Radius: 796
+              Converted to real: 796
+This is a polar number:
+              Angle: 73
+              Radius: 796
+              Converted to real: 796
+This is a complex number:
+              Real: 28
+              Imaginary: 794
+              Converted to real: 794.4935493759531
+This is a complex number:
+              Real: 66
+              Imaginary: 791
+              Converted to real: 793.7487007863383
+This is a complex number:
+              Real: 392
+              Imaginary: 689
+              Converted to real: 792.7073861141954
+This is a complex number:
+              Real: 229
+              Imaginary: 758
+              Converted to real: 791.8364730169986
+This is a complex number:
+              Real: 330
+              Imaginary: 719
+              Converted to real: 791.113771843216
+This is a complex number:
+              Real: 174
+              Imaginary: 771
+              Converted to real: 790.3904098608484
+This is a complex number:
+              Real: 769
+              Imaginary: 176
+              Converted to real: 788.8833880872381
+This is a polar number:
+              Angle: 24
+              Radius: 788
+              Converted to real: 788
+This is a polar number:
+              Angle: 412
+              Radius: 788
+              Converted to real: 788
+This is a complex number:
+              Real: 313
+              Imaginary: 722
+              Converted to real: 786.926298963251
+This is a polar number:
+              Angle: 616
+              Radius: 786
+              Converted to real: 786
+This is a polar number:
+              Angle: 598
+              Radius: 785
+              Converted to real: 785
+This is a complex number:
+              Real: 9
+              Imaginary: 783
+              Converted to real: 783.0517224296234
+This is a complex number:
+              Real: 384
+              Imaginary: 681
+              Converted to real: 781.8036837979213
+This is a complex number:
+              Real: 675
+              Imaginary: 394
+              Converted to real: 781.5759719950454
+This is a complex number:
+              Real: 471
+              Imaginary: 622
+              Converted to real: 780.2083055184686
+This is a polar number:
+              Angle: 268
+              Radius: 776
+              Converted to real: 776
+This is a complex number:
+              Real: 651
+              Imaginary: 419
+              Converted to real: 774.1847324766874
+This is a polar number:
+              Angle: 757
+              Radius: 774
+              Converted to real: 774
+This is a polar number:
+              Angle: 794
+              Radius: 774
+              Converted to real: 774
+This is a polar number:
+              Angle: 94
+              Radius: 772
+              Converted to real: 772
+This is a polar number:
+              Angle: 428
+              Radius: 771
+              Converted to real: 771
+This is a complex number:
+              Real: 347
+              Imaginary: 686
+              Converted to real: 768.7684957124609
+This is a polar number:
+              Angle: 317
+              Radius: 768
+              Converted to real: 768
+This is a complex number:
+              Real: 473
+              Imaginary: 604
+              Converted to real: 767.1668658121256
+This is a polar number:
+              Angle: 799
+              Radius: 764
+              Converted to real: 764
+This is a complex number:
+              Real: 508
+              Imaginary: 570
+              Converted to real: 763.5207921202932
+This is a polar number:
+              Angle: 290
+              Radius: 763
+              Converted to real: 763
+This is a polar number:
+              Angle: 421
+              Radius: 762
+              Converted to real: 762
+This is a polar number:
+              Angle: 667
+              Radius: 761
+              Converted to real: 761
+This is a polar number:
+              Angle: 41
+              Radius: 761
+              Converted to real: 761
+This is a polar number:
+              Angle: 465
+              Radius: 759
+              Converted to real: 759
+This is a complex number:
+              Real: 242
+              Imaginary: 719
+              Converted to real: 758.6336401715917
+This is a polar number:
+              Angle: 851
+              Radius: 758
+              Converted to real: 758
+This is a complex number:
+              Real: 309
+              Imaginary: 690
+              Converted to real: 756.0297613189576
+This is a polar number:
+              Angle: 70
+              Radius: 752
+              Converted to real: 752
+This is a complex number:
+              Real: 338
+              Imaginary: 663
+              Converted to real: 744.186132630809
+This is a complex number:
+              Real: 661
+              Imaginary: 334
+              Converted to real: 740.5923305030913
+This is a polar number:
+              Angle: 178
+              Radius: 740
+              Converted to real: 740
+This is a complex number:
+              Real: 240
+              Imaginary: 699
+              Converted to real: 739.0541252168207
+This is a complex number:
+              Real: 47
+              Imaginary: 737
+              Converted to real: 738.4971225400949
+This is a complex number:
+              Real: 674
+              Imaginary: 297
+              Converted to real: 736.5358103989242
+This is a complex number:
+              Real: 286
+              Imaginary: 677
+              Converted to real: 734.9319696407281
+This is a polar number:
+              Angle: 468
+              Radius: 734
+              Converted to real: 734
+This is a complex number:
+              Real: 639
+              Imaginary: 361
+              Converted to real: 733.9223392158056
+This is a polar number:
+              Angle: 250
+              Radius: 733
+              Converted to real: 733
+This is a polar number:
+              Angle: 882
+              Radius: 732
+              Converted to real: 732
+This is a polar number:
+              Angle: 119
+              Radius: 729
+              Converted to real: 729
+This is a complex number:
+              Real: 116
+              Imaginary: 719
+              Converted to real: 728.29732939233
+This is a complex number:
+              Real: 707
+              Imaginary: 174
+              Converted to real: 728.0968342191854
+This is a polar number:
+              Angle: 916
+              Radius: 727
+              Converted to real: 727
+This is a complex number:
+              Real: 683
+              Imaginary: 241
+              Converted to real: 724.2720483354303
+This is a complex number:
+              Real: 498
+              Imaginary: 521
+              Converted to real: 720.7253290956271
+This is a polar number:
+              Angle: 410
+              Radius: 719
+              Converted to real: 719
+This is a polar number:
+              Angle: 118
+              Radius: 716
+              Converted to real: 716
+This is a polar number:
+              Angle: 341
+              Radius: 716
+              Converted to real: 716
+This is a polar number:
+              Angle: 358
+              Radius: 716
+              Converted to real: 716
+This is a complex number:
+              Real: 317
+              Imaginary: 642
+              Converted to real: 715.997905024868
+This is a complex number:
+              Real: 150
+              Imaginary: 700
+              Converted to real: 715.8910531638177
+This is a polar number:
+              Angle: 925
+              Radius: 713
+              Converted to real: 713
+This is a polar number:
+              Angle: 132
+              Radius: 712
+              Converted to real: 712
+This is a polar number:
+              Angle: 519
+              Radius: 711
+              Converted to real: 711
+This is a polar number:
+              Angle: 621
+              Radius: 710
+              Converted to real: 710
+This is a polar number:
+              Angle: 232
+              Radius: 708
+              Converted to real: 708
+This is a polar number:
+              Angle: 197
+              Radius: 708
+              Converted to real: 708
+This is a polar number:
+              Angle: 551
+              Radius: 707
+              Converted to real: 707
+This is a complex number:
+              Real: 675
+              Imaginary: 207
+              Converted to real: 706.0269116683868
+This is a polar number:
+              Angle: 987
+              Radius: 706
+              Converted to real: 706
+This is a polar number:
+              Angle: 397
+              Radius: 706
+              Converted to real: 706
+This is a complex number:
+              Real: 363
+              Imaginary: 605
+              Converted to real: 705.5451792762814
+This is a complex number:
+              Real: 582
+              Imaginary: 396
+              Converted to real: 703.9460206578342
+This is a polar number:
+              Angle: 38
+              Radius: 703
+              Converted to real: 703
+This is a polar number:
+              Angle: 976
+              Radius: 702
+              Converted to real: 702
+This is a complex number:
+              Real: 434
+              Imaginary: 544
+              Converted to real: 695.9109138388333
+This is a complex number:
+              Real: 642
+              Imaginary: 268
+              Converted to real: 695.6924607899672
+This is a polar number:
+              Angle: 12
+              Radius: 692
+              Converted to real: 692
+This is a complex number:
+              Real: 161
+              Imaginary: 673
+              Converted to real: 691.9898843191279
+This is a complex number:
+              Real: 427
+              Imaginary: 540
+              Converted to real: 688.4250140719757
+This is a complex number:
+              Real: 582
+              Imaginary: 360
+              Converted to real: 684.342019753281
+This is a polar number:
+              Angle: 164
+              Radius: 684
+              Converted to real: 684
+This is a complex number:
+              Real: 627
+              Imaginary: 266
+              Converted to real: 681.091036499527
+This is a polar number:
+              Angle: 521
+              Radius: 681
+              Converted to real: 681
+This is a polar number:
+              Angle: 905
+              Radius: 680
+              Converted to real: 680
+This is a complex number:
+              Real: 171
+              Imaginary: 653
+              Converted to real: 675.0185182644992
+This is a polar number:
+              Angle: 353
+              Radius: 672
+              Converted to real: 672
+This is a polar number:
+              Angle: 686
+              Radius: 671
+              Converted to real: 671
+This is a polar number:
+              Angle: 611
+              Radius: 671
+              Converted to real: 671
+This is a complex number:
+              Real: 656
+              Imaginary: 133
+              Converted to real: 669.3466964137494
+This is a complex number:
+              Real: 639
+              Imaginary: 197
+              Converted to real: 668.6777998408501
+This is a polar number:
+              Angle: 100
+              Radius: 667
+              Converted to real: 667
+This is a polar number:
+              Angle: 151
+              Radius: 666
+              Converted to real: 666
+This is a polar number:
+              Angle: 943
+              Radius: 665
+              Converted to real: 665
+This is a complex number:
+              Real: 202
+              Imaginary: 632
+              Converted to real: 663.496797279384
+This is a complex number:
+              Real: 650
+              Imaginary: 122
+              Converted to real: 661.3501341951932
+This is a polar number:
+              Angle: 0
+              Radius: 658
+              Converted to real: 658
+This is a polar number:
+              Angle: 399
+              Radius: 657
+              Converted to real: 657
+This is a polar number:
+              Angle: 706
+              Radius: 657
+              Converted to real: 657
+This is a polar number:
+              Angle: 521
+              Radius: 655
+              Converted to real: 655
+This is a polar number:
+              Angle: 166
+              Radius: 654
+              Converted to real: 654
+This is a complex number:
+              Real: 650
+              Imaginary: 40
+              Converted to real: 651.2296062065975
+This is a polar number:
+              Angle: 262
+              Radius: 648
+              Converted to real: 648
+This is a polar number:
+              Angle: 440
+              Radius: 647
+              Converted to real: 647
+This is a complex number:
+              Real: 255
+              Imaginary: 594
+              Converted to real: 646.4216889925647
+This is a polar number:
+              Angle: 177
+              Radius: 645
+              Converted to real: 645
+This is a complex number:
+              Real: 619
+              Imaginary: 165
+              Converted to real: 640.6137681942217
+This is a complex number:
+              Real: 526
+              Imaginary: 365
+              Converted to real: 640.2351130639431
+This is a polar number:
+              Angle: 384
+              Radius: 640
+              Converted to real: 640
+This is a polar number:
+              Angle: 811
+              Radius: 640
+              Converted to real: 640
+This is a polar number:
+              Angle: 304
+              Radius: 639
+              Converted to real: 639
+This is a polar number:
+              Angle: 687
+              Radius: 638
+              Converted to real: 638
+This is a polar number:
+              Angle: 32
+              Radius: 637
+              Converted to real: 637
+This is a polar number:
+              Angle: 473
+              Radius: 635
+              Converted to real: 635
+This is a polar number:
+              Angle: 423
+              Radius: 631
+              Converted to real: 631
+This is a complex number:
+              Real: 613
+              Imaginary: 149
+              Converted to real: 630.8486347769963
+This is a complex number:
+              Real: 15
+              Imaginary: 630
+              Converted to real: 630.1785461280001
+This is a polar number:
+              Angle: 782
+              Radius: 629
+              Converted to real: 629
+This is a complex number:
+              Real: 178
+              Imaginary: 600
+              Converted to real: 625.8466265787489
+This is a polar number:
+              Angle: 942
+              Radius: 623
+              Converted to real: 623
+This is a complex number:
+              Real: 621
+              Imaginary: 40
+              Converted to real: 622.2869113198509
+This is a complex number:
+              Real: 538
+              Imaginary: 310
+              Converted to real: 620.9218952493139
+This is a complex number:
+              Real: 472
+              Imaginary: 402
+              Converted to real: 619.9903225051178
+This is a polar number:
+              Angle: 988
+              Radius: 619
+              Converted to real: 619
+This is a polar number:
+              Angle: 827
+              Radius: 618
+              Converted to real: 618
+This is a polar number:
+              Angle: 784
+              Radius: 618
+              Converted to real: 618
+This is a complex number:
+              Real: 612
+              Imaginary: 72
+              Converted to real: 616.2207396704529
+This is a polar number:
+              Angle: 636
+              Radius: 616
+              Converted to real: 616
+This is a complex number:
+              Real: 614
+              Imaginary: 10
+              Converted to real: 614.0814278253333
+This is a polar number:
+              Angle: 831
+              Radius: 612
+              Converted to real: 612
+This is a complex number:
+              Real: 506
+              Imaginary: 343
+              Converted to real: 611.2977997670203
+This is a complex number:
+              Real: 67
+              Imaginary: 603
+              Converted to real: 606.7108042552069
+This is a polar number:
+              Angle: 243
+              Radius: 606
+              Converted to real: 606
+This is a polar number:
+              Angle: 556
+              Radius: 606
+              Converted to real: 606
+This is a complex number:
+              Real: 23
+              Imaginary: 604
+              Converted to real: 604.4377552734442
+This is a polar number:
+              Angle: 253
+              Radius: 604
+              Converted to real: 604
+This is a complex number:
+              Real: 200
+              Imaginary: 568
+              Converted to real: 602.182696529882
+This is a polar number:
+              Angle: 724
+              Radius: 599
+              Converted to real: 599
+This is a complex number:
+              Real: 144
+              Imaginary: 579
+              Converted to real: 596.6380812519429
+This is a complex number:
+              Real: 27
+              Imaginary: 594
+              Converted to real: 594.6133197297215
+This is a polar number:
+              Angle: 591
+              Radius: 594
+              Converted to real: 594
+This is a polar number:
+              Angle: 446
+              Radius: 593
+              Converted to real: 593
+This is a polar number:
+              Angle: 999
+              Radius: 592
+              Converted to real: 592
+This is a complex number:
+              Real: 591
+              Imaginary: 9
+              Converted to real: 591.068523946251
+This is a complex number:
+              Real: 442
+              Imaginary: 391
+              Converted to real: 590.1228685621326
+This is a complex number:
+              Real: 564
+              Imaginary: 161
+              Converted to real: 586.5296241452771
+This is a polar number:
+              Angle: 462
+              Radius: 586
+              Converted to real: 586
+This is a complex number:
+              Real: 143
+              Imaginary: 568
+              Converted to real: 585.724337892835
+This is a polar number:
+              Angle: 63
+              Radius: 585
+              Converted to real: 585
+This is a polar number:
+              Angle: 819
+              Radius: 583
+              Converted to real: 583
+This is a complex number:
+              Real: 211
+              Imaginary: 535
+              Converted to real: 575.1052077663703
+This is a polar number:
+              Angle: 142
+              Radius: 575
+              Converted to real: 575
+This is a polar number:
+              Angle: 889
+              Radius: 574
+              Converted to real: 574
+This is a polar number:
+              Angle: 900
+              Radius: 573
+              Converted to real: 573
+This is a polar number:
+              Angle: 91
+              Radius: 572
+              Converted to real: 572
+This is a complex number:
+              Real: 145
+              Imaginary: 550
+              Converted to real: 568.792580823625
+This is a polar number:
+              Angle: 609
+              Radius: 567
+              Converted to real: 567
+This is a polar number:
+              Angle: 466
+              Radius: 564
+              Converted to real: 564
+This is a polar number:
+              Angle: 709
+              Radius: 562
+              Converted to real: 562
+This is a polar number:
+              Angle: 851
+              Radius: 562
+              Converted to real: 562
+This is a polar number:
+              Angle: 899
+              Radius: 561
+              Converted to real: 561
+This is a polar number:
+              Angle: 447
+              Radius: 560
+              Converted to real: 560
+This is a complex number:
+              Real: 402
+              Imaginary: 389
+              Converted to real: 559.396996774205
+This is a complex number:
+              Real: 342
+              Imaginary: 442
+              Converted to real: 558.8631317236806
+This is a complex number:
+              Real: 34
+              Imaginary: 557
+              Converted to real: 558.0367371419197
+This is a polar number:
+              Angle: 910
+              Radius: 558
+              Converted to real: 558
+This is a complex number:
+              Real: 505
+              Imaginary: 237
+              Converted to real: 557.8476494527874
+This is a polar number:
+              Angle: 625
+              Radius: 557
+              Converted to real: 557
+This is a polar number:
+              Angle: 730
+              Radius: 556
+              Converted to real: 556
+This is a polar number:
+              Angle: 727
+              Radius: 554
+              Converted to real: 554
+This is a complex number:
+              Real: 482
+              Imaginary: 272
+              Converted to real: 553.4509915069265
+This is a polar number:
+              Angle: 635
+              Radius: 553
+              Converted to real: 553
+This is a polar number:
+              Angle: 142
+              Radius: 552
+              Converted to real: 552
+This is a polar number:
+              Angle: 175
+              Radius: 551
+              Converted to real: 551
+This is a complex number:
+              Real: 350
+              Imaginary: 425
+              Converted to real: 550.567888638631
+This is a complex number:
+              Real: 60
+              Imaginary: 543
+              Converted to real: 546.3048599454338
+This is a polar number:
+              Angle: 602
+              Radius: 546
+              Converted to real: 546
+This is a polar number:
+              Angle: 320
+              Radius: 546
+              Converted to real: 546
+This is a polar number:
+              Angle: 534
+              Radius: 545
+              Converted to real: 545
+This is a complex number:
+              Real: 133
+              Imaginary: 525
+              Converted to real: 541.5847117487716
+This is a complex number:
+              Real: 462
+              Imaginary: 282
+              Converted to real: 541.2651845445077
+This is a polar number:
+              Angle: 347
+              Radius: 539
+              Converted to real: 539
+This is a complex number:
+              Real: 475
+              Imaginary: 254
+              Converted to real: 538.6473800177627
+This is a complex number:
+              Real: 449
+              Imaginary: 296
+              Converted to real: 537.7889920777479
+This is a polar number:
+              Angle: 882
+              Radius: 537
+              Converted to real: 537
+This is a polar number:
+              Angle: 595
+              Radius: 534
+              Converted to real: 534
+This is a complex number:
+              Real: 92
+              Imaginary: 526
+              Converted to real: 533.9850185164374
+This is a complex number:
+              Real: 496
+              Imaginary: 194
+              Converted to real: 532.5898985147953
+This is a polar number:
+              Angle: 269
+              Radius: 532
+              Converted to real: 532
+This is a complex number:
+              Real: 127
+              Imaginary: 515
+              Converted to real: 530.428128967535
+This is a polar number:
+              Angle: 844
+              Radius: 530
+              Converted to real: 530
+This is a complex number:
+              Real: 8
+              Imaginary: 529
+              Converted to real: 529.0604880351584
+This is a complex number:
+              Real: 304
+              Imaginary: 429
+              Converted to real: 525.7917838840771
+This is a complex number:
+              Real: 508
+              Imaginary: 95
+              Converted to real: 516.8065402062942
+This is a polar number:
+              Angle: 907
+              Radius: 514
+              Converted to real: 514
+This is a complex number:
+              Real: 233
+              Imaginary: 454
+              Converted to real: 510.29893199966625
+This is a polar number:
+              Angle: 224
+              Radius: 510
+              Converted to real: 510
+This is a polar number:
+              Angle: 812
+              Radius: 510
+              Converted to real: 510
+This is a polar number:
+              Angle: 641
+              Radius: 508
+              Converted to real: 508
+This is a polar number:
+              Angle: 312
+              Radius: 507
+              Converted to real: 507
+This is a polar number:
+              Angle: 12
+              Radius: 505
+              Converted to real: 505
+This is a complex number:
+              Real: 504
+              Imaginary: 24
+              Converted to real: 504.5711049990873
+This is a polar number:
+              Angle: 333
+              Radius: 501
+              Converted to real: 501
+This is a polar number:
+              Angle: 352
+              Radius: 500
+              Converted to real: 500
+This is a complex number:
+              Real: 237
+              Imaginary: 437
+              Converted to real: 497.12976173228657
+This is a polar number:
+              Angle: 276
+              Radius: 495
+              Converted to real: 495
+This is a polar number:
+              Angle: 155
+              Radius: 494
+              Converted to real: 494
+This is a complex number:
+              Real: 39
+              Imaginary: 492
+              Converted to real: 493.54331116934407
+This is a polar number:
+              Angle: 695
+              Radius: 492
+              Converted to real: 492
+This is a polar number:
+              Angle: 83
+              Radius: 491
+              Converted to real: 491
+This is a complex number:
+              Real: 411
+              Imaginary: 265
+              Converted to real: 489.0255617040892
+This is a complex number:
+              Real: 92
+              Imaginary: 480
+              Converted to real: 488.73714816862446
+This is a polar number:
+              Angle: 150
+              Radius: 482
+              Converted to real: 482
+This is a complex number:
+              Real: 477
+              Imaginary: 66
+              Converted to real: 481.5443904771397
+This is a polar number:
+              Angle: 907
+              Radius: 481
+              Converted to real: 481
+This is a polar number:
+              Angle: 780
+              Radius: 478
+              Converted to real: 478
+This is a polar number:
+              Angle: 431
+              Radius: 477
+              Converted to real: 477
+This is a polar number:
+              Angle: 34
+              Radius: 476
+              Converted to real: 476
+This is a complex number:
+              Real: 340
+              Imaginary: 333
+              Converted to real: 475.908604671107
+This is a polar number:
+              Angle: 678
+              Radius: 471
+              Converted to real: 471
+This is a complex number:
+              Real: 299
+              Imaginary: 356
+              Converted to real: 464.9053667145605
+This is a polar number:
+              Angle: 312
+              Radius: 460
+              Converted to real: 460
+This is a polar number:
+              Angle: 511
+              Radius: 459
+              Converted to real: 459
+This is a polar number:
+              Angle: 431
+              Radius: 458
+              Converted to real: 458
+This is a polar number:
+              Angle: 788
+              Radius: 458
+              Converted to real: 458
+This is a complex number:
+              Real: 429
+              Imaginary: 155
+              Converted to real: 456.1425215872776
+This is a polar number:
+              Angle: 318
+              Radius: 451
+              Converted to real: 451
+This is a polar number:
+              Angle: 169
+              Radius: 450
+              Converted to real: 450
+This is a polar number:
+              Angle: 991
+              Radius: 449
+              Converted to real: 449
+This is a complex number:
+              Real: 416
+              Imaginary: 163
+              Converted to real: 446.79413604030213
+This is a complex number:
+              Real: 349
+              Imaginary: 277
+              Converted to real: 445.56705443737644
+This is a complex number:
+              Real: 398
+              Imaginary: 199
+              Converted to real: 444.97752752245816
+This is a complex number:
+              Real: 430
+              Imaginary: 114
+              Converted to real: 444.8550325667902
+This is a complex number:
+              Real: 286
+              Imaginary: 338
+              Converted to real: 442.76404551408643
+This is a complex number:
+              Real: 365
+              Imaginary: 247
+              Converted to real: 440.7198656743306
+This is a complex number:
+              Real: 422
+              Imaginary: 127
+              Converted to real: 440.69604037249985
+This is a complex number:
+              Real: 407
+              Imaginary: 163
+              Converted to real: 438.42673276158695
+This is a polar number:
+              Angle: 306
+              Radius: 438
+              Converted to real: 438
+This is a polar number:
+              Angle: 889
+              Radius: 422
+              Converted to real: 422
+This is a complex number:
+              Real: 340
+              Imaginary: 249
+              Converted to real: 421.42733655993413
+This is a complex number:
+              Real: 14
+              Imaginary: 418
+              Converted to real: 418.2343840479881
+This is a polar number:
+              Angle: 473
+              Radius: 418
+              Converted to real: 418
+This is a polar number:
+              Angle: 75
+              Radius: 418
+              Converted to real: 418
+This is a complex number:
+              Real: 399
+              Imaginary: 122
+              Converted to real: 417.2349458039199
+This is a polar number:
+              Angle: 57
+              Radius: 416
+              Converted to real: 416
+This is a polar number:
+              Angle: 998
+              Radius: 413
+              Converted to real: 413
+This is a polar number:
+              Angle: 778
+              Radius: 413
+              Converted to real: 413
+This is a complex number:
+              Real: 140
+              Imaginary: 388
+              Converted to real: 412.48515124789645
+This is a complex number:
+              Real: 138
+              Imaginary: 387
+              Converted to real: 410.86859213135284
+This is a polar number:
+              Angle: 462
+              Radius: 410
+              Converted to real: 410
+This is a polar number:
+              Angle: 565
+              Radius: 408
+              Converted to real: 408
+This is a complex number:
+              Real: 31
+              Imaginary: 406
+              Converted to real: 407.1817775883395
+This is a polar number:
+              Angle: 37
+              Radius: 405
+              Converted to real: 405
+This is a polar number:
+              Angle: 347
+              Radius: 403
+              Converted to real: 403
+This is a complex number:
+              Real: 316
+              Imaginary: 229
+              Converted to real: 390.2524823751926
+This is a polar number:
+              Angle: 4
+              Radius: 389
+              Converted to real: 389
+This is a complex number:
+              Real: 83
+              Imaginary: 379
+              Converted to real: 387.9819583434261
+This is a polar number:
+              Angle: 656
+              Radius: 387
+              Converted to real: 387
+This is a polar number:
+              Angle: 76
+              Radius: 387
+              Converted to real: 387
+This is a complex number:
+              Real: 118
+              Imaginary: 363
+              Converted to real: 381.6975242256622
+This is a polar number:
+              Angle: 130
+              Radius: 380
+              Converted to real: 380
+This is a polar number:
+              Angle: 734
+              Radius: 380
+              Converted to real: 380
+This is a complex number:
+              Real: 348
+              Imaginary: 148
+              Converted to real: 378.16398559355173
+This is a polar number:
+              Angle: 689
+              Radius: 377
+              Converted to real: 377
+This is a polar number:
+              Angle: 393
+              Radius: 375
+              Converted to real: 375
+This is a polar number:
+              Angle: 153
+              Radius: 372
+              Converted to real: 372
+This is a polar number:
+              Angle: 374
+              Radius: 371
+              Converted to real: 371
+This is a complex number:
+              Real: 326
+              Imaginary: 176
+              Converted to real: 370.47537030145475
+This is a polar number:
+              Angle: 202
+              Radius: 370
+              Converted to real: 370
+This is a complex number:
+              Real: 258
+              Imaginary: 265
+              Converted to real: 369.84996958226185
+This is a polar number:
+              Angle: 317
+              Radius: 369
+              Converted to real: 369
+This is a polar number:
+              Angle: 138
+              Radius: 368
+              Converted to real: 368
+This is a complex number:
+              Real: 356
+              Imaginary: 91
+              Converted to real: 367.44659475902074
+This is a polar number:
+              Angle: 959
+              Radius: 364
+              Converted to real: 364
+This is a polar number:
+              Angle: 992
+              Radius: 364
+              Converted to real: 364
+This is a complex number:
+              Real: 350
+              Imaginary: 96
+              Converted to real: 362.92698990292797
+This is a complex number:
+              Real: 262
+              Imaginary: 249
+              Converted to real: 361.4484748895754
+This is a complex number:
+              Real: 13
+              Imaginary: 359
+              Converted to real: 359.23529893372114
+This is a polar number:
+              Angle: 290
+              Radius: 359
+              Converted to real: 359
+This is a polar number:
+              Angle: 502
+              Radius: 359
+              Converted to real: 359
+This is a complex number:
+              Real: 250
+              Imaginary: 255
+              Converted to real: 357.1064267133819
+This is a polar number:
+              Angle: 17
+              Radius: 357
+              Converted to real: 357
+This is a complex number:
+              Real: 304
+              Imaginary: 180
+              Converted to real: 353.2930794680247
+This is a polar number:
+              Angle: 194
+              Radius: 351
+              Converted to real: 351
+This is a polar number:
+              Angle: 769
+              Radius: 348
+              Converted to real: 348
+This is a complex number:
+              Real: 236
+              Imaginary: 255
+              Converted to real: 347.4492768736179
+This is a polar number:
+              Angle: 344
+              Radius: 347
+              Converted to real: 347
+This is a polar number:
+              Angle: 957
+              Radius: 347
+              Converted to real: 347
+This is a polar number:
+              Angle: 557
+              Radius: 344
+              Converted to real: 344
+This is a complex number:
+              Real: 119
+              Imaginary: 322
+              Converted to real: 343.2855953866984
+This is a polar number:
+              Angle: 30
+              Radius: 343
+              Converted to real: 343
+This is a complex number:
+              Real: 334
+              Imaginary: 57
+              Converted to real: 338.82886535831034
+This is a polar number:
+              Angle: 843
+              Radius: 338
+              Converted to real: 338
+This is a complex number:
+              Real: 334
+              Imaginary: 47
+              Converted to real: 337.2906758272455
+This is a polar number:
+              Angle: 393
+              Radius: 334
+              Converted to real: 334
+This is a complex number:
+              Real: 333
+              Imaginary: 24
+              Converted to real: 333.86374466239965
+This is a polar number:
+              Angle: 871
+              Radius: 333
+              Converted to real: 333
+This is a complex number:
+              Real: 40
+              Imaginary: 328
+              Converted to real: 330.4300228490141
+This is a polar number:
+              Angle: 518
+              Radius: 329
+              Converted to real: 329
+This is a complex number:
+              Real: 326
+              Imaginary: 29
+              Converted to real: 327.28733553255614
+This is a polar number:
+              Angle: 592
+              Radius: 323
+              Converted to real: 323
+This is a polar number:
+              Angle: 102
+              Radius: 322
+              Converted to real: 322
+This is a complex number:
+              Real: 237
+              Imaginary: 216
+              Converted to real: 320.66337489647924
+This is a polar number:
+              Angle: 539
+              Radius: 320
+              Converted to real: 320
+This is a polar number:
+              Angle: 145
+              Radius: 320
+              Converted to real: 320
+This is a polar number:
+              Angle: 102
+              Radius: 319
+              Converted to real: 319
+This is a complex number:
+              Real: 315
+              Imaginary: 31
+              Converted to real: 316.5217212135685
+This is a polar number:
+              Angle: 75
+              Radius: 313
+              Converted to real: 313
+This is a polar number:
+              Angle: 197
+              Radius: 313
+              Converted to real: 313
+This is a complex number:
+              Real: 147
+              Imaginary: 273
+              Converted to real: 310.0612842649014
+This is a polar number:
+              Angle: 587
+              Radius: 309
+              Converted to real: 309
+This is a polar number:
+              Angle: 786
+              Radius: 309
+              Converted to real: 309
+This is a complex number:
+              Real: 308
+              Imaginary: 11
+              Converted to real: 308.1963659746818
+This is a polar number:
+              Angle: 528
+              Radius: 303
+              Converted to real: 303
+This is a polar number:
+              Angle: 477
+              Radius: 302
+              Converted to real: 302
+This is a polar number:
+              Angle: 765
+              Radius: 298
+              Converted to real: 298
+This is a polar number:
+              Angle: 8
+              Radius: 298
+              Converted to real: 298
+This is a polar number:
+              Angle: 276
+              Radius: 295
+              Converted to real: 295
+This is a complex number:
+              Real: 243
+              Imaginary: 163
+              Converted to real: 292.60553651631403
+This is a polar number:
+              Angle: 720
+              Radius: 289
+              Converted to real: 289
+This is a complex number:
+              Real: 142
+              Imaginary: 246
+              Converted to real: 284.0422503783548
+This is a polar number:
+              Angle: 445
+              Radius: 283
+              Converted to real: 283
+This is a polar number:
+              Angle: 205
+              Radius: 281
+              Converted to real: 281
+This is a polar number:
+              Angle: 663
+              Radius: 280
+              Converted to real: 280
+This is a polar number:
+              Angle: 435
+              Radius: 277
+              Converted to real: 277
+This is a complex number:
+              Real: 269
+              Imaginary: 47
+              Converted to real: 273.0750812505601
+This is a polar number:
+              Angle: 332
+              Radius: 265
+              Converted to real: 265
+This is a polar number:
+              Angle: 35
+              Radius: 264
+              Converted to real: 264
+This is a complex number:
+              Real: 24
+              Imaginary: 262
+              Converted to real: 263.09694030908076
+This is a polar number:
+              Angle: 820
+              Radius: 255
+              Converted to real: 255
+This is a polar number:
+              Angle: 852
+              Radius: 254
+              Converted to real: 254
+This is a complex number:
+              Real: 206
+              Imaginary: 144
+              Converted to real: 251.34040662018512
+This is a polar number:
+              Angle: 996
+              Radius: 251
+              Converted to real: 251
+This is a polar number:
+              Angle: 970
+              Radius: 247
+              Converted to real: 247
+This is a polar number:
+              Angle: 993
+              Radius: 245
+              Converted to real: 245
+This is a complex number:
+              Real: 221
+              Imaginary: 101
+              Converted to real: 242.98559628093184
+This is a polar number:
+              Angle: 497
+              Radius: 236
+              Converted to real: 236
+This is a complex number:
+              Real: 199
+              Imaginary: 124
+              Converted to real: 234.47174669882938
+This is a complex number:
+              Real: 191
+              Imaginary: 135
+              Converted to real: 233.89313799254566
+This is a polar number:
+              Angle: 430
+              Radius: 232
+              Converted to real: 232
+This is a polar number:
+              Angle: 337
+              Radius: 231
+              Converted to real: 231
+This is a complex number:
+              Real: 6
+              Imaginary: 228
+              Converted to real: 228.07893370497854
+This is a polar number:
+              Angle: 136
+              Radius: 226
+              Converted to real: 226
+This is a polar number:
+              Angle: 128
+              Radius: 226
+              Converted to real: 226
+This is a polar number:
+              Angle: 896
+              Radius: 226
+              Converted to real: 226
+This is a polar number:
+              Angle: 174
+              Radius: 224
+              Converted to real: 224
+This is a complex number:
+              Real: 214
+              Imaginary: 66
+              Converted to real: 223.94642216387382
+This is a polar number:
+              Angle: 706
+              Radius: 223
+              Converted to real: 223
+This is a polar number:
+              Angle: 792
+              Radius: 215
+              Converted to real: 215
+This is a polar number:
+              Angle: 597
+              Radius: 208
+              Converted to real: 208
+This is a polar number:
+              Angle: 179
+              Radius: 207
+              Converted to real: 207
+This is a polar number:
+              Angle: 107
+              Radius: 206
+              Converted to real: 206
+This is a polar number:
+              Angle: 571
+              Radius: 206
+              Converted to real: 206
+This is a polar number:
+              Angle: 831
+              Radius: 203
+              Converted to real: 203
+This is a polar number:
+              Angle: 593
+              Radius: 195
+              Converted to real: 195
+This is a complex number:
+              Real: 101
+              Imaginary: 164
+              Converted to real: 192.6058150731696
+This is a polar number:
+              Angle: 632
+              Radius: 192
+              Converted to real: 192
+This is a polar number:
+              Angle: 755
+              Radius: 192
+              Converted to real: 192
+This is a polar number:
+              Angle: 628
+              Radius: 192
+              Converted to real: 192
+This is a complex number:
+              Real: 43
+              Imaginary: 186
+              Converted to real: 190.90573590125572
+This is a polar number:
+              Angle: 999
+              Radius: 190
+              Converted to real: 190
+This is a polar number:
+              Angle: 288
+              Radius: 189
+              Converted to real: 189
+This is a polar number:
+              Angle: 29
+              Radius: 189
+              Converted to real: 189
+This is a polar number:
+              Angle: 786
+              Radius: 187
+              Converted to real: 187
+This is a polar number:
+              Angle: 244
+              Radius: 187
+              Converted to real: 187
+This is a polar number:
+              Angle: 23
+              Radius: 185
+              Converted to real: 185
+This is a polar number:
+              Angle: 22
+              Radius: 184
+              Converted to real: 184
+This is a polar number:
+              Angle: 319
+              Radius: 182
+              Converted to real: 182
+This is a polar number:
+              Angle: 293
+              Radius: 181
+              Converted to real: 181
+This is a polar number:
+              Angle: 14
+              Radius: 180
+              Converted to real: 180
+This is a polar number:
+              Angle: 786
+              Radius: 179
+              Converted to real: 179
+This is a polar number:
+              Angle: 857
+              Radius: 179
+              Converted to real: 179
+This is a polar number:
+              Angle: 855
+              Radius: 169
+              Converted to real: 169
+This is a polar number:
+              Angle: 624
+              Radius: 161
+              Converted to real: 161
+This is a polar number:
+              Angle: 659
+              Radius: 158
+              Converted to real: 158
+This is a polar number:
+              Angle: 747
+              Radius: 149
+              Converted to real: 149
+This is a polar number:
+              Angle: 225
+              Radius: 147
+              Converted to real: 147
+This is a polar number:
+              Angle: 887
+              Radius: 144
+              Converted to real: 144
+This is a polar number:
+              Angle: 382
+              Radius: 141
+              Converted to real: 141
+This is a polar number:
+              Angle: 977
+              Radius: 141
+              Converted to real: 141
+This is a polar number:
+              Angle: 334
+              Radius: 139
+              Converted to real: 139
+This is a polar number:
+              Angle: 340
+              Radius: 130
+              Converted to real: 130
+This is a polar number:
+              Angle: 84
+              Radius: 130
+              Converted to real: 130
+This is a polar number:
+              Angle: 44
+              Radius: 120
+              Converted to real: 120
+This is a polar number:
+              Angle: 676
+              Radius: 119
+              Converted to real: 119
+This is a polar number:
+              Angle: 284
+              Radius: 118
+              Converted to real: 118
+This is a polar number:
+              Angle: 499
+              Radius: 118
+              Converted to real: 118
+This is a complex number:
+              Real: 104
+              Imaginary: 46
+              Converted to real: 113.718951806636
+This is a polar number:
+              Angle: 762
+              Radius: 113
+              Converted to real: 113
+This is a polar number:
+              Angle: 352
+              Radius: 112
+              Converted to real: 112
+This is a polar number:
+              Angle: 229
+              Radius: 112
+              Converted to real: 112
+This is a polar number:
+              Angle: 598
+              Radius: 111
+              Converted to real: 111
+This is a polar number:
+              Angle: 170
+              Radius: 111
+              Converted to real: 111
+This is a polar number:
+              Angle: 857
+              Radius: 110
+              Converted to real: 110
+This is a polar number:
+              Angle: 796
+              Radius: 106
+              Converted to real: 106
+This is a polar number:
+              Angle: 799
+              Radius: 105
+              Converted to real: 105
+This is a polar number:
+              Angle: 132
+              Radius: 105
+              Converted to real: 105
+This is a polar number:
+              Angle: 826
+              Radius: 103
+              Converted to real: 103
+This is a polar number:
+              Angle: 735
+              Radius: 101
+              Converted to real: 101
+This is a polar number:
+              Angle: 341
+              Radius: 92
+              Converted to real: 92
+This is a polar number:
+              Angle: 218
+              Radius: 92
+              Converted to real: 92
+This is a complex number:
+              Real: 75
+              Imaginary: 2
+              Converted to real: 75.02666192761077
+This is a fraction number:
+              Numerator: 973
+              Denominator: 14
+              Converted to real: 69.5
+This is a polar number:
+              Angle: 407
+              Radius: 69
+              Converted to real: 69
+This is a polar number:
+              Angle: 681
+              Radius: 68
+              Converted to real: 68
+This is a polar number:
+              Angle: 97
+              Radius: 67
+              Converted to real: 67
+This is a polar number:
+              Angle: 917
+              Radius: 64
+              Converted to real: 64
+This is a polar number:
+              Angle: 897
+              Radius: 63
+              Converted to real: 63
+This is a polar number:
+              Angle: 800
+              Radius: 63
+              Converted to real: 63
+This is a polar number:
+              Angle: 863
+              Radius: 62
+              Converted to real: 62
+This is a polar number:
+              Angle: 549
+              Radius: 61
+              Converted to real: 61
+This is a polar number:
+              Angle: 266
+              Radius: 58
+              Converted to real: 58
+This is a polar number:
+              Angle: 346
+              Radius: 57
+              Converted to real: 57
+This is a polar number:
+              Angle: 346
+              Radius: 56
+              Converted to real: 56
+This is a polar number:
+              Angle: 167
+              Radius: 53
+              Converted to real: 53
+This is a polar number:
+              Angle: 883
+              Radius: 53
+              Converted to real: 53
+This is a polar number:
+              Angle: 942
+              Radius: 49
+              Converted to real: 49
+This is a polar number:
+              Angle: 202
+              Radius: 46
+              Converted to real: 46
+This is a complex number:
+              Real: 42
+              Imaginary: 18
+              Converted to real: 45.69463863518345
+This is a polar number:
+              Angle: 841
+              Radius: 40
+              Converted to real: 40
+This is a fraction number:
+              Numerator: 509
+              Denominator: 13
+              Converted to real: 39.15384615384615
+This is a polar number:
+              Angle: 62
+              Radius: 34
+              Converted to real: 34
+This is a polar number:
+              Angle: 461
+              Radius: 33
+              Converted to real: 33
+This is a polar number:
+              Angle: 900
+              Radius: 32
+              Converted to real: 32
+This is a polar number:
+              Angle: 682
+              Radius: 32
+              Converted to real: 32
+This is a fraction number:
+              Numerator: 781
+              Denominator: 26
+              Converted to real: 30.03846153846154
+This is a polar number:
+              Angle: 295
+              Radius: 28
+              Converted to real: 28
+This is a fraction number:
+              Numerator: 838
+              Denominator: 32
+              Converted to real: 26.1875
+This is a polar number:
+              Angle: 795
+              Radius: 23
+              Converted to real: 23
+This is a fraction number:
+              Numerator: 544
+              Denominator: 25
+              Converted to real: 21.76
+This is a fraction number:
+              Numerator: 236
+              Denominator: 11
+              Converted to real: 21.454545454545453
+This is a fraction number:
+              Numerator: 733
+              Denominator: 35
+              Converted to real: 20.942857142857143
+This is a fraction number:
+              Numerator: 961
+              Denominator: 50
+              Converted to real: 19.22
+This is a fraction number:
+              Numerator: 547
+              Denominator: 29
+              Converted to real: 18.862068965517242
+This is a polar number:
+              Angle: 910
+              Radius: 18
+              Converted to real: 18
+This is a polar number:
+              Angle: 135
+              Radius: 16
+              Converted to real: 16
+This is a polar number:
+              Angle: 109
+              Radius: 13
+              Converted to real: 13
+This is a fraction number:
+              Numerator: 818
+              Denominator: 63
+              Converted to real: 12.984126984126984
+This is a fraction number:
+              Numerator: 841
+              Denominator: 65
+              Converted to real: 12.938461538461539
+This is a polar number:
+              Angle: 387
+              Radius: 11
+              Converted to real: 11
+This is a fraction number:
+              Numerator: 211
+              Denominator: 20
+              Converted to real: 10.55
+This is a fraction number:
+              Numerator: 979
+              Denominator: 98
+              Converted to real: 9.989795918367347
+This is a fraction number:
+              Numerator: 990
+              Denominator: 106
+              Converted to real: 9.339622641509434
+This is a fraction number:
+              Numerator: 837
+              Denominator: 93
+              Converted to real: 9.0
+This is a fraction number:
+              Numerator: 437
+              Denominator: 50
+              Converted to real: 8.74
+This is a polar number:
+              Angle: 872
+              Radius: 8
+              Converted to real: 8
+This is a fraction number:
+              Numerator: 648
+              Denominator: 81
+              Converted to real: 8.0
+This is a fraction number:
+              Numerator: 582
+              Denominator: 75
+              Converted to real: 7.76
+This is a fraction number:
+              Numerator: 522
+              Denominator: 71
+              Converted to real: 7.352112676056338
+This is a fraction number:
+              Numerator: 142
+              Denominator: 20
+              Converted to real: 7.1
+This is a fraction number:
+              Numerator: 923
+              Denominator: 137
+              Converted to real: 6.737226277372263
+This is a fraction number:
+              Numerator: 943
+              Denominator: 141
+              Converted to real: 6.6879432624113475
+This is a fraction number:
+              Numerator: 33
+              Denominator: 5
+              Converted to real: 6.6
+This is a fraction number:
+              Numerator: 277
+              Denominator: 44
+              Converted to real: 6.295454545454546
+This is a fraction number:
+              Numerator: 933
+              Denominator: 149
+              Converted to real: 6.261744966442953
+This is a fraction number:
+              Numerator: 386
+              Denominator: 66
+              Converted to real: 5.848484848484849
+This is a fraction number:
+              Numerator: 570
+              Denominator: 99
+              Converted to real: 5.757575757575758
+This is a fraction number:
+              Numerator: 947
+              Denominator: 168
+              Converted to real: 5.636904761904762
+This is a fraction number:
+              Numerator: 900
+              Denominator: 160
+              Converted to real: 5.625
+This is a fraction number:
+              Numerator: 368
+              Denominator: 66
+              Converted to real: 5.575757575757576
+This is a fraction number:
+              Numerator: 728
+              Denominator: 136
+              Converted to real: 5.352941176470588
+This is a fraction number:
+              Numerator: 550
+              Denominator: 112
+              Converted to real: 4.910714285714286
+This is a fraction number:
+              Numerator: 639
+              Denominator: 133
+              Converted to real: 4.804511278195489
+This is a fraction number:
+              Numerator: 444
+              Denominator: 96
+              Converted to real: 4.625
+This is a fraction number:
+              Numerator: 249
+              Denominator: 54
+              Converted to real: 4.611111111111111
+This is a fraction number:
+              Numerator: 988
+              Denominator: 216
+              Converted to real: 4.574074074074074
+This is a fraction number:
+              Numerator: 263
+              Denominator: 59
+              Converted to real: 4.4576271186440675
+This is a fraction number:
+              Numerator: 777
+              Denominator: 196
+              Converted to real: 3.9642857142857144
+This is a fraction number:
+              Numerator: 67
+              Denominator: 17
+              Converted to real: 3.9411764705882355
+This is a fraction number:
+              Numerator: 594
+              Denominator: 153
+              Converted to real: 3.8823529411764706
+This is a fraction number:
+              Numerator: 785
+              Denominator: 204
+              Converted to real: 3.8480392156862746
+This is a fraction number:
+              Numerator: 911
+              Denominator: 239
+              Converted to real: 3.811715481171548
+This is a fraction number:
+              Numerator: 343
+              Denominator: 91
+              Converted to real: 3.769230769230769
+This is a fraction number:
+              Numerator: 370
+              Denominator: 101
+              Converted to real: 3.6633663366336635
+This is a fraction number:
+              Numerator: 843
+              Denominator: 231
+              Converted to real: 3.6493506493506493
+This is a fraction number:
+              Numerator: 862
+              Denominator: 263
+              Converted to real: 3.277566539923954
+This is a fraction number:
+              Numerator: 878
+              Denominator: 276
+              Converted to real: 3.181159420289855
+This is a fraction number:
+              Numerator: 841
+              Denominator: 280
+              Converted to real: 3.0035714285714286
+This is a polar number:
+              Angle: 455
+              Radius: 3
+              Converted to real: 3
+This is a fraction number:
+              Numerator: 893
+              Denominator: 304
+              Converted to real: 2.9375
+This is a fraction number:
+              Numerator: 992
+              Denominator: 339
+              Converted to real: 2.926253687315634
+This is a fraction number:
+              Numerator: 492
+              Denominator: 170
+              Converted to real: 2.8941176470588235
+This is a fraction number:
+              Numerator: 902
+              Denominator: 317
+              Converted to real: 2.8454258675078865
+This is a fraction number:
+              Numerator: 895
+              Denominator: 317
+              Converted to real: 2.823343848580442
+This is a fraction number:
+              Numerator: 121
+              Denominator: 43
+              Converted to real: 2.813953488372093
+This is a fraction number:
+              Numerator: 689
+              Denominator: 249
+              Converted to real: 2.7670682730923697
+This is a fraction number:
+              Numerator: 485
+              Denominator: 177
+              Converted to real: 2.7401129943502824
+This is a fraction number:
+              Numerator: 208
+              Denominator: 77
+              Converted to real: 2.7012987012987013
+This is a fraction number:
+              Numerator: 923
+              Denominator: 343
+              Converted to real: 2.690962099125364
+This is a fraction number:
+              Numerator: 621
+              Denominator: 232
+              Converted to real: 2.6767241379310347
+This is a fraction number:
+              Numerator: 184
+              Denominator: 69
+              Converted to real: 2.6666666666666665
+This is a fraction number:
+              Numerator: 313
+              Denominator: 119
+              Converted to real: 2.630252100840336
+This is a fraction number:
+              Numerator: 256
+              Denominator: 98
+              Converted to real: 2.6122448979591835
+This is a fraction number:
+              Numerator: 723
+              Denominator: 285
+              Converted to real: 2.536842105263158
+This is a fraction number:
+              Numerator: 361
+              Denominator: 144
+              Converted to real: 2.5069444444444446
+This is a fraction number:
+              Numerator: 885
+              Denominator: 354
+              Converted to real: 2.5
+This is a fraction number:
+              Numerator: 912
+              Denominator: 369
+              Converted to real: 2.4715447154471546
+This is a fraction number:
+              Numerator: 740
+              Denominator: 310
+              Converted to real: 2.3870967741935485
+This is a fraction number:
+              Numerator: 431
+              Denominator: 185
+              Converted to real: 2.32972972972973
+This is a fraction number:
+              Numerator: 100
+              Denominator: 43
+              Converted to real: 2.3255813953488373
+This is a fraction number:
+              Numerator: 369
+              Denominator: 164
+              Converted to real: 2.25
+This is a fraction number:
+              Numerator: 942
+              Denominator: 419
+              Converted to real: 2.2482100238663483
+This is a fraction number:
+              Numerator: 547
+              Denominator: 244
+              Converted to real: 2.2418032786885247
+This is a fraction number:
+              Numerator: 883
+              Denominator: 398
+              Converted to real: 2.2185929648241207
+This is a fraction number:
+              Numerator: 109
+              Denominator: 50
+              Converted to real: 2.18
+This is a fraction number:
+              Numerator: 459
+              Denominator: 214
+              Converted to real: 2.1448598130841123
+This is a fraction number:
+              Numerator: 993
+              Denominator: 467
+              Converted to real: 2.126338329764454
+This is a fraction number:
+              Numerator: 400
+              Denominator: 189
+              Converted to real: 2.1164021164021163
+This is a polar number:
+              Angle: 480
+              Radius: 2
+              Converted to real: 2
+This is a fraction number:
+              Numerator: 809
+              Denominator: 422
+              Converted to real: 1.9170616113744077
+This is a fraction number:
+              Numerator: 339
+              Denominator: 177
+              Converted to real: 1.9152542372881356
+This is a fraction number:
+              Numerator: 859
+              Denominator: 454
+              Converted to real: 1.8920704845814977
+This is a fraction number:
+              Numerator: 962
+              Denominator: 515
+              Converted to real: 1.8679611650485437
+This is a fraction number:
+              Numerator: 857
+              Denominator: 465
+              Converted to real: 1.843010752688172
+This is a fraction number:
+              Numerator: 840
+              Denominator: 459
+              Converted to real: 1.8300653594771241
+This is a fraction number:
+              Numerator: 532
+              Denominator: 295
+              Converted to real: 1.8033898305084746
+This is a fraction number:
+              Numerator: 931
+              Denominator: 523
+              Converted to real: 1.780114722753346
+This is a fraction number:
+              Numerator: 499
+              Denominator: 282
+              Converted to real: 1.7695035460992907
+This is a fraction number:
+              Numerator: 917
+              Denominator: 522
+              Converted to real: 1.7567049808429118
+This is a fraction number:
+              Numerator: 989
+              Denominator: 565
+              Converted to real: 1.7504424778761063
+This is a fraction number:
+              Numerator: 591
+              Denominator: 339
+              Converted to real: 1.7433628318584071
+This is a fraction number:
+              Numerator: 907
+              Denominator: 533
+              Converted to real: 1.701688555347092
+This is a fraction number:
+              Numerator: 290
+              Denominator: 172
+              Converted to real: 1.686046511627907
+This is a fraction number:
+              Numerator: 757
+              Denominator: 450
+              Converted to real: 1.6822222222222223
+This is a fraction number:
+              Numerator: 374
+              Denominator: 224
+              Converted to real: 1.6696428571428572
+This is a fraction number:
+              Numerator: 682
+              Denominator: 411
+              Converted to real: 1.659367396593674
+This is a fraction number:
+              Numerator: 911
+              Denominator: 562
+              Converted to real: 1.6209964412811388
+This is a fraction number:
+              Numerator: 966
+              Denominator: 601
+              Converted to real: 1.6073211314475873
+This is a fraction number:
+              Numerator: 825
+              Denominator: 516
+              Converted to real: 1.5988372093023255
+This is a fraction number:
+              Numerator: 684
+              Denominator: 431
+              Converted to real: 1.5870069605568446
+This is a fraction number:
+              Numerator: 858
+              Denominator: 542
+              Converted to real: 1.5830258302583027
+This is a fraction number:
+              Numerator: 985
+              Denominator: 635
+              Converted to real: 1.5511811023622046
+This is a fraction number:
+              Numerator: 971
+              Denominator: 627
+              Converted to real: 1.5486443381180224
+This is a fraction number:
+              Numerator: 943
+              Denominator: 639
+              Converted to real: 1.4757433489827856
+This is a fraction number:
+              Numerator: 357
+              Denominator: 242
+              Converted to real: 1.475206611570248
+This is a fraction number:
+              Numerator: 427
+              Denominator: 294
+              Converted to real: 1.4523809523809523
+This is a fraction number:
+              Numerator: 650
+              Denominator: 453
+              Converted to real: 1.434878587196468
+This is a fraction number:
+              Numerator: 685
+              Denominator: 481
+              Converted to real: 1.4241164241164241
+This is a fraction number:
+              Numerator: 833
+              Denominator: 594
+              Converted to real: 1.4023569023569022
+This is a fraction number:
+              Numerator: 951
+              Denominator: 686
+              Converted to real: 1.3862973760932944
+This is a fraction number:
+              Numerator: 867
+              Denominator: 633
+              Converted to real: 1.3696682464454977
+This is a fraction number:
+              Numerator: 635
+              Denominator: 465
+              Converted to real: 1.3655913978494623
+This is a fraction number:
+              Numerator: 826
+              Denominator: 608
+              Converted to real: 1.3585526315789473
+This is a fraction number:
+              Numerator: 690
+              Denominator: 510
+              Converted to real: 1.3529411764705883
+This is a fraction number:
+              Numerator: 939
+              Denominator: 702
+              Converted to real: 1.3376068376068375
+This is a fraction number:
+              Numerator: 782
+              Denominator: 587
+              Converted to real: 1.332197614991482
+This is a fraction number:
+              Numerator: 970
+              Denominator: 729
+              Converted to real: 1.3305898491083676
+This is a fraction number:
+              Numerator: 481
+              Denominator: 365
+              Converted to real: 1.3178082191780822
+This is a fraction number:
+              Numerator: 592
+              Denominator: 451
+              Converted to real: 1.312638580931264
+This is a fraction number:
+              Numerator: 921
+              Denominator: 713
+              Converted to real: 1.2917251051893408
+This is a fraction number:
+              Numerator: 950
+              Denominator: 737
+              Converted to real: 1.2890094979647218
+This is a fraction number:
+              Numerator: 596
+              Denominator: 468
+              Converted to real: 1.2735042735042734
+This is a fraction number:
+              Numerator: 683
+              Denominator: 538
+              Converted to real: 1.2695167286245352
+This is a fraction number:
+              Numerator: 694
+              Denominator: 550
+              Converted to real: 1.2618181818181817
+This is a fraction number:
+              Numerator: 926
+              Denominator: 750
+              Converted to real: 1.2346666666666666
+This is a fraction number:
+              Numerator: 659
+              Denominator: 535
+              Converted to real: 1.2317757009345793
+This is a fraction number:
+              Numerator: 884
+              Denominator: 718
+              Converted to real: 1.2311977715877438
+This is a fraction number:
+              Numerator: 490
+              Denominator: 400
+              Converted to real: 1.225
+This is a fraction number:
+              Numerator: 748
+              Denominator: 613
+              Converted to real: 1.2202283849918434
+This is a fraction number:
+              Numerator: 162
+              Denominator: 134
+              Converted to real: 1.208955223880597
+This is a fraction number:
+              Numerator: 503
+              Denominator: 418
+              Converted to real: 1.2033492822966507
+This is a fraction number:
+              Numerator: 404
+              Denominator: 337
+              Converted to real: 1.198813056379822
+This is a fraction number:
+              Numerator: 666
+              Denominator: 559
+              Converted to real: 1.1914132379248659
+This is a fraction number:
+              Numerator: 568
+              Denominator: 478
+              Converted to real: 1.1882845188284519
+This is a fraction number:
+              Numerator: 799
+              Denominator: 676
+              Converted to real: 1.1819526627218935
+This is a fraction number:
+              Numerator: 732
+              Denominator: 626
+              Converted to real: 1.1693290734824282
+This is a fraction number:
+              Numerator: 648
+              Denominator: 555
+              Converted to real: 1.1675675675675676
+This is a fraction number:
+              Numerator: 687
+              Denominator: 591
+              Converted to real: 1.1624365482233503
+This is a fraction number:
+              Numerator: 600
+              Denominator: 520
+              Converted to real: 1.1538461538461537
+This is a fraction number:
+              Numerator: 218
+              Denominator: 189
+              Converted to real: 1.1534391534391535
+This is a fraction number:
+              Numerator: 380
+              Denominator: 330
+              Converted to real: 1.1515151515151516
+This is a fraction number:
+              Numerator: 467
+              Denominator: 408
+              Converted to real: 1.1446078431372548
+This is a fraction number:
+              Numerator: 805
+              Denominator: 708
+              Converted to real: 1.137005649717514
+This is a fraction number:
+              Numerator: 524
+              Denominator: 461
+              Converted to real: 1.1366594360086768
+This is a fraction number:
+              Numerator: 512
+              Denominator: 452
+              Converted to real: 1.1327433628318584
+This is a fraction number:
+              Numerator: 253
+              Denominator: 224
+              Converted to real: 1.1294642857142858
+This is a fraction number:
+              Numerator: 701
+              Denominator: 622
+              Converted to real: 1.1270096463022508
+This is a fraction number:
+              Numerator: 689
+              Denominator: 613
+              Converted to real: 1.1239804241435563
+This is a fraction number:
+              Numerator: 285
+              Denominator: 254
+              Converted to real: 1.1220472440944882
+This is a fraction number:
+              Numerator: 714
+              Denominator: 643
+              Converted to real: 1.1104199066874028
+This is a fraction number:
+              Numerator: 808
+              Denominator: 731
+              Converted to real: 1.1053351573187415
+This is a fraction number:
+              Numerator: 672
+              Denominator: 609
+              Converted to real: 1.103448275862069
+This is a fraction number:
+              Numerator: 725
+              Denominator: 661
+              Converted to real: 1.0968229954614221
+This is a fraction number:
+              Numerator: 1000
+              Denominator: 935
+              Converted to real: 1.0695187165775402
+This is a fraction number:
+              Numerator: 523
+              Denominator: 491
+              Converted to real: 1.065173116089613
+This is a fraction number:
+              Numerator: 939
+              Denominator: 883
+              Converted to real: 1.0634201585503964
+This is a fraction number:
+              Numerator: 758
+              Denominator: 715
+              Converted to real: 1.0601398601398602
+This is a fraction number:
+              Numerator: 915
+              Denominator: 865
+              Converted to real: 1.0578034682080926
+This is a fraction number:
+              Numerator: 343
+              Denominator: 332
+              Converted to real: 1.033132530120482
+This is a fraction number:
+              Numerator: 474
+              Denominator: 461
+              Converted to real: 1.0281995661605206
+This is a fraction number:
+              Numerator: 892
+              Denominator: 869
+              Converted to real: 1.0264672036823936
+This is a fraction number:
+              Numerator: 369
+              Denominator: 362
+              Converted to real: 1.0193370165745856
+This is a fraction number:
+              Numerator: 915
+              Denominator: 903
+              Converted to real: 1.0132890365448506
+This is a fraction number:
+              Numerator: 403
+              Denominator: 400
+              Converted to real: 1.0075
+This is a fraction number:
+              Numerator: 826
+              Denominator: 820
+              Converted to real: 1.0073170731707317
+This is a fraction number:
+              Numerator: 536
+              Denominator: 544
+              Converted to real: 0.9852941176470589
+This is a fraction number:
+              Numerator: 540
+              Denominator: 553
+              Converted to real: 0.976491862567812
+This is a fraction number:
+              Numerator: 157
+              Denominator: 161
+              Converted to real: 0.9751552795031055
+This is a fraction number:
+              Numerator: 960
+              Denominator: 995
+              Converted to real: 0.964824120603015
+This is a fraction number:
+              Numerator: 676
+              Denominator: 702
+              Converted to real: 0.9629629629629629
+This is a fraction number:
+              Numerator: 849
+              Denominator: 882
+              Converted to real: 0.9625850340136054
+This is a fraction number:
+              Numerator: 659
+              Denominator: 712
+              Converted to real: 0.925561797752809
+This is a fraction number:
+              Numerator: 346
+              Denominator: 381
+              Converted to real: 0.9081364829396326
+This is a fraction number:
+              Numerator: 502
+              Denominator: 553
+              Converted to real: 0.9077757685352622
+This is a fraction number:
+              Numerator: 889
+              Denominator: 981
+              Converted to real: 0.9062181447502549
+This is a fraction number:
+              Numerator: 619
+              Denominator: 684
+              Converted to real: 0.9049707602339181
+This is a fraction number:
+              Numerator: 800
+              Denominator: 887
+              Converted to real: 0.9019165727170236
+This is a fraction number:
+              Numerator: 346
+              Denominator: 384
+              Converted to real: 0.9010416666666666
+This is a fraction number:
+              Numerator: 521
+              Denominator: 587
+              Converted to real: 0.8875638841567292
+This is a fraction number:
+              Numerator: 245
+              Denominator: 277
+              Converted to real: 0.8844765342960289
+This is a fraction number:
+              Numerator: 788
+              Denominator: 897
+              Converted to real: 0.8784838350055741
+This is a fraction number:
+              Numerator: 254
+              Denominator: 291
+              Converted to real: 0.872852233676976
+This is a fraction number:
+              Numerator: 276
+              Denominator: 322
+              Converted to real: 0.8571428571428571
+This is a fraction number:
+              Numerator: 515
+              Denominator: 613
+              Converted to real: 0.8401305057096248
+This is a fraction number:
+              Numerator: 520
+              Denominator: 630
+              Converted to real: 0.8253968253968254
+This is a fraction number:
+              Numerator: 158
+              Denominator: 194
+              Converted to real: 0.8144329896907216
+This is a fraction number:
+              Numerator: 648
+              Denominator: 798
+              Converted to real: 0.8120300751879699
+This is a fraction number:
+              Numerator: 597
+              Denominator: 737
+              Converted to real: 0.8100407055630936
+This is a fraction number:
+              Numerator: 783
+              Denominator: 980
+              Converted to real: 0.7989795918367347
+This is a fraction number:
+              Numerator: 650
+              Denominator: 825
+              Converted to real: 0.7878787878787878
+This is a fraction number:
+              Numerator: 573
+              Denominator: 729
+              Converted to real: 0.7860082304526749
+This is a fraction number:
+              Numerator: 395
+              Denominator: 504
+              Converted to real: 0.7837301587301587
+This is a fraction number:
+              Numerator: 583
+              Denominator: 745
+              Converted to real: 0.7825503355704698
+This is a fraction number:
+              Numerator: 254
+              Denominator: 325
+              Converted to real: 0.7815384615384615
+This is a fraction number:
+              Numerator: 605
+              Denominator: 775
+              Converted to real: 0.7806451612903226
+This is a fraction number:
+              Numerator: 694
+              Denominator: 897
+              Converted to real: 0.7736900780379041
+This is a fraction number:
+              Numerator: 561
+              Denominator: 736
+              Converted to real: 0.7622282608695652
+This is a fraction number:
+              Numerator: 423
+              Denominator: 560
+              Converted to real: 0.7553571428571428
+This is a fraction number:
+              Numerator: 175
+              Denominator: 232
+              Converted to real: 0.7543103448275862
+This is a fraction number:
+              Numerator: 244
+              Denominator: 325
+              Converted to real: 0.7507692307692307
+This is a fraction number:
+              Numerator: 609
+              Denominator: 813
+              Converted to real: 0.7490774907749077
+This is a fraction number:
+              Numerator: 709
+              Denominator: 951
+              Converted to real: 0.7455310199789695
+This is a fraction number:
+              Numerator: 704
+              Denominator: 957
+              Converted to real: 0.735632183908046
+This is a fraction number:
+              Numerator: 443
+              Denominator: 603
+              Converted to real: 0.7346600331674958
+This is a fraction number:
+              Numerator: 554
+              Denominator: 756
+              Converted to real: 0.7328042328042328
+This is a fraction number:
+              Numerator: 697
+              Denominator: 967
+              Converted to real: 0.7207859358841778
+This is a fraction number:
+              Numerator: 490
+              Denominator: 680
+              Converted to real: 0.7205882352941176
+This is a fraction number:
+              Numerator: 394
+              Denominator: 553
+              Converted to real: 0.7124773960216998
+This is a fraction number:
+              Numerator: 649
+              Denominator: 920
+              Converted to real: 0.7054347826086956
+This is a fraction number:
+              Numerator: 266
+              Denominator: 378
+              Converted to real: 0.7037037037037037
+This is a fraction number:
+              Numerator: 252
+              Denominator: 360
+              Converted to real: 0.7
+This is a fraction number:
+              Numerator: 544
+              Denominator: 779
+              Converted to real: 0.6983311938382541
+This is a fraction number:
+              Numerator: 559
+              Denominator: 813
+              Converted to real: 0.6875768757687577
+This is a fraction number:
+              Numerator: 176
+              Denominator: 257
+              Converted to real: 0.6848249027237354
+This is a fraction number:
+              Numerator: 593
+              Denominator: 866
+              Converted to real: 0.684757505773672
+This is a fraction number:
+              Numerator: 436
+              Denominator: 639
+              Converted to real: 0.6823161189358372
+This is a fraction number:
+              Numerator: 49
+              Denominator: 72
+              Converted to real: 0.6805555555555556
+This is a fraction number:
+              Numerator: 53
+              Denominator: 78
+              Converted to real: 0.6794871794871795
+This is a fraction number:
+              Numerator: 343
+              Denominator: 507
+              Converted to real: 0.6765285996055227
+This is a fraction number:
+              Numerator: 175
+              Denominator: 261
+              Converted to real: 0.6704980842911877
+This is a fraction number:
+              Numerator: 276
+              Denominator: 414
+              Converted to real: 0.6666666666666666
+This is a fraction number:
+              Numerator: 506
+              Denominator: 763
+              Converted to real: 0.6631716906946264
+This is a fraction number:
+              Numerator: 508
+              Denominator: 774
+              Converted to real: 0.6563307493540051
+This is a fraction number:
+              Numerator: 407
+              Denominator: 625
+              Converted to real: 0.6512
+This is a fraction number:
+              Numerator: 616
+              Denominator: 956
+              Converted to real: 0.6443514644351465
+This is a fraction number:
+              Numerator: 294
+              Denominator: 459
+              Converted to real: 0.6405228758169934
+This is a fraction number:
+              Numerator: 434
+              Denominator: 679
+              Converted to real: 0.6391752577319587
+This is a fraction number:
+              Numerator: 492
+              Denominator: 782
+              Converted to real: 0.629156010230179
+This is a fraction number:
+              Numerator: 583
+              Denominator: 950
+              Converted to real: 0.6136842105263158
+This is a fraction number:
+              Numerator: 251
+              Denominator: 410
+              Converted to real: 0.6121951219512195
+This is a fraction number:
+              Numerator: 160
+              Denominator: 262
+              Converted to real: 0.6106870229007634
+This is a fraction number:
+              Numerator: 313
+              Denominator: 515
+              Converted to real: 0.6077669902912621
+This is a fraction number:
+              Numerator: 274
+              Denominator: 452
+              Converted to real: 0.6061946902654868
+This is a fraction number:
+              Numerator: 376
+              Denominator: 629
+              Converted to real: 0.5977742448330684
+This is a fraction number:
+              Numerator: 363
+              Denominator: 632
+              Converted to real: 0.5743670886075949
+This is a fraction number:
+              Numerator: 112
+              Denominator: 196
+              Converted to real: 0.5714285714285714
+This is a fraction number:
+              Numerator: 507
+              Denominator: 909
+              Converted to real: 0.5577557755775577
+This is a fraction number:
+              Numerator: 457
+              Denominator: 823
+              Converted to real: 0.5552855407047388
+This is a fraction number:
+              Numerator: 29
+              Denominator: 53
+              Converted to real: 0.5471698113207547
+This is a fraction number:
+              Numerator: 207
+              Denominator: 381
+              Converted to real: 0.5433070866141733
+This is a fraction number:
+              Numerator: 434
+              Denominator: 803
+              Converted to real: 0.5404732254047323
+This is a fraction number:
+              Numerator: 96
+              Denominator: 178
+              Converted to real: 0.5393258426966292
+This is a fraction number:
+              Numerator: 353
+              Denominator: 655
+              Converted to real: 0.5389312977099237
+This is a fraction number:
+              Numerator: 178
+              Denominator: 332
+              Converted to real: 0.536144578313253
+This is a fraction number:
+              Numerator: 271
+              Denominator: 506
+              Converted to real: 0.5355731225296443
+This is a fraction number:
+              Numerator: 483
+              Denominator: 908
+              Converted to real: 0.5319383259911894
+This is a fraction number:
+              Numerator: 414
+              Denominator: 786
+              Converted to real: 0.5267175572519084
+This is a fraction number:
+              Numerator: 343
+              Denominator: 656
+              Converted to real: 0.5228658536585366
+This is a fraction number:
+              Numerator: 359
+              Denominator: 689
+              Converted to real: 0.521044992743106
+This is a fraction number:
+              Numerator: 183
+              Denominator: 358
+              Converted to real: 0.5111731843575419
+This is a fraction number:
+              Numerator: 464
+              Denominator: 934
+              Converted to real: 0.49678800856531047
+This is a fraction number:
+              Numerator: 359
+              Denominator: 724
+              Converted to real: 0.4958563535911602
+This is a fraction number:
+              Numerator: 354
+              Denominator: 717
+              Converted to real: 0.49372384937238495
+This is a fraction number:
+              Numerator: 114
+              Denominator: 231
+              Converted to real: 0.4935064935064935
+This is a fraction number:
+              Numerator: 193
+              Denominator: 395
+              Converted to real: 0.48860759493670886
+This is a fraction number:
+              Numerator: 204
+              Denominator: 424
+              Converted to real: 0.4811320754716981
+This is a fraction number:
+              Numerator: 385
+              Denominator: 812
+              Converted to real: 0.47413793103448276
+This is a fraction number:
+              Numerator: 255
+              Denominator: 545
+              Converted to real: 0.46788990825688076
+This is a fraction number:
+              Numerator: 442
+              Denominator: 986
+              Converted to real: 0.4482758620689655
+This is a fraction number:
+              Numerator: 372
+              Denominator: 844
+              Converted to real: 0.44075829383886256
+This is a fraction number:
+              Numerator: 36
+              Denominator: 84
+              Converted to real: 0.42857142857142855
+This is a fraction number:
+              Numerator: 318
+              Denominator: 755
+              Converted to real: 0.42119205298013246
+This is a fraction number:
+              Numerator: 280
+              Denominator: 668
+              Converted to real: 0.41916167664670656
+This is a fraction number:
+              Numerator: 158
+              Denominator: 382
+              Converted to real: 0.41361256544502617
+This is a fraction number:
+              Numerator: 294
+              Denominator: 716
+              Converted to real: 0.4106145251396648
+This is a fraction number:
+              Numerator: 322
+              Denominator: 787
+              Converted to real: 0.409148665819568
+This is a fraction number:
+              Numerator: 145
+              Denominator: 356
+              Converted to real: 0.40730337078651685
+This is a fraction number:
+              Numerator: 309
+              Denominator: 759
+              Converted to real: 0.40711462450592883
+This is a fraction number:
+              Numerator: 369
+              Denominator: 910
+              Converted to real: 0.4054945054945055
+This is a fraction number:
+              Numerator: 375
+              Denominator: 950
+              Converted to real: 0.39473684210526316
+This is a fraction number:
+              Numerator: 20
+              Denominator: 51
+              Converted to real: 0.39215686274509803
+This is a fraction number:
+              Numerator: 224
+              Denominator: 582
+              Converted to real: 0.3848797250859107
+This is a fraction number:
+              Numerator: 182
+              Denominator: 479
+              Converted to real: 0.37995824634655534
+This is a fraction number:
+              Numerator: 230
+              Denominator: 607
+              Converted to real: 0.37891268533772654
+This is a fraction number:
+              Numerator: 322
+              Denominator: 855
+              Converted to real: 0.37660818713450295
+This is a fraction number:
+              Numerator: 116
+              Denominator: 313
+              Converted to real: 0.3706070287539936
+This is a fraction number:
+              Numerator: 188
+              Denominator: 524
+              Converted to real: 0.35877862595419846
+This is a fraction number:
+              Numerator: 341
+              Denominator: 952
+              Converted to real: 0.3581932773109244
+This is a fraction number:
+              Numerator: 238
+              Denominator: 669
+              Converted to real: 0.35575485799701045
+This is a fraction number:
+              Numerator: 301
+              Denominator: 878
+              Converted to real: 0.3428246013667426
+This is a fraction number:
+              Numerator: 250
+              Denominator: 736
+              Converted to real: 0.33967391304347827
+This is a fraction number:
+              Numerator: 109
+              Denominator: 332
+              Converted to real: 0.32831325301204817
+This is a fraction number:
+              Numerator: 306
+              Denominator: 950
+              Converted to real: 0.32210526315789473
+This is a fraction number:
+              Numerator: 266
+              Denominator: 856
+              Converted to real: 0.3107476635514019
+This is a fraction number:
+              Numerator: 218
+              Denominator: 767
+              Converted to real: 0.2842242503259452
+This is a fraction number:
+              Numerator: 92
+              Denominator: 324
+              Converted to real: 0.2839506172839506
+This is a fraction number:
+              Numerator: 256
+              Denominator: 905
+              Converted to real: 0.2828729281767956
+This is a fraction number:
+              Numerator: 195
+              Denominator: 769
+              Converted to real: 0.2535760728218466
+This is a fraction number:
+              Numerator: 155
+              Denominator: 621
+              Converted to real: 0.249597423510467
+This is a fraction number:
+              Numerator: 105
+              Denominator: 458
+              Converted to real: 0.2292576419213974
+This is a fraction number:
+              Numerator: 196
+              Denominator: 895
+              Converted to real: 0.21899441340782122
+This is a fraction number:
+              Numerator: 45
+              Denominator: 207
+              Converted to real: 0.21739130434782608
+This is a fraction number:
+              Numerator: 170
+              Denominator: 839
+              Converted to real: 0.2026221692491061
+This is a fraction number:
+              Numerator: 158
+              Denominator: 805
+              Converted to real: 0.19627329192546583
+This is a fraction number:
+              Numerator: 185
+              Denominator: 964
+              Converted to real: 0.19190871369294607
+This is a fraction number:
+              Numerator: 163
+              Denominator: 960
+              Converted to real: 0.16979166666666667
+This is a fraction number:
+              Numerator: 110
+              Denominator: 650
+              Converted to real: 0.16923076923076924
+This is a fraction number:
+              Numerator: 34
+              Denominator: 224
+              Converted to real: 0.15178571428571427
+This is a fraction number:
+              Numerator: 93
+              Denominator: 616
+              Converted to real: 0.15097402597402598
+This is a fraction number:
+              Numerator: 121
+              Denominator: 842
+              Converted to real: 0.14370546318289787
+This is a fraction number:
+              Numerator: 86
+              Denominator: 618
+              Converted to real: 0.13915857605177995
+This is a fraction number:
+              Numerator: 65
+              Denominator: 478
+              Converted to real: 0.13598326359832635
+This is a fraction number:
+              Numerator: 106
+              Denominator: 798
+              Converted to real: 0.13283208020050125
+This is a fraction number:
+              Numerator: 119
+              Denominator: 948
+              Converted to real: 0.12552742616033755
+This is a fraction number:
+              Numerator: 44
+              Denominator: 388
+              Converted to real: 0.1134020618556701
+This is a fraction number:
+              Numerator: 85
+              Denominator: 788
+              Converted to real: 0.10786802030456853
+This is a fraction number:
+              Numerator: 95
+              Denominator: 982
+              Converted to real: 0.09674134419551934
+This is a fraction number:
+              Numerator: 62
+              Denominator: 819
+              Converted to real: 0.0757020757020757
+This is a fraction number:
+              Numerator: 61
+              Denominator: 845
+              Converted to real: 0.07218934911242604
+This is a fraction number:
+              Numerator: 41
+              Denominator: 600
+              Converted to real: 0.06833333333333333
+This is a fraction number:
+              Numerator: 14
+              Denominator: 206
+              Converted to real: 0.06796116504854369
+This is a fraction number:
+              Numerator: 58
+              Denominator: 968
+              Converted to real: 0.05991735537190083
+This is a fraction number:
+              Numerator: 39
+              Denominator: 907
+              Converted to real: 0.04299889746416759
+This is a fraction number:
+              Numerator: 36
+              Denominator: 856
+              Converted to real: 0.04205607476635514
+This is a fraction number:
+              Numerator: 28
+              Denominator: 757
+              Converted to real: 0.036988110964332896
+This is a fraction number:
+              Numerator: 27
+              Denominator: 744
+              Converted to real: 0.036290322580645164
+This is a fraction number:
+              Numerator: 33
+              Denominator: 973
+              Converted to real: 0.03391572456320658
+This is a fraction number:
+              Numerator: 29
+              Denominator: 885
+              Converted to real: 0.0327683615819209
+This is a fraction number:
+              Numerator: 25
+              Denominator: 865
+              Converted to real: 0.028901734104046242
+This is a fraction number:
+              Numerator: 12
+              Denominator: 801
+              Converted to real: 0.0149812734082397
+This is a fraction number:
+              Numerator: 3
+              Denominator: 551
+              Converted to real: 0.0054446460980036296
+This is a fraction number:
+              Numerator: 1
+              Denominator: 673
+              Converted to real: 0.0014858841010401188
+This is a polar number:
+              Angle: 640
+              Radius: 0
+              Converted to real: 0

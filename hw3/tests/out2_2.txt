@@ -1,0 +1,40 @@
+This is a fraction number:
+              Numerator: 10
+              Denominator: 1
+              Converted to real: 10.0
+This is a polar number:
+              Angle: 0.0
+              Radius: 5.0
+              Converted to real: 5.0
+This is a complex number:
+              Real: 0.0
+              Imaginary: 3.0
+              Converted to real: 3.0
+This is a complex number:
+              Real: 2.0
+              Imaginary: 0.0
+              Converted to real: 2.0
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 0
+              Denominator: 5
+              Converted to real: 0.0
+This is a fraction number:
+              Numerator: 0
+              Denominator: 1
+              Converted to real: 0.0
+This is a polar number:
+              Angle: 0.0
+              Radius: 0.0
+              Converted to real: 0.0
+This is a complex number:
+              Real: 0.0
+              Imaginary: 0.0
+              Converted to real: 0.0
+This is a polar number:
+              Angle: 5.0
+              Radius: 0.0
+              Converted to real: 0.0

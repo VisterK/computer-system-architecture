@@ -1,0 +1,80 @@
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 1
+              Denominator: 2
+              Converted to real: 0.5
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 1
+              Denominator: 2
+              Converted to real: 0.5
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 1
+              Denominator: 2
+              Converted to real: 0.5
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 1
+              Denominator: 2
+              Converted to real: 0.5
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 1
+              Denominator: 2
+              Converted to real: 0.5
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 1
+              Denominator: 2
+              Converted to real: 0.5
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 1
+              Denominator: 2
+              Converted to real: 0.5
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 1
+              Denominator: 2
+              Converted to real: 0.5
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 1
+              Denominator: 2
+              Converted to real: 0.5
+This is a complex number:
+              Real: 1.0
+              Imaginary: 1.0
+              Converted to real: 1.4142135623730951
+This is a fraction number:
+              Numerator: 1
+              Denominator: 2
+              Converted to real: 0.5

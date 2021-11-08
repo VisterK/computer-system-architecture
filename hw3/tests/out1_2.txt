@@ -1,0 +1,16 @@
+This is a complex number:
+              Real: 4.0
+              Imaginary: 7.0
+              Converted to real: 8.06225774829855
+This is a polar number:
+              Angle: 5.0
+              Radius: 6.0
+              Converted to real: 6.0
+This is a complex number:
+              Real: 2.0
+              Imaginary: 5.0
+              Converted to real: 5.385164807134504
+This is a fraction number:
+              Numerator: 10
+              Denominator: 30
+              Converted to real: 0.3333333333333333
