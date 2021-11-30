@@ -18,27 +18,27 @@
 На рандомных тестах на 10000 элементах C+NASM работает на 15% быстрее решения, ориентированного
 на процедурный подход.
 
-##Время выполнения программы:
+## Время выполнения программы:
 
-###Test #1
+### Test #1
 
 real    0m0,001s  
 user    0m0,001s  
 sys     0m0,000s  
 
-###Test #2
+### Test #2
 
 real    0m0,001s  
 user    0m0,001s  
 sys     0m0,000s    
 
-###Test #3
+### Test #3
 
 real    0m0,001s  
 user    0m0,000s  
 sys     0m0,001s  
 
-###Test #4
+### Test #4
 
 real    0m0,001s  
 user    0m0,001s  
@@ -49,13 +49,13 @@ sys     0m0,000s
 real    0m0,001s  
 user    0m0,001s  
 sys     0m0,000s    
-###Random test #1
+### Random test #1
 
 real    0m0,001s  
 user    0m0,001s  
 sys     0m0,000s  
 
-###Random Test #2
+### Random Test #2
 
 real    0m0,964s  
 user    0m0,964s  
