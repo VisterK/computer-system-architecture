@@ -1,0 +1,37 @@
+Container contains 12 elements.
+0: It is Fraction: a = 1, b = 2.
+ Converted to Real = 0.5
+
+1: It is Fraction: a = 1, b = 2.
+ Converted to Real = 0.5
+
+2: It is Fraction: a = 1, b = 2.
+ Converted to Real = 0.5
+
+3: It is Fraction: a = 1, b = 2.
+ Converted to Real = 0.5
+
+4: It is Fraction: a = 1, b = 2.
+ Converted to Real = 0.5
+
+5: It is Fraction: a = 1, b = 2.
+ Converted to Real = 0.5
+
+6: It is Complex: x = 1, y = 1.
+ Converted to Real = 2
+
+7: It is Complex: x = 1, y = 1.
+ Converted to Real = 2
+
+8: It is Complex: x = 1, y = 1.
+ Converted to Real = 2
+
+9: It is Complex: x = 1, y = 1.
+ Converted to Real = 2
+
+10: It is Complex: x = 1, y = 1.
+ Converted to Real = 2
+
+11: It is Complex: x = 1, y = 1.
+ Converted to Real = 2
+

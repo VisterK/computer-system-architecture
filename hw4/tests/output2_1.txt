@@ -1,0 +1,35 @@
+Filled container:
+Container contains 11 elements.
+0: It is Complex: x = 1, y = 1.
+ Converted to Real = 2
+
+1: It is Complex: x = 2, y = 0.
+ Converted to Real = 4
+
+2: It is Complex: x = 0, y = 3.
+ Converted to Real = 9
+
+3: It is Complex: x = 0, y = 0.
+ Converted to Real = 0
+
+4: It is Fraction: a = 0, b = 1.
+ Converted to Real = 0
+
+5: It is Fraction: a = 0, b = 5.
+ Converted to Real = 0
+
+6: It is Fraction: a = 10, b = 1.
+ Converted to Real = 10
+
+7: It is Polar: a = 0, b = 0.
+ Converted to Real = 0
+
+8: It is Polar: a = 0, b = 5.
+ Converted to Real = 5
+
+9: It is Polar: a = 5, b = 0.
+ Converted to Real = 0
+
+10: It is Polar: a = 0, b = 0.
+ Converted to Real = 0
+

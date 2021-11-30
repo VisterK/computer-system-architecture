@@ -1,0 +1,20 @@
+Filled container:
+Container contains 6 elements.
+0: It is Complex: x = 1000, y = 2000.
+ Converted to Real = 5e+06
+
+1: It is Fraction: a = 1000, b = 2000.
+ Converted to Real = 0.5
+
+2: It is Polar: a = 2000, b = 3000.
+ Converted to Real = 3000
+
+3: It is Complex: x = 2000, y = 1000.
+ Converted to Real = 5e+06
+
+4: It is Fraction: a = 2000, b = 1000.
+ Converted to Real = 2
+
+5: It is Polar: a = 2000, b = 1000.
+ Converted to Real = 1000
+

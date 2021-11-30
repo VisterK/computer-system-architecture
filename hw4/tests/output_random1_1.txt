@@ -1,0 +1,1002 @@
+Filled container:
+Container contains 1000 numbers.
+0: It is a fraction: Numerator = 56, Imaginary = 62. Converted to real = 0.903226
+1: It is a polar number: Angle = 10, Radius = 6. Converted to real = 6
+2: It is a fraction: Numerator = 50, Imaginary = 48. Converted to real = 1.04167
+3: It is a fraction: Numerator = 20, Imaginary = 42. Converted to real = 0.47619
+4: It is a polar number: Angle = 20, Radius = 46. Converted to real = 46
+5: It is a fraction: Numerator = 80, Imaginary = 86. Converted to real = 0.930233
+6: It is a fraction: Numerator = 78, Imaginary = 12. Converted to real = 6.5
+7: It is Complex number: Real = 43, Imaginary = 96. Converted to real = 105.19
+8: It is a polar number: Angle = 2, Radius = 33. Converted to real = 33
+9: It is Complex number: Real = 44, Imaginary = 87. Converted to real = 97.4936
+10: It is a fraction: Numerator = 89, Imaginary = 35. Converted to real = 2.54286
+11: It is Complex number: Real = 32, Imaginary = 24. Converted to real = 40
+12: It is Complex number: Real = 35, Imaginary = 82. Converted to real = 89.1572
+13: It is a fraction: Numerator = 87, Imaginary = 25. Converted to real = 3.48
+14: It is Complex number: Real = 59, Imaginary = 63. Converted to real = 86.3134
+15: It is a polar number: Angle = 54, Radius = 74. Converted to real = 74
+16: It is a fraction: Numerator = 74, Imaginary = 61. Converted to real = 1.21311
+17: It is a polar number: Angle = 89, Radius = 16. Converted to real = 16
+18: It is a polar number: Angle = 60, Radius = 24. Converted to real = 24
+19: It is a polar number: Angle = 92, Radius = 74. Converted to real = 74
+20: It is a fraction: Numerator = 27, Imaginary = 37. Converted to real = 0.72973
+21: It is Complex number: Real = 29, Imaginary = 10. Converted to real = 30.6757
+22: It is a fraction: Numerator = 59, Imaginary = 10. Converted to real = 5.9
+23: It is a polar number: Angle = 11, Radius = 17. Converted to real = 17
+24: It is a polar number: Angle = 90, Radius = 98. Converted to real = 98
+25: It is a polar number: Angle = 67, Radius = 36. Converted to real = 36
+26: It is a polar number: Angle = 97, Radius = 86. Converted to real = 86
+27: It is a fraction: Numerator = 74, Imaginary = 28. Converted to real = 2.64286
+28: It is a polar number: Angle = 97, Radius = 11. Converted to real = 11
+29: It is a fraction: Numerator = 98, Imaginary = 16. Converted to real = 6.125
+30: It is Complex number: Real = 77, Imaginary = 28. Converted to real = 81.9329
+31: It is Complex number: Real = 94, Imaginary = 41. Converted to real = 102.552
+32: It is Complex number: Real = 32, Imaginary = 20. Converted to real = 37.7359
+33: It is a fraction: Numerator = 31, Imaginary = 91. Converted to real = 0.340659
+34: It is a fraction: Numerator = 68, Imaginary = 86. Converted to real = 0.790698
+35: It is Complex number: Real = 77, Imaginary = 2. Converted to real = 77.026
+36: It is a polar number: Angle = 54, Radius = 92. Converted to real = 92
+37: It is a polar number: Angle = 94, Radius = 38. Converted to real = 38
+38: It is a fraction: Numerator = 27, Imaginary = 90. Converted to real = 0.3
+39: It is a fraction: Numerator = 10, Imaginary = 93. Converted to real = 0.107527
+40: It is Complex number: Real = 58, Imaginary = 43. Converted to real = 72.2011
+41: It is a polar number: Angle = 44, Radius = 9. Converted to real = 9
+42: It is a polar number: Angle = 30, Radius = 87. Converted to real = 87
+43: It is Complex number: Real = 28, Imaginary = 28. Converted to real = 39.598
+44: It is Complex number: Real = 88, Imaginary = 95. Converted to real = 129.495
+45: It is Complex number: Real = 65, Imaginary = 69. Converted to real = 94.7945
+46: It is Complex number: Real = 21, Imaginary = 63. Converted to real = 66.4078
+47: It is a polar number: Angle = 96, Radius = 22. Converted to real = 22
+48: It is Complex number: Real = 44, Imaginary = 47. Converted to real = 64.3817
+49: It is a fraction: Numerator = 11, Imaginary = 52. Converted to real = 0.211538
+50: It is a polar number: Angle = 49, Radius = 4. Converted to real = 4
+51: It is a polar number: Angle = 21, Radius = 99. Converted to real = 99
+52: It is a polar number: Angle = 1, Radius = 46. Converted to real = 46
+53: It is a polar number: Angle = 11, Radius = 55. Converted to real = 55
+54: It is a polar number: Angle = 89, Radius = 95. Converted to real = 95
+55: It is a fraction: Numerator = 92, Imaginary = 93. Converted to real = 0.989247
+56: It is Complex number: Real = 7, Imaginary = 0. Converted to real = 7
+57: It is a fraction: Numerator = 51, Imaginary = 68. Converted to real = 0.75
+58: It is a polar number: Angle = 84, Radius = 76. Converted to real = 76
+59: It is a polar number: Angle = 31, Radius = 0. Converted to real = 0
+60: It is a fraction: Numerator = 90, Imaginary = 49. Converted to real = 1.83673
+61: It is a fraction: Numerator = 0, Imaginary = 14. Converted to real = 0
+62: It is a polar number: Angle = 83, Radius = 80. Converted to real = 80
+63: It is a polar number: Angle = 2, Radius = 30. Converted to real = 30
+64: It is a polar number: Angle = 93, Radius = 41. Converted to real = 41
+65: It is a polar number: Angle = 53, Radius = 2. Converted to real = 2
+66: It is a fraction: Numerator = 62, Imaginary = 57. Converted to real = 1.08772
+67: It is Complex number: Real = 16, Imaginary = 3. Converted to real = 16.2788
+68: It is Complex number: Real = 8, Imaginary = 66. Converted to real = 66.4831
+69: It is a fraction: Numerator = 90, Imaginary = 80. Converted to real = 1.125
+70: It is Complex number: Real = 5, Imaginary = 2. Converted to real = 5.38516
+71: It is Complex number: Real = 16, Imaginary = 59. Converted to real = 61.131
+72: It is a polar number: Angle = 57, Radius = 60. Converted to real = 60
+73: It is Complex number: Real = 53, Imaginary = 22. Converted to real = 57.3847
+74: It is a polar number: Angle = 82, Radius = 31. Converted to real = 31
+75: It is a polar number: Angle = 73, Radius = 24. Converted to real = 24
+76: It is a polar number: Angle = 39, Radius = 44. Converted to real = 44
+77: It is a polar number: Angle = 87, Radius = 16. Converted to real = 16
+78: It is a polar number: Angle = 82, Radius = 4. Converted to real = 4
+79: It is Complex number: Real = 58, Imaginary = 28. Converted to real = 64.405
+80: It is a polar number: Angle = 58, Radius = 68. Converted to real = 68
+81: It is a polar number: Angle = 15, Radius = 1. Converted to real = 1
+82: It is a polar number: Angle = 97, Radius = 68. Converted to real = 68
+83: It is a fraction: Numerator = 10, Imaginary = 59. Converted to real = 0.169492
+84: It is a polar number: Angle = 77, Radius = 62. Converted to real = 62
+85: It is a fraction: Numerator = 24, Imaginary = 54. Converted to real = 0.444444
+86: It is Complex number: Real = 8, Imaginary = 66. Converted to real = 66.4831
+87: It is Complex number: Real = 69, Imaginary = 25. Converted to real = 73.3894
+88: It is Complex number: Real = 46, Imaginary = 94. Converted to real = 104.652
+89: It is a fraction: Numerator = 33, Imaginary = 85. Converted to real = 0.388235
+90: It is Complex number: Real = 58, Imaginary = 71. Converted to real = 91.6788
+91: It is Complex number: Real = 11, Imaginary = 64. Converted to real = 64.9384
+92: It is Complex number: Real = 74, Imaginary = 94. Converted to real = 119.633
+93: It is a polar number: Angle = 48, Radius = 26. Converted to real = 26
+94: It is a polar number: Angle = 70, Radius = 28. Converted to real = 28
+95: It is a fraction: Numerator = 56, Imaginary = 24. Converted to real = 2.33333
+96: It is a fraction: Numerator = 90, Imaginary = 2. Converted to real = 45
+97: It is a polar number: Angle = 84, Radius = 94. Converted to real = 94
+98: It is a fraction: Numerator = 66, Imaginary = 45. Converted to real = 1.46667
+99: It is Complex number: Real = 38, Imaginary = 65. Converted to real = 75.2928
+100: It is Complex number: Real = 94, Imaginary = 65. Converted to real = 114.285
+101: It is a polar number: Angle = 6, Radius = 65. Converted to real = 65
+102: It is a polar number: Angle = 24, Radius = 70. Converted to real = 70
+103: It is a fraction: Numerator = 85, Imaginary = 93. Converted to real = 0.913978
+104: It is a fraction: Numerator = 58, Imaginary = 21. Converted to real = 2.7619
+105: It is a fraction: Numerator = 91, Imaginary = 75. Converted to real = 1.21333
+106: It is Complex number: Real = 89, Imaginary = 54. Converted to real = 104.101
+107: It is Complex number: Real = 54, Imaginary = 87. Converted to real = 102.396
+108: It is Complex number: Real = 31, Imaginary = 71. Converted to real = 77.4726
+109: It is Complex number: Real = 21, Imaginary = 58. Converted to real = 61.6847
+110: It is Complex number: Real = 85, Imaginary = 33. Converted to real = 91.1811
+111: It is Complex number: Real = 84, Imaginary = 46. Converted to real = 95.7706
+112: It is a fraction: Numerator = 32, Imaginary = 61. Converted to real = 0.52459
+113: It is a fraction: Numerator = 30, Imaginary = 36. Converted to real = 0.833333
+114: It is a fraction: Numerator = 30, Imaginary = 52. Converted to real = 0.576923
+115: It is a polar number: Angle = 98, Radius = 20. Converted to real = 20
+116: It is Complex number: Real = 13, Imaginary = 92. Converted to real = 92.9139
+117: It is a fraction: Numerator = 87, Imaginary = 27. Converted to real = 3.22222
+118: It is a fraction: Numerator = 97, Imaginary = 72. Converted to real = 1.34722
+119: It is a fraction: Numerator = 0, Imaginary = 3. Converted to real = 0
+120: It is Complex number: Real = 0, Imaginary = 43. Converted to real = 43
+121: It is a fraction: Numerator = 34, Imaginary = 35. Converted to real = 0.971429
+122: It is Complex number: Real = 70, Imaginary = 23. Converted to real = 73.6817
+123: It is a polar number: Angle = 84, Radius = 3. Converted to real = 3
+124: It is Complex number: Real = 75, Imaginary = 0. Converted to real = 75
+125: It is a fraction: Numerator = 55, Imaginary = 100. Converted to real = 0.55
+126: It is a polar number: Angle = 79, Radius = 52. Converted to real = 52
+127: It is a polar number: Angle = 75, Radius = 37. Converted to real = 37
+128: It is Complex number: Real = 63, Imaginary = 24. Converted to real = 67.4166
+129: It is Complex number: Real = 60, Imaginary = 86. Converted to real = 104.862
+130: It is a polar number: Angle = 76, Radius = 15. Converted to real = 15
+131: It is a polar number: Angle = 28, Radius = 24. Converted to real = 24
+132: It is a polar number: Angle = 80, Radius = 19. Converted to real = 19
+133: It is Complex number: Real = 0, Imaginary = 0. Converted to real = 0
+134: It is Complex number: Real = 2, Imaginary = 89. Converted to real = 89.0225
+135: It is a fraction: Numerator = 52, Imaginary = 35. Converted to real = 1.48571
+136: It is a polar number: Angle = 6, Radius = 98. Converted to real = 98
+137: It is a polar number: Angle = 67, Radius = 77. Converted to real = 77
+138: It is a polar number: Angle = 48, Radius = 40. Converted to real = 40
+139: It is a polar number: Angle = 27, Radius = 54. Converted to real = 54
+140: It is Complex number: Real = 13, Imaginary = 7. Converted to real = 14.7648
+141: It is Complex number: Real = 92, Imaginary = 61. Converted to real = 110.386
+142: It is a polar number: Angle = 78, Radius = 7. Converted to real = 7
+143: It is a polar number: Angle = 64, Radius = 32. Converted to real = 32
+144: It is a polar number: Angle = 94, Radius = 47. Converted to real = 47
+145: It is a polar number: Angle = 79, Radius = 34. Converted to real = 34
+146: It is a fraction: Numerator = 48, Imaginary = 28. Converted to real = 1.71429
+147: It is Complex number: Real = 93, Imaginary = 86. Converted to real = 126.669
+148: It is a polar number: Angle = 3, Radius = 61. Converted to real = 61
+149: It is Complex number: Real = 70, Imaginary = 11. Converted to real = 70.859
+150: It is Complex number: Real = 90, Imaginary = 4. Converted to real = 90.0888
+151: It is Complex number: Real = 0, Imaginary = 78. Converted to real = 78
+152: It is a polar number: Angle = 39, Radius = 43. Converted to real = 43
+153: It is a polar number: Angle = 19, Radius = 26. Converted to real = 26
+154: It is a polar number: Angle = 9, Radius = 79. Converted to real = 79
+155: It is a polar number: Angle = 76, Radius = 66. Converted to real = 66
+156: It is Complex number: Real = 57, Imaginary = 9. Converted to real = 57.7062
+157: It is Complex number: Real = 75, Imaginary = 36. Converted to real = 83.1925
+158: It is a polar number: Angle = 67, Radius = 20. Converted to real = 20
+159: It is a polar number: Angle = 0, Radius = 16. Converted to real = 16
+160: It is a fraction: Numerator = 64, Imaginary = 38. Converted to real = 1.68421
+161: It is a fraction: Numerator = 36, Imaginary = 61. Converted to real = 0.590164
+162: It is a fraction: Numerator = 15, Imaginary = 8. Converted to real = 1.875
+163: It is a polar number: Angle = 10, Radius = 49. Converted to real = 49
+164: It is a polar number: Angle = 82, Radius = 85. Converted to real = 85
+165: It is a polar number: Angle = 6, Radius = 6. Converted to real = 6
+166: It is Complex number: Real = 98, Imaginary = 21. Converted to real = 100.225
+167: It is Complex number: Real = 78, Imaginary = 27. Converted to real = 82.5409
+168: It is a fraction: Numerator = 7, Imaginary = 61. Converted to real = 0.114754
+169: It is Complex number: Real = 41, Imaginary = 11. Converted to real = 42.45
+170: It is a polar number: Angle = 60, Radius = 16. Converted to real = 16
+171: It is a polar number: Angle = 67, Radius = 92. Converted to real = 92
+172: It is Complex number: Real = 96, Imaginary = 16. Converted to real = 97.3242
+173: It is a fraction: Numerator = 21, Imaginary = 28. Converted to real = 0.75
+174: It is a polar number: Angle = 11, Radius = 51. Converted to real = 51
+175: It is a polar number: Angle = 61, Radius = 6. Converted to real = 6
+176: It is a fraction: Numerator = 12, Imaginary = 45. Converted to real = 0.266667
+177: It is Complex number: Real = 66, Imaginary = 25. Converted to real = 70.5762
+178: It is Complex number: Real = 25, Imaginary = 60. Converted to real = 65
+179: It is Complex number: Real = 66, Imaginary = 39. Converted to real = 76.6616
+180: It is Complex number: Real = 47, Imaginary = 56. Converted to real = 73.1095
+181: It is a polar number: Angle = 4, Radius = 32. Converted to real = 32
+182: It is a fraction: Numerator = 57, Imaginary = 17. Converted to real = 3.35294
+183: It is Complex number: Real = 42, Imaginary = 87. Converted to real = 96.6075
+184: It is a polar number: Angle = 50, Radius = 22. Converted to real = 22
+185: It is Complex number: Real = 10, Imaginary = 10. Converted to real = 14.1421
+186: It is a fraction: Numerator = 4, Imaginary = 82. Converted to real = 0.0487805
+187: It is Complex number: Real = 37, Imaginary = 79. Converted to real = 87.2353
+188: It is a polar number: Angle = 43, Radius = 68. Converted to real = 68
+189: It is Complex number: Real = 89, Imaginary = 67. Converted to real = 111.4
+190: It is a polar number: Angle = 30, Radius = 71. Converted to real = 71
+191: It is Complex number: Real = 31, Imaginary = 30. Converted to real = 43.1393
+192: It is a polar number: Angle = 48, Radius = 95. Converted to real = 95
+193: It is Complex number: Real = 20, Imaginary = 40. Converted to real = 44.7214
+194: It is a polar number: Angle = 49, Radius = 42. Converted to real = 42
+195: It is a polar number: Angle = 1, Radius = 65. Converted to real = 65
+196: It is a polar number: Angle = 65, Radius = 0. Converted to real = 0
+197: It is a fraction: Numerator = 71, Imaginary = 34. Converted to real = 2.08824
+198: It is Complex number: Real = 69, Imaginary = 70. Converted to real = 98.2904
+199: It is Complex number: Real = 54, Imaginary = 98. Converted to real = 111.893
+200: It is Complex number: Real = 28, Imaginary = 61. Converted to real = 67.1193
+201: It is a polar number: Angle = 19, Radius = 62. Converted to real = 62
+202: It is a polar number: Angle = 91, Radius = 96. Converted to real = 96
+203: It is a polar number: Angle = 52, Radius = 92. Converted to real = 92
+204: It is a fraction: Numerator = 20, Imaginary = 61. Converted to real = 0.327869
+205: It is Complex number: Real = 30, Imaginary = 90. Converted to real = 94.8683
+206: It is Complex number: Real = 83, Imaginary = 93. Converted to real = 124.652
+207: It is a polar number: Angle = 61, Radius = 65. Converted to real = 65
+208: It is Complex number: Real = 29, Imaginary = 67. Converted to real = 73.0068
+209: It is a polar number: Angle = 94, Radius = 87. Converted to real = 87
+210: It is a fraction: Numerator = 73, Imaginary = 71. Converted to real = 1.02817
+211: It is a polar number: Angle = 28, Radius = 9. Converted to real = 9
+212: It is Complex number: Real = 56, Imaginary = 59. Converted to real = 81.3449
+213: It is Complex number: Real = 62, Imaginary = 59. Converted to real = 85.5862
+214: It is a fraction: Numerator = 66, Imaginary = 37. Converted to real = 1.78378
+215: It is Complex number: Real = 93, Imaginary = 80. Converted to real = 122.674
+216: It is a fraction: Numerator = 65, Imaginary = 57. Converted to real = 1.14035
+217: It is Complex number: Real = 9, Imaginary = 56. Converted to real = 56.7186
+218: It is Complex number: Real = 88, Imaginary = 16. Converted to real = 89.4427
+219: It is a polar number: Angle = 95, Radius = 10. Converted to real = 10
+220: It is a polar number: Angle = 13, Radius = 39. Converted to real = 39
+221: It is Complex number: Real = 4, Imaginary = 23. Converted to real = 23.3452
+222: It is a polar number: Angle = 50, Radius = 30. Converted to real = 30
+223: It is a polar number: Angle = 67, Radius = 3. Converted to real = 3
+224: It is Complex number: Real = 76, Imaginary = 6. Converted to real = 76.2365
+225: It is a polar number: Angle = 0, Radius = 73. Converted to real = 73
+226: It is a fraction: Numerator = 22, Imaginary = 99. Converted to real = 0.222222
+227: It is a polar number: Angle = 1, Radius = 2. Converted to real = 2
+228: It is a polar number: Angle = 48, Radius = 6. Converted to real = 6
+229: It is Complex number: Real = 3, Imaginary = 70. Converted to real = 70.0643
+230: It is Complex number: Real = 0, Imaginary = 36. Converted to real = 36
+231: It is Complex number: Real = 11, Imaginary = 68. Converted to real = 68.884
+232: It is a fraction: Numerator = 52, Imaginary = 77. Converted to real = 0.675325
+233: It is a polar number: Angle = 0, Radius = 90. Converted to real = 90
+234: It is Complex number: Real = 37, Imaginary = 1. Converted to real = 37.0135
+235: It is a fraction: Numerator = 6, Imaginary = 52. Converted to real = 0.115385
+236: It is a polar number: Angle = 28, Radius = 60. Converted to real = 60
+237: It is a fraction: Numerator = 56, Imaginary = 92. Converted to real = 0.608696
+238: It is Complex number: Real = 85, Imaginary = 22. Converted to real = 87.8009
+239: It is Complex number: Real = 45, Imaginary = 92. Converted to real = 102.416
+240: It is a polar number: Angle = 85, Radius = 99. Converted to real = 99
+241: It is a fraction: Numerator = 91, Imaginary = 88. Converted to real = 1.03409
+242: It is Complex number: Real = 50, Imaginary = 43. Converted to real = 65.9469
+243: It is a fraction: Numerator = 44, Imaginary = 78. Converted to real = 0.564103
+244: It is a fraction: Numerator = 99, Imaginary = 33. Converted to real = 3
+245: It is Complex number: Real = 77, Imaginary = 44. Converted to real = 88.6848
+246: It is a fraction: Numerator = 81, Imaginary = 82. Converted to real = 0.987805
+247: It is Complex number: Real = 54, Imaginary = 30. Converted to real = 61.7738
+248: It is a polar number: Angle = 35, Radius = 12. Converted to real = 12
+249: It is a polar number: Angle = 90, Radius = 46. Converted to real = 46
+250: It is a fraction: Numerator = 60, Imaginary = 30. Converted to real = 2
+251: It is a fraction: Numerator = 58, Imaginary = 33. Converted to real = 1.75758
+252: It is a fraction: Numerator = 13, Imaginary = 30. Converted to real = 0.433333
+253: It is a polar number: Angle = 16, Radius = 58. Converted to real = 58
+254: It is a polar number: Angle = 90, Radius = 67. Converted to real = 67
+255: It is a polar number: Angle = 17, Radius = 72. Converted to real = 72
+256: It is Complex number: Real = 85, Imaginary = 64. Converted to real = 106.4
+257: It is Complex number: Real = 67, Imaginary = 25. Converted to real = 71.5122
+258: It is Complex number: Real = 73, Imaginary = 7. Converted to real = 73.3348
+259: It is a polar number: Angle = 75, Radius = 56. Converted to real = 56
+260: It is a polar number: Angle = 44, Radius = 68. Converted to real = 68
+261: It is a fraction: Numerator = 76, Imaginary = 84. Converted to real = 0.904762
+262: It is a polar number: Angle = 54, Radius = 17. Converted to real = 17
+263: It is a fraction: Numerator = 57, Imaginary = 90. Converted to real = 0.633333
+264: It is a fraction: Numerator = 42, Imaginary = 39. Converted to real = 1.07692
+265: It is Complex number: Real = 86, Imaginary = 30. Converted to real = 91.0824
+266: It is a polar number: Angle = 33, Radius = 20. Converted to real = 20
+267: It is Complex number: Real = 90, Imaginary = 68. Converted to real = 112.801
+268: It is a fraction: Numerator = 49, Imaginary = 33. Converted to real = 1.48485
+269: It is a polar number: Angle = 17, Radius = 94. Converted to real = 94
+270: It is Complex number: Real = 64, Imaginary = 37. Converted to real = 73.9256
+271: It is a fraction: Numerator = 0, Imaginary = 84. Converted to real = 0
+272: It is a polar number: Angle = 33, Radius = 33. Converted to real = 33
+273: It is a polar number: Angle = 68, Radius = 81. Converted to real = 81
+274: It is Complex number: Real = 42, Imaginary = 61. Converted to real = 74.0608
+275: It is a fraction: Numerator = 15, Imaginary = 58. Converted to real = 0.258621
+276: It is a fraction: Numerator = 6, Imaginary = 80. Converted to real = 0.075
+277: It is Complex number: Real = 13, Imaginary = 5. Converted to real = 13.9284
+278: It is a fraction: Numerator = 79, Imaginary = 60. Converted to real = 1.31667
+279: It is a polar number: Angle = 14, Radius = 11. Converted to real = 11
+280: It is a fraction: Numerator = 3, Imaginary = 46. Converted to real = 0.0652174
+281: It is a fraction: Numerator = 58, Imaginary = 79. Converted to real = 0.734177
+282: It is a polar number: Angle = 20, Radius = 14. Converted to real = 14
+283: It is a fraction: Numerator = 55, Imaginary = 31. Converted to real = 1.77419
+284: It is Complex number: Real = 11, Imaginary = 42. Converted to real = 43.4166
+285: It is a fraction: Numerator = 23, Imaginary = 83. Converted to real = 0.277108
+286: It is Complex number: Real = 70, Imaginary = 33. Converted to real = 77.3886
+287: It is a fraction: Numerator = 87, Imaginary = 91. Converted to real = 0.956044
+288: It is a fraction: Numerator = 58, Imaginary = 43. Converted to real = 1.34884
+289: It is Complex number: Real = 79, Imaginary = 96. Converted to real = 124.326
+290: It is a fraction: Numerator = 47, Imaginary = 21. Converted to real = 2.2381
+291: It is Complex number: Real = 38, Imaginary = 83. Converted to real = 91.2853
+292: It is a polar number: Angle = 34, Radius = 46. Converted to real = 46
+293: It is a fraction: Numerator = 50, Imaginary = 60. Converted to real = 0.833333
+294: It is a fraction: Numerator = 83, Imaginary = 87. Converted to real = 0.954023
+295: It is a fraction: Numerator = 74, Imaginary = 40. Converted to real = 1.85
+296: It is a polar number: Angle = 0, Radius = 50. Converted to real = 50
+297: It is a fraction: Numerator = 90, Imaginary = 95. Converted to real = 0.947368
+298: It is a polar number: Angle = 67, Radius = 93. Converted to real = 93
+299: It is a polar number: Angle = 4, Radius = 51. Converted to real = 51
+300: It is Complex number: Real = 59, Imaginary = 14. Converted to real = 60.6383
+301: It is a polar number: Angle = 82, Radius = 58. Converted to real = 58
+302: It is Complex number: Real = 33, Imaginary = 88. Converted to real = 93.984
+303: It is a polar number: Angle = 84, Radius = 81. Converted to real = 81
+304: It is Complex number: Real = 74, Imaginary = 15. Converted to real = 75.505
+305: It is a fraction: Numerator = 42, Imaginary = 89. Converted to real = 0.47191
+306: It is a polar number: Angle = 35, Radius = 73. Converted to real = 73
+307: It is a fraction: Numerator = 9, Imaginary = 63. Converted to real = 0.142857
+308: It is a fraction: Numerator = 89, Imaginary = 82. Converted to real = 1.08537
+309: It is a polar number: Angle = 21, Radius = 13. Converted to real = 13
+310: It is Complex number: Real = 64, Imaginary = 59. Converted to real = 87.046
+311: It is Complex number: Real = 19, Imaginary = 35. Converted to real = 39.8246
+312: It is a polar number: Angle = 60, Radius = 38. Converted to real = 38
+313: It is a polar number: Angle = 3, Radius = 71. Converted to real = 71
+314: It is Complex number: Real = 93, Imaginary = 83. Converted to real = 124.652
+315: It is a fraction: Numerator = 5, Imaginary = 56. Converted to real = 0.0892857
+316: It is a polar number: Angle = 93, Radius = 15. Converted to real = 15
+317: It is Complex number: Real = 29, Imaginary = 5. Converted to real = 29.4279
+318: It is a fraction: Numerator = 29, Imaginary = 25. Converted to real = 1.16
+319: It is Complex number: Real = 75, Imaginary = 12. Converted to real = 75.9539
+320: It is a fraction: Numerator = 97, Imaginary = 9. Converted to real = 10.7778
+321: It is Complex number: Real = 23, Imaginary = 25. Converted to real = 33.9706
+322: It is a polar number: Angle = 27, Radius = 11. Converted to real = 11
+323: It is a polar number: Angle = 87, Radius = 59. Converted to real = 59
+324: It is Complex number: Real = 85, Imaginary = 79. Converted to real = 116.043
+325: It is a polar number: Angle = 11, Radius = 53. Converted to real = 53
+326: It is a polar number: Angle = 84, Radius = 21. Converted to real = 21
+327: It is Complex number: Real = 64, Imaginary = 87. Converted to real = 108.005
+328: It is Complex number: Real = 59, Imaginary = 86. Converted to real = 104.293
+329: It is Complex number: Real = 34, Imaginary = 76. Converted to real = 83.2586
+330: It is a polar number: Angle = 43, Radius = 26. Converted to real = 26
+331: It is Complex number: Real = 74, Imaginary = 83. Converted to real = 111.198
+332: It is a fraction: Numerator = 53, Imaginary = 53. Converted to real = 1
+333: It is a polar number: Angle = 10, Radius = 57. Converted to real = 57
+334: It is a fraction: Numerator = 5, Imaginary = 64. Converted to real = 0.078125
+335: It is Complex number: Real = 33, Imaginary = 65. Converted to real = 72.8972
+336: It is a polar number: Angle = 34, Radius = 39. Converted to real = 39
+337: It is a fraction: Numerator = 37, Imaginary = 16. Converted to real = 2.3125
+338: It is Complex number: Real = 15, Imaginary = 68. Converted to real = 69.6348
+339: It is a fraction: Numerator = 98, Imaginary = 61. Converted to real = 1.60656
+340: It is a polar number: Angle = 35, Radius = 34. Converted to real = 34
+341: It is a polar number: Angle = 17, Radius = 57. Converted to real = 57
+342: It is Complex number: Real = 22, Imaginary = 88. Converted to real = 90.7083
+343: It is a fraction: Numerator = 26, Imaginary = 46. Converted to real = 0.565217
+344: It is a fraction: Numerator = 34, Imaginary = 76. Converted to real = 0.447368
+345: It is Complex number: Real = 90, Imaginary = 47. Converted to real = 101.533
+346: It is a fraction: Numerator = 69, Imaginary = 80. Converted to real = 0.8625
+347: It is a polar number: Angle = 94, Radius = 68. Converted to real = 68
+348: It is a polar number: Angle = 36, Radius = 2. Converted to real = 2
+349: It is a fraction: Numerator = 83, Imaginary = 87. Converted to real = 0.954023
+350: It is a polar number: Angle = 12, Radius = 61. Converted to real = 61
+351: It is Complex number: Real = 68, Imaginary = 71. Converted to real = 98.3107
+352: It is a fraction: Numerator = 96, Imaginary = 75. Converted to real = 1.28
+353: It is a fraction: Numerator = 82, Imaginary = 92. Converted to real = 0.891304
+354: It is a polar number: Angle = 47, Radius = 46. Converted to real = 46
+355: It is a polar number: Angle = 84, Radius = 10. Converted to real = 10
+356: It is Complex number: Real = 98, Imaginary = 7. Converted to real = 98.2497
+357: It is a fraction: Numerator = 89, Imaginary = 75. Converted to real = 1.18667
+358: It is a polar number: Angle = 24, Radius = 27. Converted to real = 27
+359: It is Complex number: Real = 57, Imaginary = 33. Converted to real = 65.8635
+360: It is Complex number: Real = 84, Imaginary = 10. Converted to real = 84.5931
+361: It is a fraction: Numerator = 8, Imaginary = 24. Converted to real = 0.333333
+362: It is a fraction: Numerator = 53, Imaginary = 73. Converted to real = 0.726027
+363: It is a fraction: Numerator = 4, Imaginary = 82. Converted to real = 0.0487805
+364: It is Complex number: Real = 55, Imaginary = 35. Converted to real = 65.192
+365: It is Complex number: Real = 52, Imaginary = 73. Converted to real = 89.627
+366: It is a fraction: Numerator = 77, Imaginary = 90. Converted to real = 0.855556
+367: It is a fraction: Numerator = 19, Imaginary = 77. Converted to real = 0.246753
+368: It is a polar number: Angle = 25, Radius = 91. Converted to real = 91
+369: It is a polar number: Angle = 1, Radius = 92. Converted to real = 92
+370: It is a fraction: Numerator = 34, Imaginary = 38. Converted to real = 0.894737
+371: It is a polar number: Angle = 98, Radius = 36. Converted to real = 36
+372: It is Complex number: Real = 63, Imaginary = 62. Converted to real = 88.3912
+373: It is a fraction: Numerator = 5, Imaginary = 2. Converted to real = 2.5
+374: It is a fraction: Numerator = 56, Imaginary = 96. Converted to real = 0.583333
+375: It is Complex number: Real = 14, Imaginary = 95. Converted to real = 96.026
+376: It is a polar number: Angle = 27, Radius = 5. Converted to real = 5
+377: It is a fraction: Numerator = 20, Imaginary = 83. Converted to real = 0.240964
+378: It is Complex number: Real = 61, Imaginary = 20. Converted to real = 64.195
+379: It is a polar number: Angle = 33, Radius = 1. Converted to real = 1
+380: It is a polar number: Angle = 17, Radius = 95. Converted to real = 95
+381: It is a polar number: Angle = 55, Radius = 32. Converted to real = 32
+382: It is Complex number: Real = 88, Imaginary = 66. Converted to real = 110
+383: It is Complex number: Real = 1, Imaginary = 49. Converted to real = 49.0102
+384: It is a polar number: Angle = 23, Radius = 17. Converted to real = 17
+385: It is a fraction: Numerator = 22, Imaginary = 50. Converted to real = 0.44
+386: It is a polar number: Angle = 86, Radius = 97. Converted to real = 97
+387: It is a fraction: Numerator = 2, Imaginary = 9. Converted to real = 0.222222
+388: It is a fraction: Numerator = 13, Imaginary = 31. Converted to real = 0.419355
+389: It is a fraction: Numerator = 82, Imaginary = 93. Converted to real = 0.88172
+390: It is a fraction: Numerator = 85, Imaginary = 25. Converted to real = 3.4
+391: It is Complex number: Real = 30, Imaginary = 63. Converted to real = 69.7782
+392: It is a polar number: Angle = 63, Radius = 54. Converted to real = 54
+393: It is a fraction: Numerator = 80, Imaginary = 99. Converted to real = 0.808081
+394: It is a polar number: Angle = 18, Radius = 54. Converted to real = 54
+395: It is a polar number: Angle = 55, Radius = 41. Converted to real = 41
+396: It is a fraction: Numerator = 45, Imaginary = 85. Converted to real = 0.529412
+397: It is a polar number: Angle = 42, Radius = 14. Converted to real = 14
+398: It is a polar number: Angle = 7, Radius = 26. Converted to real = 26
+399: It is Complex number: Real = 10, Imaginary = 97. Converted to real = 97.5141
+400: It is Complex number: Real = 80, Imaginary = 70. Converted to real = 106.301
+401: It is a polar number: Angle = 0, Radius = 85. Converted to real = 85
+402: It is Complex number: Real = 92, Imaginary = 0. Converted to real = 92
+403: It is a fraction: Numerator = 99, Imaginary = 61. Converted to real = 1.62295
+404: It is a polar number: Angle = 90, Radius = 73. Converted to real = 73
+405: It is a polar number: Angle = 3, Radius = 1. Converted to real = 1
+406: It is a fraction: Numerator = 71, Imaginary = 30. Converted to real = 2.36667
+407: It is a fraction: Numerator = 35, Imaginary = 59. Converted to real = 0.59322
+408: It is Complex number: Real = 37, Imaginary = 86. Converted to real = 93.6216
+409: It is Complex number: Real = 80, Imaginary = 29. Converted to real = 85.0941
+410: It is Complex number: Real = 10, Imaginary = 0. Converted to real = 10
+411: It is Complex number: Real = 32, Imaginary = 86. Converted to real = 91.7606
+412: It is a polar number: Angle = 51, Radius = 41. Converted to real = 41
+413: It is Complex number: Real = 18, Imaginary = 97. Converted to real = 98.656
+414: It is a polar number: Angle = 66, Radius = 57. Converted to real = 57
+415: It is a polar number: Angle = 4, Radius = 20. Converted to real = 20
+416: It is a fraction: Numerator = 4, Imaginary = 91. Converted to real = 0.043956
+417: It is a polar number: Angle = 1, Radius = 45. Converted to real = 45
+418: It is a polar number: Angle = 36, Radius = 91. Converted to real = 91
+419: It is a fraction: Numerator = 83, Imaginary = 69. Converted to real = 1.2029
+420: It is a polar number: Angle = 57, Radius = 18. Converted to real = 18
+421: It is Complex number: Real = 42, Imaginary = 17. Converted to real = 45.31
+422: It is a fraction: Numerator = 41, Imaginary = 15. Converted to real = 2.73333
+423: It is Complex number: Real = 51, Imaginary = 7. Converted to real = 51.4782
+424: It is a fraction: Numerator = 92, Imaginary = 89. Converted to real = 1.03371
+425: It is a polar number: Angle = 58, Radius = 4. Converted to real = 4
+426: It is a fraction: Numerator = 22, Imaginary = 18. Converted to real = 1.22222
+427: It is Complex number: Real = 65, Imaginary = 18. Converted to real = 67.4463
+428: It is a fraction: Numerator = 13, Imaginary = 24. Converted to real = 0.541667
+429: It is Complex number: Real = 4, Imaginary = 91. Converted to real = 91.0879
+430: It is a fraction: Numerator = 84, Imaginary = 83. Converted to real = 1.01205
+431: It is Complex number: Real = 1, Imaginary = 44. Converted to real = 44.0114
+432: It is a fraction: Numerator = 3, Imaginary = 70. Converted to real = 0.0428571
+433: It is Complex number: Real = 81, Imaginary = 35. Converted to real = 88.2383
+434: It is Complex number: Real = 23, Imaginary = 35. Converted to real = 41.8808
+435: It is a polar number: Angle = 61, Radius = 0. Converted to real = 0
+436: It is Complex number: Real = 15, Imaginary = 63. Converted to real = 64.7611
+437: It is a fraction: Numerator = 67, Imaginary = 10. Converted to real = 6.7
+438: It is a fraction: Numerator = 4, Imaginary = 52. Converted to real = 0.0769231
+439: It is a fraction: Numerator = 10, Imaginary = 36. Converted to real = 0.277778
+440: It is a fraction: Numerator = 44, Imaginary = 46. Converted to real = 0.956522
+441: It is a polar number: Angle = 50, Radius = 58. Converted to real = 58
+442: It is a fraction: Numerator = 61, Imaginary = 44. Converted to real = 1.38636
+443: It is Complex number: Real = 56, Imaginary = 18. Converted to real = 58.8218
+444: It is a polar number: Angle = 84, Radius = 10. Converted to real = 10
+445: It is Complex number: Real = 54, Imaginary = 25. Converted to real = 59.5063
+446: It is Complex number: Real = 81, Imaginary = 67. Converted to real = 105.119
+447: It is a polar number: Angle = 11, Radius = 36. Converted to real = 36
+448: It is Complex number: Real = 42, Imaginary = 81. Converted to real = 91.2414
+449: It is Complex number: Real = 47, Imaginary = 21. Converted to real = 51.4782
+450: It is Complex number: Real = 58, Imaginary = 73. Converted to real = 93.2363
+451: It is Complex number: Real = 91, Imaginary = 15. Converted to real = 92.228
+452: It is Complex number: Real = 75, Imaginary = 80. Converted to real = 109.659
+453: It is a polar number: Angle = 65, Radius = 74. Converted to real = 74
+454: It is a polar number: Angle = 17, Radius = 33. Converted to real = 33
+455: It is a fraction: Numerator = 97, Imaginary = 7. Converted to real = 13.8571
+456: It is Complex number: Real = 77, Imaginary = 40. Converted to real = 86.7698
+457: It is Complex number: Real = 6, Imaginary = 68. Converted to real = 68.2642
+458: It is Complex number: Real = 26, Imaginary = 21. Converted to real = 33.4215
+459: It is Complex number: Real = 26, Imaginary = 48. Converted to real = 54.5894
+460: It is a fraction: Numerator = 0, Imaginary = 24. Converted to real = 0
+461: It is a polar number: Angle = 70, Radius = 68. Converted to real = 68
+462: It is Complex number: Real = 43, Imaginary = 30. Converted to real = 52.4309
+463: It is a polar number: Angle = 78, Radius = 7. Converted to real = 7
+464: It is a fraction: Numerator = 23, Imaginary = 25. Converted to real = 0.92
+465: It is a polar number: Angle = 95, Radius = 88. Converted to real = 88
+466: It is a fraction: Numerator = 67, Imaginary = 8. Converted to real = 8.375
+467: It is a polar number: Angle = 23, Radius = 87. Converted to real = 87
+468: It is Complex number: Real = 39, Imaginary = 96. Converted to real = 103.619
+469: It is Complex number: Real = 52, Imaginary = 8. Converted to real = 52.6118
+470: It is a polar number: Angle = 91, Radius = 24. Converted to real = 24
+471: It is a polar number: Angle = 13, Radius = 84. Converted to real = 84
+472: It is a polar number: Angle = 77, Radius = 39. Converted to real = 39
+473: It is Complex number: Real = 17, Imaginary = 78. Converted to real = 79.8311
+474: It is a polar number: Angle = 98, Radius = 52. Converted to real = 52
+475: It is Complex number: Real = 17, Imaginary = 26. Converted to real = 31.0644
+476: It is a fraction: Numerator = 54, Imaginary = 95. Converted to real = 0.568421
+477: It is a polar number: Angle = 60, Radius = 18. Converted to real = 18
+478: It is Complex number: Real = 26, Imaginary = 36. Converted to real = 44.4072
+479: It is Complex number: Real = 36, Imaginary = 49. Converted to real = 60.803
+480: It is Complex number: Real = 78, Imaginary = 43. Converted to real = 89.0674
+481: It is a polar number: Angle = 39, Radius = 88. Converted to real = 88
+482: It is a polar number: Angle = 8, Radius = 1. Converted to real = 1
+483: It is Complex number: Real = 52, Imaginary = 81. Converted to real = 96.2549
+484: It is a polar number: Angle = 45, Radius = 10. Converted to real = 10
+485: It is a fraction: Numerator = 58, Imaginary = 96. Converted to real = 0.604167
+486: It is a polar number: Angle = 81, Radius = 70. Converted to real = 70
+487: It is Complex number: Real = 44, Imaginary = 95. Converted to real = 104.695
+488: It is a polar number: Angle = 67, Radius = 69. Converted to real = 69
+489: It is a fraction: Numerator = 12, Imaginary = 58. Converted to real = 0.206897
+490: It is a polar number: Angle = 24, Radius = 72. Converted to real = 72
+491: It is a fraction: Numerator = 35, Imaginary = 72. Converted to real = 0.486111
+492: It is Complex number: Real = 43, Imaginary = 69. Converted to real = 81.3019
+493: It is Complex number: Real = 5, Imaginary = 70. Converted to real = 70.1783
+494: It is a polar number: Angle = 25, Radius = 83. Converted to real = 83
+495: It is Complex number: Real = 73, Imaginary = 52. Converted to real = 89.627
+496: It is a fraction: Numerator = 56, Imaginary = 24. Converted to real = 2.33333
+497: It is a fraction: Numerator = 6, Imaginary = 21. Converted to real = 0.285714
+498: It is a polar number: Angle = 11, Radius = 20. Converted to real = 20
+499: It is a fraction: Numerator = 78, Imaginary = 9. Converted to real = 8.66667
+500: It is Complex number: Real = 56, Imaginary = 23. Converted to real = 60.5392
+501: It is Complex number: Real = 34, Imaginary = 98. Converted to real = 103.73
+502: It is a fraction: Numerator = 2, Imaginary = 53. Converted to real = 0.0377358
+503: It is Complex number: Real = 63, Imaginary = 22. Converted to real = 66.7308
+504: It is a fraction: Numerator = 52, Imaginary = 11. Converted to real = 4.72727
+505: It is a fraction: Numerator = 61, Imaginary = 14. Converted to real = 4.35714
+506: It is a fraction: Numerator = 56, Imaginary = 42. Converted to real = 1.33333
+507: It is a fraction: Numerator = 30, Imaginary = 63. Converted to real = 0.47619
+508: It is a fraction: Numerator = 79, Imaginary = 1. Converted to real = 79
+509: It is a polar number: Angle = 52, Radius = 5. Converted to real = 5
+510: It is a polar number: Angle = 26, Radius = 81. Converted to real = 81
+511: It is a polar number: Angle = 4, Radius = 45. Converted to real = 45
+512: It is a polar number: Angle = 84, Radius = 16. Converted to real = 16
+513: It is a fraction: Numerator = 86, Imaginary = 46. Converted to real = 1.86957
+514: It is Complex number: Real = 33, Imaginary = 32. Converted to real = 45.9674
+515: It is a fraction: Numerator = 89, Imaginary = 11. Converted to real = 8.09091
+516: It is Complex number: Real = 32, Imaginary = 15. Converted to real = 35.3412
+517: It is Complex number: Real = 95, Imaginary = 44. Converted to real = 104.695
+518: It is Complex number: Real = 34, Imaginary = 52. Converted to real = 62.1289
+519: It is a fraction: Numerator = 49, Imaginary = 72. Converted to real = 0.680556
+520: It is Complex number: Real = 98, Imaginary = 39. Converted to real = 105.475
+521: It is Complex number: Real = 99, Imaginary = 90. Converted to real = 133.795
+522: It is a fraction: Numerator = 49, Imaginary = 40. Converted to real = 1.225
+523: It is a polar number: Angle = 46, Radius = 96. Converted to real = 96
+524: It is a polar number: Angle = 72, Radius = 48. Converted to real = 48
+525: It is Complex number: Real = 2, Imaginary = 1. Converted to real = 2.23607
+526: It is Complex number: Real = 91, Imaginary = 29. Converted to real = 95.5092
+527: It is Complex number: Real = 47, Imaginary = 62. Converted to real = 77.801
+528: It is a polar number: Angle = 81, Radius = 81. Converted to real = 81
+529: It is a polar number: Angle = 28, Radius = 28. Converted to real = 28
+530: It is a fraction: Numerator = 63, Imaginary = 40. Converted to real = 1.575
+531: It is a fraction: Numerator = 86, Imaginary = 4. Converted to real = 21.5
+532: It is a polar number: Angle = 13, Radius = 19. Converted to real = 19
+533: It is a polar number: Angle = 95, Radius = 16. Converted to real = 16
+534: It is a fraction: Numerator = 88, Imaginary = 51. Converted to real = 1.72549
+535: It is Complex number: Real = 73, Imaginary = 2. Converted to real = 73.0274
+536: It is a fraction: Numerator = 66, Imaginary = 8. Converted to real = 8.25
+537: It is a fraction: Numerator = 70, Imaginary = 7. Converted to real = 10
+538: It is Complex number: Real = 21, Imaginary = 83. Converted to real = 85.6154
+539: It is a fraction: Numerator = 86, Imaginary = 51. Converted to real = 1.68627
+540: It is Complex number: Real = 86, Imaginary = 20. Converted to real = 88.295
+541: It is Complex number: Real = 39, Imaginary = 93. Converted to real = 100.846
+542: It is Complex number: Real = 82, Imaginary = 18. Converted to real = 83.9524
+543: It is a fraction: Numerator = 58, Imaginary = 33. Converted to real = 1.75758
+544: It is a fraction: Numerator = 98, Imaginary = 76. Converted to real = 1.28947
+545: It is Complex number: Real = 88, Imaginary = 57. Converted to real = 104.848
+546: It is a polar number: Angle = 73, Radius = 95. Converted to real = 95
+547: It is a polar number: Angle = 22, Radius = 95. Converted to real = 95
+548: It is Complex number: Real = 98, Imaginary = 61. Converted to real = 115.434
+549: It is a polar number: Angle = 22, Radius = 39. Converted to real = 39
+550: It is a fraction: Numerator = 77, Imaginary = 3. Converted to real = 25.6667
+551: It is a fraction: Numerator = 38, Imaginary = 90. Converted to real = 0.422222
+552: It is a fraction: Numerator = 29, Imaginary = 22. Converted to real = 1.31818
+553: It is a fraction: Numerator = 34, Imaginary = 51. Converted to real = 0.666667
+554: It is Complex number: Real = 23, Imaginary = 6. Converted to real = 23.7697
+555: It is a fraction: Numerator = 53, Imaginary = 92. Converted to real = 0.576087
+556: It is Complex number: Real = 68, Imaginary = 31. Converted to real = 74.7329
+557: It is a fraction: Numerator = 33, Imaginary = 36. Converted to real = 0.916667
+558: It is a polar number: Angle = 37, Radius = 90. Converted to real = 90
+559: It is a polar number: Angle = 10, Radius = 96. Converted to real = 96
+560: It is a fraction: Numerator = 55, Imaginary = 60. Converted to real = 0.916667
+561: It is a fraction: Numerator = 12, Imaginary = 34. Converted to real = 0.352941
+562: It is Complex number: Real = 68, Imaginary = 56. Converted to real = 88.0909
+563: It is a polar number: Angle = 33, Radius = 3. Converted to real = 3
+564: It is a fraction: Numerator = 5, Imaginary = 43. Converted to real = 0.116279
+565: It is a polar number: Angle = 39, Radius = 95. Converted to real = 95
+566: It is a polar number: Angle = 13, Radius = 67. Converted to real = 67
+567: It is Complex number: Real = 22, Imaginary = 45. Converted to real = 50.0899
+568: It is a fraction: Numerator = 43, Imaginary = 75. Converted to real = 0.573333
+569: It is a polar number: Angle = 49, Radius = 72. Converted to real = 72
+570: It is Complex number: Real = 60, Imaginary = 67. Converted to real = 89.9389
+571: It is a fraction: Numerator = 71, Imaginary = 89. Converted to real = 0.797753
+572: It is a polar number: Angle = 37, Radius = 19. Converted to real = 19
+573: It is a fraction: Numerator = 80, Imaginary = 41. Converted to real = 1.95122
+574: It is Complex number: Real = 43, Imaginary = 36. Converted to real = 56.0803
+575: It is a fraction: Numerator = 16, Imaginary = 97. Converted to real = 0.164948
+576: It is a fraction: Numerator = 98, Imaginary = 62. Converted to real = 1.58065
+577: It is a fraction: Numerator = 47, Imaginary = 36. Converted to real = 1.30556
+578: It is a polar number: Angle = 24, Radius = 98. Converted to real = 98
+579: It is a fraction: Numerator = 34, Imaginary = 37. Converted to real = 0.918919
+580: It is a polar number: Angle = 21, Radius = 35. Converted to real = 35
+581: It is a polar number: Angle = 9, Radius = 36. Converted to real = 36
+582: It is a polar number: Angle = 1, Radius = 49. Converted to real = 49
+583: It is Complex number: Real = 89, Imaginary = 48. Converted to real = 101.119
+584: It is a polar number: Angle = 23, Radius = 90. Converted to real = 90
+585: It is a fraction: Numerator = 72, Imaginary = 97. Converted to real = 0.742268
+586: It is a fraction: Numerator = 51, Imaginary = 96. Converted to real = 0.53125
+587: It is a polar number: Angle = 54, Radius = 98. Converted to real = 98
+588: It is a fraction: Numerator = 36, Imaginary = 64. Converted to real = 0.5625
+589: It is a polar number: Angle = 68, Radius = 64. Converted to real = 64
+590: It is Complex number: Real = 16, Imaginary = 96. Converted to real = 97.3242
+591: It is Complex number: Real = 85, Imaginary = 89. Converted to real = 123.069
+592: It is Complex number: Real = 67, Imaginary = 20. Converted to real = 69.9214
+593: It is Complex number: Real = 54, Imaginary = 21. Converted to real = 57.9396
+594: It is Complex number: Real = 48, Imaginary = 90. Converted to real = 102
+595: It is a polar number: Angle = 35, Radius = 26. Converted to real = 26
+596: It is a polar number: Angle = 67, Radius = 12. Converted to real = 12
+597: It is a fraction: Numerator = 35, Imaginary = 50. Converted to real = 0.7
+598: It is Complex number: Real = 22, Imaginary = 10. Converted to real = 24.1661
+599: It is a polar number: Angle = 24, Radius = 21. Converted to real = 21
+600: It is Complex number: Real = 62, Imaginary = 4. Converted to real = 62.1289
+601: It is a fraction: Numerator = 87, Imaginary = 86. Converted to real = 1.01163
+602: It is a fraction: Numerator = 97, Imaginary = 25. Converted to real = 3.88
+603: It is Complex number: Real = 0, Imaginary = 87. Converted to real = 87
+604: It is a polar number: Angle = 87, Radius = 76. Converted to real = 76
+605: It is a polar number: Angle = 68, Radius = 47. Converted to real = 47
+606: It is a fraction: Numerator = 25, Imaginary = 2. Converted to real = 12.5
+607: It is a polar number: Angle = 1, Radius = 46. Converted to real = 46
+608: It is a fraction: Numerator = 17, Imaginary = 34. Converted to real = 0.5
+609: It is a fraction: Numerator = 92, Imaginary = 15. Converted to real = 6.13333
+610: It is Complex number: Real = 9, Imaginary = 97. Converted to real = 97.4166
+611: It is a fraction: Numerator = 65, Imaginary = 48. Converted to real = 1.35417
+612: It is Complex number: Real = 57, Imaginary = 38. Converted to real = 68.5055
+613: It is a fraction: Numerator = 36, Imaginary = 74. Converted to real = 0.486486
+614: It is Complex number: Real = 90, Imaginary = 35. Converted to real = 96.566
+615: It is a fraction: Numerator = 95, Imaginary = 29. Converted to real = 3.27586
+616: It is a polar number: Angle = 29, Radius = 8. Converted to real = 8
+617: It is a fraction: Numerator = 48, Imaginary = 80. Converted to real = 0.6
+618: It is Complex number: Real = 79, Imaginary = 95. Converted to real = 123.556
+619: It is a fraction: Numerator = 68, Imaginary = 100. Converted to real = 0.68
+620: It is a polar number: Angle = 57, Radius = 38. Converted to real = 38
+621: It is Complex number: Real = 5, Imaginary = 49. Converted to real = 49.2544
+622: It is a polar number: Angle = 62, Radius = 27. Converted to real = 27
+623: It is a fraction: Numerator = 59, Imaginary = 88. Converted to real = 0.670455
+624: It is Complex number: Real = 42, Imaginary = 69. Converted to real = 80.7775
+625: It is a polar number: Angle = 49, Radius = 64. Converted to real = 64
+626: It is Complex number: Real = 32, Imaginary = 84. Converted to real = 89.8888
+627: It is a fraction: Numerator = 79, Imaginary = 6. Converted to real = 13.1667
+628: It is Complex number: Real = 66, Imaginary = 96. Converted to real = 116.499
+629: It is a polar number: Angle = 27, Radius = 38. Converted to real = 38
+630: It is a polar number: Angle = 15, Radius = 2. Converted to real = 2
+631: It is a polar number: Angle = 97, Radius = 18. Converted to real = 18
+632: It is a fraction: Numerator = 25, Imaginary = 35. Converted to real = 0.714286
+633: It is a fraction: Numerator = 35, Imaginary = 91. Converted to real = 0.384615
+634: It is Complex number: Real = 92, Imaginary = 30. Converted to real = 96.7678
+635: It is a polar number: Angle = 78, Radius = 48. Converted to real = 48
+636: It is Complex number: Real = 24, Imaginary = 77. Converted to real = 80.6536
+637: It is a fraction: Numerator = 64, Imaginary = 100. Converted to real = 0.64
+638: It is Complex number: Real = 71, Imaginary = 78. Converted to real = 105.475
+639: It is a polar number: Angle = 58, Radius = 47. Converted to real = 47
+640: It is a polar number: Angle = 62, Radius = 99. Converted to real = 99
+641: It is Complex number: Real = 31, Imaginary = 16. Converted to real = 34.8855
+642: It is a polar number: Angle = 32, Radius = 77. Converted to real = 77
+643: It is a fraction: Numerator = 88, Imaginary = 61. Converted to real = 1.44262
+644: It is Complex number: Real = 1, Imaginary = 14. Converted to real = 14.0357
+645: It is a polar number: Angle = 66, Radius = 38. Converted to real = 38
+646: It is a polar number: Angle = 25, Radius = 98. Converted to real = 98
+647: It is a polar number: Angle = 61, Radius = 62. Converted to real = 62
+648: It is a fraction: Numerator = 75, Imaginary = 45. Converted to real = 1.66667
+649: It is a polar number: Angle = 8, Radius = 89. Converted to real = 89
+650: It is Complex number: Real = 41, Imaginary = 43. Converted to real = 59.4138
+651: It is a fraction: Numerator = 73, Imaginary = 91. Converted to real = 0.802198
+652: It is Complex number: Real = 95, Imaginary = 82. Converted to real = 125.495
+653: It is Complex number: Real = 13, Imaginary = 49. Converted to real = 50.6952
+654: It is a polar number: Angle = 42, Radius = 20. Converted to real = 20
+655: It is a polar number: Angle = 30, Radius = 10. Converted to real = 10
+656: It is Complex number: Real = 6, Imaginary = 93. Converted to real = 93.1933
+657: It is Complex number: Real = 31, Imaginary = 46. Converted to real = 55.4707
+658: It is Complex number: Real = 83, Imaginary = 84. Converted to real = 118.089
+659: It is Complex number: Real = 16, Imaginary = 53. Converted to real = 55.3624
+660: It is Complex number: Real = 5, Imaginary = 2. Converted to real = 5.38516
+661: It is a fraction: Numerator = 58, Imaginary = 72. Converted to real = 0.805556
+662: It is Complex number: Real = 73, Imaginary = 48. Converted to real = 87.367
+663: It is a polar number: Angle = 46, Radius = 68. Converted to real = 68
+664: It is a polar number: Angle = 26, Radius = 14. Converted to real = 14
+665: It is a fraction: Numerator = 75, Imaginary = 22. Converted to real = 3.40909
+666: It is a fraction: Numerator = 99, Imaginary = 100. Converted to real = 0.99
+667: It is Complex number: Real = 98, Imaginary = 69. Converted to real = 119.854
+668: It is a polar number: Angle = 75, Radius = 63. Converted to real = 63
+669: It is a polar number: Angle = 60, Radius = 40. Converted to real = 40
+670: It is a polar number: Angle = 8, Radius = 61. Converted to real = 61
+671: It is a polar number: Angle = 86, Radius = 66. Converted to real = 66
+672: It is a fraction: Numerator = 54, Imaginary = 48. Converted to real = 1.125
+673: It is a polar number: Angle = 87, Radius = 60. Converted to real = 60
+674: It is Complex number: Real = 11, Imaginary = 34. Converted to real = 35.7351
+675: It is a polar number: Angle = 11, Radius = 91. Converted to real = 91
+676: It is a fraction: Numerator = 73, Imaginary = 59. Converted to real = 1.23729
+677: It is a fraction: Numerator = 15, Imaginary = 93. Converted to real = 0.16129
+678: It is a fraction: Numerator = 32, Imaginary = 56. Converted to real = 0.571429
+679: It is a polar number: Angle = 10, Radius = 5. Converted to real = 5
+680: It is Complex number: Real = 67, Imaginary = 44. Converted to real = 80.1561
+681: It is Complex number: Real = 96, Imaginary = 53. Converted to real = 109.659
+682: It is a polar number: Angle = 65, Radius = 23. Converted to real = 23
+683: It is a fraction: Numerator = 68, Imaginary = 34. Converted to real = 2
+684: It is a fraction: Numerator = 55, Imaginary = 56. Converted to real = 0.982143
+685: It is Complex number: Real = 44, Imaginary = 31. Converted to real = 53.8238
+686: It is Complex number: Real = 6, Imaginary = 19. Converted to real = 19.9249
+687: It is a fraction: Numerator = 22, Imaginary = 71. Converted to real = 0.309859
+688: It is a fraction: Numerator = 37, Imaginary = 48. Converted to real = 0.770833
+689: It is Complex number: Real = 48, Imaginary = 9. Converted to real = 48.8365
+690: It is a fraction: Numerator = 30, Imaginary = 89. Converted to real = 0.337079
+691: It is a polar number: Angle = 73, Radius = 44. Converted to real = 44
+692: It is a polar number: Angle = 63, Radius = 82. Converted to real = 82
+693: It is a polar number: Angle = 10, Radius = 77. Converted to real = 77
+694: It is a fraction: Numerator = 80, Imaginary = 4. Converted to real = 20
+695: It is a polar number: Angle = 59, Radius = 95. Converted to real = 95
+696: It is Complex number: Real = 50, Imaginary = 15. Converted to real = 52.2015
+697: It is Complex number: Real = 38, Imaginary = 14. Converted to real = 40.4969
+698: It is a polar number: Angle = 90, Radius = 54. Converted to real = 54
+699: It is Complex number: Real = 99, Imaginary = 30. Converted to real = 103.446
+700: It is a polar number: Angle = 64, Radius = 31. Converted to real = 31
+701: It is a polar number: Angle = 68, Radius = 44. Converted to real = 44
+702: It is a fraction: Numerator = 10, Imaginary = 23. Converted to real = 0.434783
+703: It is Complex number: Real = 54, Imaginary = 46. Converted to real = 70.9366
+704: It is Complex number: Real = 40, Imaginary = 49. Converted to real = 63.2535
+705: It is a polar number: Angle = 33, Radius = 32. Converted to real = 32
+706: It is a polar number: Angle = 5, Radius = 65. Converted to real = 65
+707: It is a fraction: Numerator = 89, Imaginary = 60. Converted to real = 1.48333
+708: It is a polar number: Angle = 23, Radius = 8. Converted to real = 8
+709: It is Complex number: Real = 13, Imaginary = 60. Converted to real = 61.3922
+710: It is a fraction: Numerator = 57, Imaginary = 81. Converted to real = 0.703704
+711: It is Complex number: Real = 74, Imaginary = 76. Converted to real = 106.075
+712: It is a fraction: Numerator = 29, Imaginary = 9. Converted to real = 3.22222
+713: It is a fraction: Numerator = 92, Imaginary = 7. Converted to real = 13.1429
+714: It is Complex number: Real = 13, Imaginary = 22. Converted to real = 25.5539
+715: It is a fraction: Numerator = 8, Imaginary = 92. Converted to real = 0.0869565
+716: It is Complex number: Real = 17, Imaginary = 47. Converted to real = 49.98
+717: It is a polar number: Angle = 63, Radius = 56. Converted to real = 56
+718: It is Complex number: Real = 32, Imaginary = 68. Converted to real = 75.1532
+719: It is Complex number: Real = 48, Imaginary = 62. Converted to real = 78.4092
+720: It is a fraction: Numerator = 77, Imaginary = 14. Converted to real = 5.5
+721: It is a polar number: Angle = 73, Radius = 97. Converted to real = 97
+722: It is a polar number: Angle = 90, Radius = 37. Converted to real = 37
+723: It is Complex number: Real = 65, Imaginary = 48. Converted to real = 80.8022
+724: It is a polar number: Angle = 3, Radius = 52. Converted to real = 52
+725: It is a fraction: Numerator = 76, Imaginary = 22. Converted to real = 3.45455
+726: It is Complex number: Real = 41, Imaginary = 22. Converted to real = 46.5296
+727: It is a polar number: Angle = 95, Radius = 44. Converted to real = 44
+728: It is Complex number: Real = 30, Imaginary = 49. Converted to real = 57.4543
+729: It is Complex number: Real = 41, Imaginary = 22. Converted to real = 46.5296
+730: It is a polar number: Angle = 55, Radius = 4. Converted to real = 4
+731: It is a fraction: Numerator = 13, Imaginary = 79. Converted to real = 0.164557
+732: It is Complex number: Real = 2, Imaginary = 66. Converted to real = 66.0303
+733: It is a polar number: Angle = 96, Radius = 17. Converted to real = 17
+734: It is a fraction: Numerator = 61, Imaginary = 62. Converted to real = 0.983871
+735: It is a fraction: Numerator = 53, Imaginary = 40. Converted to real = 1.325
+736: It is a polar number: Angle = 86, Radius = 43. Converted to real = 43
+737: It is a fraction: Numerator = 37, Imaginary = 14. Converted to real = 2.64286
+738: It is a fraction: Numerator = 58, Imaginary = 13. Converted to real = 4.46154
+739: It is Complex number: Real = 44, Imaginary = 85. Converted to real = 95.7131
+740: It is Complex number: Real = 86, Imaginary = 78. Converted to real = 116.103
+741: It is a fraction: Numerator = 55, Imaginary = 85. Converted to real = 0.647059
+742: It is a polar number: Angle = 29, Radius = 82. Converted to real = 82
+743: It is a polar number: Angle = 81, Radius = 55. Converted to real = 55
+744: It is Complex number: Real = 91, Imaginary = 91. Converted to real = 128.693
+745: It is Complex number: Real = 33, Imaginary = 19. Converted to real = 38.0789
+746: It is a polar number: Angle = 41, Radius = 2. Converted to real = 2
+747: It is Complex number: Real = 46, Imaginary = 39. Converted to real = 60.3075
+748: It is a polar number: Angle = 98, Radius = 75. Converted to real = 75
+749: It is a polar number: Angle = 94, Radius = 7. Converted to real = 7
+750: It is a fraction: Numerator = 26, Imaginary = 11. Converted to real = 2.36364
+751: It is a polar number: Angle = 45, Radius = 73. Converted to real = 73
+752: It is a polar number: Angle = 39, Radius = 27. Converted to real = 27
+753: It is Complex number: Real = 36, Imaginary = 36. Converted to real = 50.9117
+754: It is Complex number: Real = 41, Imaginary = 91. Converted to real = 99.8098
+755: It is a fraction: Numerator = 18, Imaginary = 24. Converted to real = 0.75
+756: It is a polar number: Angle = 58, Radius = 4. Converted to real = 4
+757: It is a fraction: Numerator = 77, Imaginary = 41. Converted to real = 1.87805
+758: It is a fraction: Numerator = 70, Imaginary = 30. Converted to real = 2.33333
+759: It is Complex number: Real = 73, Imaginary = 24. Converted to real = 76.844
+760: It is Complex number: Real = 55, Imaginary = 65. Converted to real = 85.1469
+761: It is a polar number: Angle = 85, Radius = 88. Converted to real = 88
+762: It is a fraction: Numerator = 48, Imaginary = 6. Converted to real = 8
+763: It is Complex number: Real = 75, Imaginary = 10. Converted to real = 75.6637
+764: It is a polar number: Angle = 64, Radius = 55. Converted to real = 55
+765: It is a polar number: Angle = 43, Radius = 92. Converted to real = 92
+766: It is a polar number: Angle = 12, Radius = 24. Converted to real = 24
+767: It is a fraction: Numerator = 44, Imaginary = 71. Converted to real = 0.619718
+768: It is a polar number: Angle = 96, Radius = 6. Converted to real = 6
+769: It is a polar number: Angle = 30, Radius = 5. Converted to real = 5
+770: It is a fraction: Numerator = 97, Imaginary = 10. Converted to real = 9.7
+771: It is Complex number: Real = 89, Imaginary = 59. Converted to real = 106.78
+772: It is a fraction: Numerator = 6, Imaginary = 14. Converted to real = 0.428571
+773: It is a fraction: Numerator = 85, Imaginary = 29. Converted to real = 2.93103
+774: It is a fraction: Numerator = 76, Imaginary = 53. Converted to real = 1.43396
+775: It is a fraction: Numerator = 67, Imaginary = 30. Converted to real = 2.23333
+776: It is a fraction: Numerator = 35, Imaginary = 65. Converted to real = 0.538462
+777: It is Complex number: Real = 62, Imaginary = 36. Converted to real = 71.6938
+778: It is a fraction: Numerator = 95, Imaginary = 29. Converted to real = 3.27586
+779: It is a fraction: Numerator = 23, Imaginary = 16. Converted to real = 1.4375
+780: It is a fraction: Numerator = 95, Imaginary = 53. Converted to real = 1.79245
+781: It is Complex number: Real = 60, Imaginary = 59. Converted to real = 84.1487
+782: It is Complex number: Real = 13, Imaginary = 7. Converted to real = 14.7648
+783: It is a polar number: Angle = 68, Radius = 21. Converted to real = 21
+784: It is a fraction: Numerator = 1, Imaginary = 85. Converted to real = 0.0117647
+785: It is a polar number: Angle = 41, Radius = 85. Converted to real = 85
+786: It is a fraction: Numerator = 20, Imaginary = 33. Converted to real = 0.606061
+787: It is Complex number: Real = 15, Imaginary = 2. Converted to real = 15.1327
+788: It is a fraction: Numerator = 45, Imaginary = 31. Converted to real = 1.45161
+789: It is Complex number: Real = 34, Imaginary = 11. Converted to real = 35.7351
+790: It is a fraction: Numerator = 25, Imaginary = 50. Converted to real = 0.5
+791: It is a polar number: Angle = 98, Radius = 29. Converted to real = 29
+792: It is a fraction: Numerator = 79, Imaginary = 79. Converted to real = 1
+793: It is Complex number: Real = 9, Imaginary = 3. Converted to real = 9.48683
+794: It is a polar number: Angle = 15, Radius = 45. Converted to real = 45
+795: It is Complex number: Real = 47, Imaginary = 73. Converted to real = 86.8217
+796: It is a polar number: Angle = 88, Radius = 13. Converted to real = 13
+797: It is Complex number: Real = 69, Imaginary = 74. Converted to real = 101.178
+798: It is a polar number: Angle = 52, Radius = 56. Converted to real = 56
+799: It is a polar number: Angle = 85, Radius = 2. Converted to real = 2
+800: It is Complex number: Real = 68, Imaginary = 22. Converted to real = 71.4703
+801: It is a polar number: Angle = 14, Radius = 59. Converted to real = 59
+802: It is a fraction: Numerator = 10, Imaginary = 87. Converted to real = 0.114943
+803: It is Complex number: Real = 44, Imaginary = 12. Converted to real = 45.607
+804: It is Complex number: Real = 26, Imaginary = 47. Converted to real = 53.7122
+805: It is Complex number: Real = 41, Imaginary = 55. Converted to real = 68.6003
+806: It is a fraction: Numerator = 38, Imaginary = 75. Converted to real = 0.506667
+807: It is a fraction: Numerator = 98, Imaginary = 76. Converted to real = 1.28947
+808: It is a polar number: Angle = 74, Radius = 68. Converted to real = 68
+809: It is a polar number: Angle = 25, Radius = 26. Converted to real = 26
+810: It is a polar number: Angle = 19, Radius = 26. Converted to real = 26
+811: It is Complex number: Real = 39, Imaginary = 71. Converted to real = 81.0062
+812: It is a fraction: Numerator = 78, Imaginary = 54. Converted to real = 1.44444
+813: It is a fraction: Numerator = 26, Imaginary = 28. Converted to real = 0.928571
+814: It is a fraction: Numerator = 60, Imaginary = 88. Converted to real = 0.681818
+815: It is a fraction: Numerator = 29, Imaginary = 10. Converted to real = 2.9
+816: It is a fraction: Numerator = 41, Imaginary = 100. Converted to real = 0.41
+817: It is a polar number: Angle = 26, Radius = 56. Converted to real = 56
+818: It is a polar number: Angle = 7, Radius = 53. Converted to real = 53
+819: It is a fraction: Numerator = 86, Imaginary = 54. Converted to real = 1.59259
+820: It is a polar number: Angle = 98, Radius = 81. Converted to real = 81
+821: It is Complex number: Real = 85, Imaginary = 44. Converted to real = 95.7131
+822: It is Complex number: Real = 90, Imaginary = 27. Converted to real = 93.9628
+823: It is Complex number: Real = 47, Imaginary = 99. Converted to real = 109.59
+824: It is a fraction: Numerator = 66, Imaginary = 1. Converted to real = 66
+825: It is Complex number: Real = 18, Imaginary = 45. Converted to real = 48.4665
+826: It is Complex number: Real = 26, Imaginary = 14. Converted to real = 29.5296
+827: It is a fraction: Numerator = 75, Imaginary = 92. Converted to real = 0.815217
+828: It is Complex number: Real = 10, Imaginary = 70. Converted to real = 70.7107
+829: It is a polar number: Angle = 24, Radius = 97. Converted to real = 97
+830: It is a fraction: Numerator = 87, Imaginary = 12. Converted to real = 7.25
+831: It is Complex number: Real = 71, Imaginary = 81. Converted to real = 107.713
+832: It is a polar number: Angle = 56, Radius = 73. Converted to real = 73
+833: It is Complex number: Real = 29, Imaginary = 33. Converted to real = 43.9318
+834: It is a fraction: Numerator = 51, Imaginary = 28. Converted to real = 1.82143
+835: It is a polar number: Angle = 63, Radius = 38. Converted to real = 38
+836: It is a fraction: Numerator = 3, Imaginary = 48. Converted to real = 0.0625
+837: It is a polar number: Angle = 17, Radius = 52. Converted to real = 52
+838: It is a polar number: Angle = 94, Radius = 24. Converted to real = 24
+839: It is Complex number: Real = 4, Imaginary = 8. Converted to real = 8.94427
+840: It is a polar number: Angle = 11, Radius = 87. Converted to real = 87
+841: It is a polar number: Angle = 72, Radius = 20. Converted to real = 20
+842: It is a polar number: Angle = 82, Radius = 90. Converted to real = 90
+843: It is Complex number: Real = 58, Imaginary = 18. Converted to real = 60.7289
+844: It is Complex number: Real = 50, Imaginary = 14. Converted to real = 51.923
+845: It is a fraction: Numerator = 41, Imaginary = 67. Converted to real = 0.61194
+846: It is a fraction: Numerator = 80, Imaginary = 89. Converted to real = 0.898876
+847: It is a fraction: Numerator = 57, Imaginary = 75. Converted to real = 0.76
+848: It is a polar number: Angle = 23, Radius = 60. Converted to real = 60
+849: It is Complex number: Real = 35, Imaginary = 56. Converted to real = 66.0379
+850: It is a polar number: Angle = 6, Radius = 17. Converted to real = 17
+851: It is a fraction: Numerator = 4, Imaginary = 14. Converted to real = 0.285714
+852: It is Complex number: Real = 8, Imaginary = 83. Converted to real = 83.3847
+853: It is a fraction: Numerator = 71, Imaginary = 60. Converted to real = 1.18333
+854: It is a fraction: Numerator = 38, Imaginary = 92. Converted to real = 0.413043
+855: It is a fraction: Numerator = 99, Imaginary = 68. Converted to real = 1.45588
+856: It is a polar number: Angle = 5, Radius = 20. Converted to real = 20
+857: It is a polar number: Angle = 13, Radius = 4. Converted to real = 4
+858: It is Complex number: Real = 48, Imaginary = 28. Converted to real = 55.5698
+859: It is Complex number: Real = 19, Imaginary = 32. Converted to real = 37.2156
+860: It is a fraction: Numerator = 72, Imaginary = 3. Converted to real = 24
+861: It is Complex number: Real = 30, Imaginary = 87. Converted to real = 92.0272
+862: It is a fraction: Numerator = 32, Imaginary = 48. Converted to real = 0.666667
+863: It is a fraction: Numerator = 22, Imaginary = 93. Converted to real = 0.236559
+864: It is Complex number: Real = 67, Imaginary = 19. Converted to real = 69.6419
+865: It is Complex number: Real = 30, Imaginary = 27. Converted to real = 40.3609
+866: It is a fraction: Numerator = 0, Imaginary = 80. Converted to real = 0
+867: It is a fraction: Numerator = 59, Imaginary = 71. Converted to real = 0.830986
+868: It is a polar number: Angle = 59, Radius = 42. Converted to real = 42
+869: It is Complex number: Real = 75, Imaginary = 78. Converted to real = 108.208
+870: It is a fraction: Numerator = 11, Imaginary = 13. Converted to real = 0.846154
+871: It is a fraction: Numerator = 92, Imaginary = 9. Converted to real = 10.2222
+872: It is a polar number: Angle = 94, Radius = 42. Converted to real = 42
+873: It is a polar number: Angle = 74, Radius = 35. Converted to real = 35
+874: It is Complex number: Real = 9, Imaginary = 55. Converted to real = 55.7315
+875: It is Complex number: Real = 30, Imaginary = 80. Converted to real = 85.44
+876: It is a fraction: Numerator = 53, Imaginary = 4. Converted to real = 13.25
+877: It is a fraction: Numerator = 72, Imaginary = 69. Converted to real = 1.04348
+878: It is a polar number: Angle = 76, Radius = 24. Converted to real = 24
+879: It is a polar number: Angle = 37, Radius = 40. Converted to real = 40
+880: It is Complex number: Real = 79, Imaginary = 23. Converted to real = 82.28
+881: It is Complex number: Real = 22, Imaginary = 38. Converted to real = 43.909
+882: It is Complex number: Real = 38, Imaginary = 92. Converted to real = 99.5389
+883: It is a polar number: Angle = 91, Radius = 55. Converted to real = 55
+884: It is a polar number: Angle = 34, Radius = 90. Converted to real = 90
+885: It is Complex number: Real = 83, Imaginary = 25. Converted to real = 86.6833
+886: It is a fraction: Numerator = 90, Imaginary = 99. Converted to real = 0.909091
+887: It is a fraction: Numerator = 56, Imaginary = 43. Converted to real = 1.30233
+888: It is a polar number: Angle = 17, Radius = 67. Converted to real = 67
+889: It is a fraction: Numerator = 28, Imaginary = 38. Converted to real = 0.736842
+890: It is a fraction: Numerator = 85, Imaginary = 38. Converted to real = 2.23684
+891: It is a polar number: Angle = 26, Radius = 1. Converted to real = 1
+892: It is Complex number: Real = 1, Imaginary = 43. Converted to real = 43.0116
+893: It is a polar number: Angle = 34, Radius = 77. Converted to real = 77
+894: It is a fraction: Numerator = 4, Imaginary = 97. Converted to real = 0.0412371
+895: It is a polar number: Angle = 77, Radius = 81. Converted to real = 81
+896: It is Complex number: Real = 19, Imaginary = 30. Converted to real = 35.5106
+897: It is a fraction: Numerator = 38, Imaginary = 60. Converted to real = 0.633333
+898: It is Complex number: Real = 64, Imaginary = 94. Converted to real = 113.719
+899: It is a fraction: Numerator = 67, Imaginary = 89. Converted to real = 0.752809
+900: It is Complex number: Real = 51, Imaginary = 99. Converted to real = 111.364
+901: It is Complex number: Real = 81, Imaginary = 65. Converted to real = 103.856
+902: It is Complex number: Real = 64, Imaginary = 45. Converted to real = 78.2368
+903: It is a fraction: Numerator = 10, Imaginary = 59. Converted to real = 0.169492
+904: It is a fraction: Numerator = 80, Imaginary = 43. Converted to real = 1.86047
+905: It is a polar number: Angle = 19, Radius = 63. Converted to real = 63
+906: It is a fraction: Numerator = 87, Imaginary = 93. Converted to real = 0.935484
+907: It is a polar number: Angle = 38, Radius = 51. Converted to real = 51
+908: It is Complex number: Real = 18, Imaginary = 8. Converted to real = 19.6977
+909: It is a fraction: Numerator = 25, Imaginary = 4. Converted to real = 6.25
+910: It is Complex number: Real = 0, Imaginary = 44. Converted to real = 44
+911: It is a fraction: Numerator = 86, Imaginary = 77. Converted to real = 1.11688
+912: It is a fraction: Numerator = 70, Imaginary = 92. Converted to real = 0.76087
+913: It is a polar number: Angle = 65, Radius = 85. Converted to real = 85
+914: It is a polar number: Angle = 20, Radius = 3. Converted to real = 3
+915: It is a polar number: Angle = 77, Radius = 93. Converted to real = 93
+916: It is a polar number: Angle = 57, Radius = 58. Converted to real = 58
+917: It is Complex number: Real = 8, Imaginary = 49. Converted to real = 49.6488
+918: It is Complex number: Real = 7, Imaginary = 13. Converted to real = 14.7648
+919: It is a fraction: Numerator = 54, Imaginary = 79. Converted to real = 0.683544
+920: It is a fraction: Numerator = 50, Imaginary = 95. Converted to real = 0.526316
+921: It is a polar number: Angle = 82, Radius = 16. Converted to real = 16
+922: It is Complex number: Real = 19, Imaginary = 99. Converted to real = 100.807
+923: It is a polar number: Angle = 33, Radius = 65. Converted to real = 65
+924: It is Complex number: Real = 60, Imaginary = 87. Converted to real = 105.683
+925: It is a fraction: Numerator = 92, Imaginary = 96. Converted to real = 0.958333
+926: It is Complex number: Real = 72, Imaginary = 17. Converted to real = 73.9797
+927: It is a fraction: Numerator = 66, Imaginary = 27. Converted to real = 2.44444
+928: It is a fraction: Numerator = 68, Imaginary = 7. Converted to real = 9.71429
+929: It is Complex number: Real = 53, Imaginary = 19. Converted to real = 56.3028
+930: It is a polar number: Angle = 7, Radius = 39. Converted to real = 39
+931: It is a polar number: Angle = 44, Radius = 66. Converted to real = 66
+932: It is a polar number: Angle = 98, Radius = 90. Converted to real = 90
+933: It is a polar number: Angle = 86, Radius = 73. Converted to real = 73
+934: It is a fraction: Numerator = 58, Imaginary = 65. Converted to real = 0.892308
+935: It is a polar number: Angle = 74, Radius = 34. Converted to real = 34
+936: It is Complex number: Real = 23, Imaginary = 1. Converted to real = 23.0217
+937: It is Complex number: Real = 86, Imaginary = 77. Converted to real = 115.434
+938: It is Complex number: Real = 26, Imaginary = 98. Converted to real = 101.39
+939: It is a polar number: Angle = 26, Radius = 20. Converted to real = 20
+940: It is a polar number: Angle = 97, Radius = 0. Converted to real = 0
+941: It is a polar number: Angle = 8, Radius = 79. Converted to real = 79
+942: It is Complex number: Real = 87, Imaginary = 25. Converted to real = 90.5207
+943: It is a polar number: Angle = 56, Radius = 26. Converted to real = 26
+944: It is a fraction: Numerator = 2, Imaginary = 67. Converted to real = 0.0298507
+945: It is a fraction: Numerator = 23, Imaginary = 65. Converted to real = 0.353846
+946: It is a polar number: Angle = 75, Radius = 49. Converted to real = 49
+947: It is a fraction: Numerator = 89, Imaginary = 77. Converted to real = 1.15584
+948: It is Complex number: Real = 26, Imaginary = 51. Converted to real = 57.2451
+949: It is a polar number: Angle = 22, Radius = 75. Converted to real = 75
+950: It is a polar number: Angle = 28, Radius = 71. Converted to real = 71
+951: It is a fraction: Numerator = 58, Imaginary = 3. Converted to real = 19.3333
+952: It is a fraction: Numerator = 47, Imaginary = 30. Converted to real = 1.56667
+953: It is Complex number: Real = 6, Imaginary = 49. Converted to real = 49.366
+954: It is a polar number: Angle = 37, Radius = 19. Converted to real = 19
+955: It is Complex number: Real = 77, Imaginary = 32. Converted to real = 83.3847
+956: It is a fraction: Numerator = 86, Imaginary = 41. Converted to real = 2.09756
+957: It is Complex number: Real = 31, Imaginary = 87. Converted to real = 92.358
+958: It is a fraction: Numerator = 59, Imaginary = 96. Converted to real = 0.614583
+959: It is a polar number: Angle = 11, Radius = 25. Converted to real = 25
+960: It is Complex number: Real = 75, Imaginary = 90. Converted to real = 117.154
+961: It is Complex number: Real = 0, Imaginary = 75. Converted to real = 75
+962: It is a fraction: Numerator = 28, Imaginary = 8. Converted to real = 3.5
+963: It is a fraction: Numerator = 12, Imaginary = 54. Converted to real = 0.222222
+964: It is Complex number: Real = 6, Imaginary = 2. Converted to real = 6.32456
+965: It is a fraction: Numerator = 34, Imaginary = 16. Converted to real = 2.125
+966: It is Complex number: Real = 10, Imaginary = 76. Converted to real = 76.6551
+967: It is Complex number: Real = 78, Imaginary = 31. Converted to real = 83.9345
+968: It is Complex number: Real = 45, Imaginary = 67. Converted to real = 80.7094
+969: It is a fraction: Numerator = 41, Imaginary = 68. Converted to real = 0.602941
+970: It is Complex number: Real = 75, Imaginary = 61. Converted to real = 96.6747
+971: It is Complex number: Real = 75, Imaginary = 92. Converted to real = 118.697
+972: It is a polar number: Angle = 84, Radius = 19. Converted to real = 19
+973: It is a polar number: Angle = 98, Radius = 50. Converted to real = 50
+974: It is Complex number: Real = 71, Imaginary = 92. Converted to real = 116.211
+975: It is a fraction: Numerator = 58, Imaginary = 80. Converted to real = 0.725
+976: It is a fraction: Numerator = 25, Imaginary = 58. Converted to real = 0.431034
+977: It is a polar number: Angle = 33, Radius = 47. Converted to real = 47
+978: It is Complex number: Real = 36, Imaginary = 50. Converted to real = 61.6117
+979: It is a polar number: Angle = 60, Radius = 31. Converted to real = 31
+980: It is Complex number: Real = 30, Imaginary = 39. Converted to real = 49.2037
+981: It is a polar number: Angle = 62, Radius = 81. Converted to real = 81
+982: It is a polar number: Angle = 56, Radius = 38. Converted to real = 38
+983: It is a polar number: Angle = 25, Radius = 7. Converted to real = 7
+984: It is a fraction: Numerator = 78, Imaginary = 49. Converted to real = 1.59184
+985: It is Complex number: Real = 52, Imaginary = 10. Converted to real = 52.9528
+986: It is Complex number: Real = 15, Imaginary = 46. Converted to real = 48.3839
+987: It is a polar number: Angle = 59, Radius = 93. Converted to real = 93
+988: It is Complex number: Real = 98, Imaginary = 71. Converted to real = 121.017
+989: It is a fraction: Numerator = 19, Imaginary = 6. Converted to real = 3.16667
+990: It is Complex number: Real = 61, Imaginary = 30. Converted to real = 67.9779
+991: It is a polar number: Angle = 7, Radius = 30. Converted to real = 30
+992: It is a polar number: Angle = 65, Radius = 19. Converted to real = 19
+993: It is a fraction: Numerator = 23, Imaginary = 46. Converted to real = 0.5
+994: It is Complex number: Real = 24, Imaginary = 76. Converted to real = 79.6994
+995: It is a polar number: Angle = 55, Radius = 77. Converted to real = 77
+996: It is a polar number: Angle = 1, Radius = 34. Converted to real = 34
+997: It is Complex number: Real = 62, Imaginary = 56. Converted to real = 83.5464
+998: It is Complex number: Real = 84, Imaginary = 12. Converted to real = 84.8528
+999: It is Complex number: Real = 34, Imaginary = 39. Converted to real = 51.7397

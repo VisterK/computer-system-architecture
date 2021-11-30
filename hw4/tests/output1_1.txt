@@ -1,0 +1,14 @@
+Filled container:
+Container contains 4 elements.
+0: It is Complex: x = 2, y = 5.
+ Converted to Real = 29
+
+1: It is Polar: a = 5, b = 6.
+ Converted to Real = 6
+
+2: It is Complex: x = 4, y = 7.
+ Converted to Real = 65
+
+3: It is Fraction: a = 10, b = 30.
+ Converted to Real = 0.333333
+

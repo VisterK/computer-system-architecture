@@ -1,0 +1,22 @@
+Container contains 7 elements.
+0: It is Fraction: a = 5, b = 1.
+ Converted to Real = 5
+
+1: It is Fraction: a = 100, b = 20.
+ Converted to Real = 5
+
+2: It is Polar: a = 0, b = 5.
+ Converted to Real = 5
+
+3: It is Polar: a = 1, b = 5.
+ Converted to Real = 5
+
+4: It is Polar: a = 4, b = 5.
+ Converted to Real = 5
+
+5: It is Fraction: a = 20, b = 4.
+ Converted to Real = 5
+
+6: It is Complex: x = 3, y = 4.
+ Converted to Real = 25
+
