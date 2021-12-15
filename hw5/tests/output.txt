@@ -1,0 +1,7 @@
+Person a is in room #1
+Person b is in room #2
+Person c is in room #1
+Person d is in room #3
+Person e is in room #4
+Person George is in room #1
+Person Steven is in room #5
